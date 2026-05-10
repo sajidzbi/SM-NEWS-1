@@ -1,6 +1,6 @@
 
 # ═══════════════════════════════════════════════
-#  SM News — GitHub Actions Workflow
+#  SM-NEWS-1 — GitHub Actions Workflow
 #  ہر گھنٹے خبریں fetch کرتا ہے
 #  Dr. Sajid Mahmood | Hazara University Mansehra
 # ═══════════════════════════════════════════════
@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit and push news.json
         run: |
-          git config user.name  "SM News Bot"
-          git config user.email "bot@sm-news.github.io"
+          git config user.name  "SM News 1 Bot"
+          git config user.email "bot@sm-news1.github.io"
           git add news.json
           git diff --cached --quiet || git commit -m "📰 Update news - $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
