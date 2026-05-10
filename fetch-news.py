@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ═══════════════════════════════════════════════════════
-#  SM News — GitHub Actions RSS Fetcher
+#  SM News 1 — GitHub Actions RSS Fetcher
 #  Dr. Sajid Mahmood | Hazara University Mansehra
 #  چلتا ہے: ہر گھنٹے (GitHub Actions)
 #  نتیجہ:   news.json فائل بناتا ہے
@@ -92,7 +92,7 @@ ctx.verify_mode = ssl.CERT_NONE
 # ── Helpers ──────────────────────────────────────────────
 def fetch_url(url, timeout=12):
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 SMNewsBot/2.0"})
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 SMNews1Bot/2.0"})
         with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
             raw = r.read()
             for enc in ("utf-8", "utf-8-sig", "cp1256", "iso-8859-1"):
@@ -194,7 +194,7 @@ def fetch_category(cat, sources):
 # ── MAIN ─────────────────────────────────────────────────
 def main():
     print("=" * 55)
-    print("SM News Fetcher — Dr. Sajid Mahmood")
+    print("SM News 1 Fetcher — Dr. Sajid Mahmood")
     print("=" * 55)
 
     output = {
