@@ -1,7 +1,47 @@
 {
-  "fetched": "2026-05-26T23:01:14.604784+00:00",
+  "fetched": "2026-05-27T02:32:34.698423+00:00",
   "categories": {
     "international": [
+      {
+        "title": "New airline South Air operates trial flight to Gwadar",
+        "summary": "<p>QUETTA: In a significant boost to Gwadar’s air connectivity, private airline South Air has launched its first trial flight service from Karachi to Gwadar.</p> <p>The trial flight successfully landed at the New Gwadar International Air­port, marking a key step towards improving air tra­vel facilities in the coastal r",
+        "url": "https://www.dawn.com/news/2003365/new-airline-south-air-operates-trial-flight-to-gwadar",
+        "source": "Dawn",
+        "date": "2026-05-27T07:29:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Iran vows not to let aggression go unanswered after US violates truce",
+        "summary": "<p>• Washington says strikes targeted Iranian missile sites, mine-laying boats<br>• Rubio says Iran deal may take ‘a few days’; insists Hormuz will reopen ‘one way or the other’<br>• Iran says US drone downed, F-35 fired at; tanker damaged by external explosion off Oman<br>• Trump to hold Camp David cabinet meeting on ",
+        "url": "https://www.dawn.com/news/2003367/iran-vows-not-to-let-aggression-go-unanswered-after-us-violates-truce",
+        "source": "Dawn",
+        "date": "2026-05-27T07:25:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "summary": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "url": "https://arynews.tv/telesat-discusses-satellite-services-with-italy",
+        "source": "ARY News",
+        "date": "2026-05-27T07:00:36+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Telesat.jpg"
+      },
+      {
+        "title": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "summary": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "url": "https://arynews.tv/i-squared-makes-bold-move-in-ai-infrastructure",
+        "source": "ARY News",
+        "date": "2026-05-27T06:00:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/I-Squared.jpg"
+      },
+      {
+        "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "summary": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "url": "https://arynews.tv/spacex-and-the-risks-of-high-valuation-ipos",
+        "source": "ARY News",
+        "date": "2026-05-27T05:00:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Space.jpg"
+      },
       {
         "title": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "summary": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
@@ -9,6 +49,22 @@
         "source": "ARY News",
         "date": "2026-05-27T03:00:38+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/American.jpg"
+      },
+      {
+        "title": "جنگ کے خاتمے کے لیے ’باوقار فریم ورک‘ کے حصول کے لیے تیار ہیں: ایرانی صدر",
+        "summary": "ایرانی خبر رساں ادارے کے مطابق صدر پزشکیان کا مزید کہنا تھا کہ ’ایران نے ہمیشہ سفارت کاری کے اصولوں اور معاہدوں کی روح کی پاسداری کی ہے۔ اب وقت آ گیا ہے کہ دوسرا فریق بھی اپنے قول و فعل دونوں سے بین الاقوامی وعدوں کی پاسداری کرے۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/c202dwvzg04t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-27T02:32:36.770756+00:00",
+        "img": ""
+      },
+      {
+        "title": "حضرت ابراہیم کی ’بڑی آزمائش‘: قربانی کا تصور اسلام، یہودیت اور مسیحیت میں",
+        "summary": "اسلام کے مذہبی عالم جاوید احمد غامدی کی تحقیق ہے کہ قربانی کی تاریخ پہلے انسان حضرت آدم سے شروع ہوتی ہے جو ایک آزمائش ہے اور اس کا مقصد خدا کی شکر گزاری ہے۔",
+        "url": "https://www.bbc.com/urdu/articles/c0r1yz224n0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-27T02:11:49+00:00",
+        "img": ""
       },
       {
         "title": "Morocco picks Nayef Aguerd for World Cup despite injury concerns",
@@ -123,14 +179,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Jalalpur.jpg"
       },
       {
-        "title": "جنگ کے خاتمے کے لیے ’باوقار فریم ورک‘ کے حصول کے لیے تیار ہیں: ایرانی صدر",
-        "summary": "ایرانی خبر رساں ادارے کے مطابق صدر پزشکیان کا مزید کہنا تھا کہ ’ایران نے ہمیشہ سفارت کاری کے اصولوں اور معاہدوں کی روح کی پاسداری کی ہے۔ اب وقت آ گیا ہے کہ دوسرا فریق بھی اپنے قول و فعل دونوں سے بین الاقوامی وعدوں کی پاسداری کرے۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/c202dwvzg04t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-26T23:01:17.590257+00:00",
-        "img": ""
-      },
-      {
         "title": "At least one killed, 11 injured as earthquake damages houses in Punjab’s Jhelum district",
         "summary": "<p>JEHLUM: At least one person was killed and 11 others were injured after several houses were seriously damaged following a reported earthquake in Jhelum’s Pind Dadan Khan tehsil on Tuesday, the area administration said.</p> <p>According to Jhelum Deputy Commissioner Mir Reza Ozgen, the earthquake was reported in the ",
         "url": "https://www.dawn.com/news/2003299/at-least-one-killed-11-injured-as-earthquake-damages-houses-in-punjabs-jhelum-district",
@@ -145,14 +193,6 @@
         "source": "ARY News",
         "date": "2026-05-26T22:29:04+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/John-Snow.jpg"
-      },
-      {
-        "title": "Pakistan stresses need for restraint, de-escalation in Iran-US conflict",
-        "summary": "<p>UNITED NATIONS: Pakistan on Tuesday used the United Nations Security Council (UNSC) to push for sustained diplomacy in the ongoing United States-Iran crisis, with Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar highlighting Islamabad’s role in efforts aimed at reducing tensions between Tehran and Washi",
-        "url": "https://www.dawn.com/news/2003210/pakistan-stresses-need-for-restraint-de-escalation-in-iran-us-conflict",
-        "source": "Dawn",
-        "date": "2026-05-26T22:20:19+05:00",
-        "img": ""
       },
       {
         "title": "Abrar-ul-Haq drops spiritual advice for hopeless Gen Z",
@@ -217,30 +257,6 @@
         "source": "ARY News",
         "date": "2026-05-26T21:25:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Paul.jpg"
-      },
-      {
-        "title": "Salman Khan Instagram account suspension: What actually happened?",
-        "summary": "Salman Khan Instagram account suspension: What actually happened?",
-        "url": "https://arynews.tv/salman-khan-instagram-account-suspension-what-actually-happened",
-        "source": "ARY News",
-        "date": "2026-05-26T21:11:40+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-29.jpg"
-      },
-      {
-        "title": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "summary": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "url": "https://arynews.tv/the-gilded-age-season-4-confirmed-for-2026-return",
-        "source": "ARY News",
-        "date": "2026-05-26T21:01:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/The-Gilded-Age.jpg"
-      },
-      {
-        "title": "Starbucks sees sharp drop in Korea sales",
-        "summary": "Starbucks sees sharp drop in Korea sales",
-        "url": "https://arynews.tv/starbucks-sees-sharp-drop-in-korea-sales",
-        "source": "ARY News",
-        "date": "2026-05-26T20:43:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Starbucks.jpg"
       },
       {
         "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
@@ -352,14 +368,6 @@
         "url": "https://www.bbc.com/urdu/articles/c62660z85j1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-05-26T15:47:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "The dancing gorilla has gone from a viral gag to a cultural fixture",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2002556/society-dances-with-the-gorilla\">https://www.dawn.com/news/2002556/society-dances-with-the-gorilla</a></p>",
-        "url": "https://www.dawn.com/news/2003240/the-dancing-gorilla-has-gone-from-a-viral-gag-to-a-cultural-fixture",
-        "source": "Dawn",
-        "date": "2026-05-26T14:19:32+05:00",
         "img": ""
       },
       {
@@ -491,6 +499,14 @@
         "img": ""
       },
       {
+        "title": "’ایسا لگا جیسے فضا سے بمباری کی گئی ہو‘: کوئٹہ میں شٹل ٹرین پر خودکش حملے کے عینی شاہدین نے کیا دیکھا؟",
+        "summary": "صحافی عرفان رانا ان لوگوں میں شامل تھے جو دھماکے کے بعد سب سے پہلے وہاں پہنچ گئے تھے۔ انھوں نے بی بی سی کو بتایا کہ بظاہر بہت زیادہ بارودی مواد استعمال کیا گیا تھا کیونکہ ریل کی پٹڑی کے ساتھ واقع بہت سے گھروں اور گاڑیوں کو بھی نقصان پہنچا ہے۔",
+        "url": "https://www.bbc.com/urdu/articles/ceqpp54x1xgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-25T11:12:57+00:00",
+        "img": ""
+      },
+      {
         "title": "جلی ہوئی دیواریں اور راکھ سے بھرے گھر: جیکب آباد میں محبت کی شادی پر پورا گاؤں جلا دینے کا الزام",
         "summary": "گاؤں میں تباہی کے مناظر مئی میں دیکھے گئے۔ تاہم اس کہانی کو سمجھنے کے لیے ہمیں ذرا پیچھے جانا ہو گا، جب کراچی میں زیر تعلیم حسن برڑو اور سدرہ چنا نے حیدرآباد جا کر کورٹ میرج کر کے ویڈیو جاری کی تھی۔ پیر کو سندھ اسمبلی میں اس واقعے پر مذمتی قرارداد منظور کی گئی جس میں تمام ملوث افراد کے خلاف کارروائی کا مطالبہ کیا گیا ہ",
         "url": "https://www.bbc.com/urdu/articles/cwy2d2zkee8o?at_medium=RSS&amp;at_campaign=rss",
@@ -515,27 +531,11 @@
         "img": ""
       },
       {
-        "title": "اسماعیلی برادری کے 50ویں امام شہزادہ رحیم الحسینی کا دورہ پاکستان: ’پہلی مرتبہ امامِ حاضر کا دیدار ہوا، ہماری تو عید ہو گئی‘",
-        "summary": "اسماعیلی شیعہ روایت میں ’حاضر امام‘ کے دیدار کا تجربہ جسمانی (فزیکلی) اور روحانی دونوں طور پر کیا جا سکتا ہے۔ جسمانی دیدار سے مراد وہ موقع ہیں جب اسماعیلی برادری سے تعلق رکھنے والے افراد کو یہ سعادت حاصل ہوتی ہے کہ وہ اپنے دور کے اسماعیلی امام کی موجودگی میں براہ راست اُن کی زیارت کریں۔",
-        "url": "https://www.bbc.com/urdu/articles/c4g54z24prpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-23T07:57:51+00:00",
-        "img": ""
-      },
-      {
         "title": "’میرا بیٹا ڈاکٹر بننے پاکستان گیا تھا‘: مظفرآباد میں قتل ہونے والے حمزہ کو انڈیا کے زیرِ انتظام کشمیر میں عسکریت پسندی سے کیوں جوڑا جا رہا ہے؟",
         "summary": "پولیس کے مطابق ’حمزہ اپنے کچھ دوستوں کے ساتھ کالج سے باہر آئے تھے اور بات چیت کے بعد جب وہ واپس کالج کے اندر جا رہے تھے تو اُن کی پیٹھ پر پہلا فائر کیا گیا، جس کے بعد مزید فائرنگ کی گئی جس میں ایک گولی اُن کے سر میں لگی تھی۔‘",
         "url": "https://www.bbc.com/urdu/articles/ce8p2m56e37o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-05-22T11:40:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "عمران خان دور میں 50 لاکھ گھر کیوں نہ بن سکے اور شہباز شریف کی ’اپنا گھر سکیم‘ سے کس کو فائدہ ہو گا؟",
-        "summary": "حال ہی میں پاکستان کے وزیر اعظم شہباز شریف کی ’اپنا گھر سکیم‘ کے تحت مڈل کلاس طبقے کے لیے پہلے سال میں 50 ہزار گھروں کی فراہمی کا وعدہ کیا گیا۔ کیا اس بار آسان شرائط پر قرض دینے کی سکیم ہاؤسنگ کے بحران کا حل ثابت ہو گی یا پھر یہ محض ایک سیاسی نعرہ ہے؟",
-        "url": "https://www.bbc.com/urdu/articles/cz92vd5yv4no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-22T03:22:57+00:00",
         "img": ""
       },
       {
@@ -564,6 +564,30 @@
       }
     ],
     "national": [
+      {
+        "title": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "summary": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "url": "https://arynews.tv/telesat-discusses-satellite-services-with-italy",
+        "source": "ARY News",
+        "date": "2026-05-27T07:00:36+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Telesat.jpg"
+      },
+      {
+        "title": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "summary": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "url": "https://arynews.tv/i-squared-makes-bold-move-in-ai-infrastructure",
+        "source": "ARY News",
+        "date": "2026-05-27T06:00:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/I-Squared.jpg"
+      },
+      {
+        "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "summary": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "url": "https://arynews.tv/spacex-and-the-risks-of-high-valuation-ipos",
+        "source": "ARY News",
+        "date": "2026-05-27T05:00:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Space.jpg"
+      },
       {
         "title": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "summary": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
@@ -661,6 +685,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ella-Langley.jpg"
       },
       {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
         "title": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "summary": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "url": "https://arynews.tv/ireland-to-ban-goods-from-israeli-settlements-in-west-bank-by-july",
@@ -685,12 +717,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/UK-2.jpg"
       },
       {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
         "title": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "summary": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "url": "https://arynews.tv/12-year-old-killed-9-injured-as-4-7-magnitude-earthquake-jolts-parts-of-punjab",
         "source": "ARY News",
         "date": "2026-05-26T23:23:41+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Jalalpur.jpg"
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
+        "img": ""
       },
       {
         "title": "At least one killed, 11 injured as earthquake damages houses in Punjab’s Jhelum district",
@@ -773,30 +845,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Paul.jpg"
       },
       {
-        "title": "Salman Khan Instagram account suspension: What actually happened?",
-        "summary": "Salman Khan Instagram account suspension: What actually happened?",
-        "url": "https://arynews.tv/salman-khan-instagram-account-suspension-what-actually-happened",
-        "source": "ARY News",
-        "date": "2026-05-26T21:11:40+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-29.jpg"
-      },
-      {
-        "title": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "summary": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "url": "https://arynews.tv/the-gilded-age-season-4-confirmed-for-2026-return",
-        "source": "ARY News",
-        "date": "2026-05-26T21:01:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/The-Gilded-Age.jpg"
-      },
-      {
-        "title": "Starbucks sees sharp drop in Korea sales",
-        "summary": "Starbucks sees sharp drop in Korea sales",
-        "url": "https://arynews.tv/starbucks-sees-sharp-drop-in-korea-sales",
-        "source": "ARY News",
-        "date": "2026-05-26T20:43:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Starbucks.jpg"
-      },
-      {
         "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
         "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
         "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
@@ -813,6 +861,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
         "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
         "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
         "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
@@ -821,11 +877,27 @@
         "img": ""
       },
       {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بیلجیئم میں تیز رفتار ٹرین نے منی بس کو کچل دیا؛ 4 ہلاکتیں اور 5 زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -909,27 +981,11 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
         "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
         "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
+        "date": "2026-05-26T15:00:27+00:00",
         "img": ""
       },
       {
@@ -989,38 +1045,6 @@
         "img": ""
       },
       {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
         "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
         "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
@@ -1029,35 +1053,11 @@
         "img": ""
       },
       {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
-        "img": ""
-      },
-      {
         "title": "Three-month-long summer vacation announced for schools in KP",
         "summary": "<p>PESHAWAR: The elementary and secondary education department on Monday announced the summer vacation for government and private schools and, for the first time, declared that holding summer camps would be mandatory in June.</p> <p>According to a notification issued by the department, the summer vacation for primary s",
         "url": "https://www.dawn.com/news/2003189/three-month-long-summer-vacation-announced-for-schools-in-kp",
         "source": "Dawn",
         "date": "2026-05-26T09:39:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
         "img": ""
       },
       {
@@ -1167,6 +1167,38 @@
     ],
     "kpk": [
       {
+        "title": "New airline South Air operates trial flight to Gwadar",
+        "summary": "<p>QUETTA: In a significant boost to Gwadar’s air connectivity, private airline South Air has launched its first trial flight service from Karachi to Gwadar.</p> <p>The trial flight successfully landed at the New Gwadar International Air­port, marking a key step towards improving air tra­vel facilities in the coastal r",
+        "url": "https://www.dawn.com/news/2003365/new-airline-south-air-operates-trial-flight-to-gwadar",
+        "source": "Dawn",
+        "date": "2026-05-27T07:29:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "summary": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "url": "https://arynews.tv/telesat-discusses-satellite-services-with-italy",
+        "source": "ARY News",
+        "date": "2026-05-27T07:00:36+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Telesat.jpg"
+      },
+      {
+        "title": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "summary": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "url": "https://arynews.tv/i-squared-makes-bold-move-in-ai-infrastructure",
+        "source": "ARY News",
+        "date": "2026-05-27T06:00:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/I-Squared.jpg"
+      },
+      {
+        "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "summary": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "url": "https://arynews.tv/spacex-and-the-risks-of-high-valuation-ipos",
+        "source": "ARY News",
+        "date": "2026-05-27T05:00:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Space.jpg"
+      },
+      {
         "title": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "summary": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "url": "https://arynews.tv/american-airlines-to-upgrade-in-flight-wi-fi",
@@ -1263,6 +1295,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ella-Langley.jpg"
       },
       {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
         "title": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "summary": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "url": "https://arynews.tv/ireland-to-ban-goods-from-israeli-settlements-in-west-bank-by-july",
@@ -1287,12 +1327,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/UK-2.jpg"
       },
       {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
         "title": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "summary": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "url": "https://arynews.tv/12-year-old-killed-9-injured-as-4-7-magnitude-earthquake-jolts-parts-of-punjab",
         "source": "ARY News",
         "date": "2026-05-26T23:23:41+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Jalalpur.jpg"
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
+        "img": ""
       },
       {
         "title": "At least one killed, 11 injured as earthquake damages houses in Punjab’s Jhelum district",
@@ -1375,30 +1455,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Paul.jpg"
       },
       {
-        "title": "Salman Khan Instagram account suspension: What actually happened?",
-        "summary": "Salman Khan Instagram account suspension: What actually happened?",
-        "url": "https://arynews.tv/salman-khan-instagram-account-suspension-what-actually-happened",
-        "source": "ARY News",
-        "date": "2026-05-26T21:11:40+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-29.jpg"
-      },
-      {
-        "title": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "summary": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "url": "https://arynews.tv/the-gilded-age-season-4-confirmed-for-2026-return",
-        "source": "ARY News",
-        "date": "2026-05-26T21:01:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/The-Gilded-Age.jpg"
-      },
-      {
-        "title": "Starbucks sees sharp drop in Korea sales",
-        "summary": "Starbucks sees sharp drop in Korea sales",
-        "url": "https://arynews.tv/starbucks-sees-sharp-drop-in-korea-sales",
-        "source": "ARY News",
-        "date": "2026-05-26T20:43:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Starbucks.jpg"
-      },
-      {
         "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
         "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
         "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
@@ -1415,6 +1471,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
         "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
         "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
         "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
@@ -1423,11 +1487,27 @@
         "img": ""
       },
       {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بیلجیئم میں تیز رفتار ٹرین نے منی بس کو کچل دیا؛ 4 ہلاکتیں اور 5 زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -1511,27 +1591,11 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
         "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
         "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
+        "date": "2026-05-26T15:00:27+00:00",
         "img": ""
       },
       {
@@ -1591,59 +1655,11 @@
         "img": ""
       },
       {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
         "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
         "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
         "source": "Dawn",
         "date": "2026-05-26T10:23:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
         "img": ""
       },
       {
@@ -1668,14 +1684,6 @@
         "url": "https://www.dawn.com/news/2003189/three-month-long-summer-vacation-announced-for-schools-in-kp",
         "source": "Dawn",
         "date": "2026-05-26T09:39:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
         "img": ""
       },
       {
@@ -1732,14 +1740,6 @@
         "url": "https://www.dawn.com/news/2003073/unidentified-people-damage-various-bus-stops-in-rawalpindi",
         "source": "Dawn",
         "date": "2026-05-26T08:46:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "Punjab govt launches school summer camps in 12 districts",
-        "summary": "<p>LAHORE: The Punjab government has launched eight-week summer learning camps under the Taleem Programme in 12 districts of the province, starting from June 2, to provide continued academic support to students during the summer vacations.</p> <p>According to a notification issued by the School Education Department, a ",
-        "url": "https://www.dawn.com/news/2003178/punjab-govt-launches-school-summer-camps-in-12-districts",
-        "source": "Dawn",
-        "date": "2026-05-26T08:42:33+05:00",
         "img": ""
       },
       {
@@ -1849,11 +1849,67 @@
     ],
     "punjab": [
       {
+        "title": "New airline South Air operates trial flight to Gwadar",
+        "summary": "<p>QUETTA: In a significant boost to Gwadar’s air connectivity, private airline South Air has launched its first trial flight service from Karachi to Gwadar.</p> <p>The trial flight successfully landed at the New Gwadar International Air­port, marking a key step towards improving air tra­vel facilities in the coastal r",
+        "url": "https://www.dawn.com/news/2003365/new-airline-south-air-operates-trial-flight-to-gwadar",
+        "source": "Dawn",
+        "date": "2026-05-27T07:29:21+05:00",
+        "img": ""
+      },
+      {
         "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
         "summary": "<p>The Punjab Home Department on Tuesday issued a list of banned and monitored organisations ahead of Eidul Azha, urging citizens not to donate sacrificial animal hides to such groups or their affiliated organisations.</p> <p>According to a spokesperson for the department, “Providing any kind of assistance to banned or",
         "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
         "source": "Dawn",
         "date": "2026-05-27T00:01:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
         "img": ""
       },
       {
@@ -1897,6 +1953,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
         "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
         "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
         "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
@@ -1905,11 +1969,27 @@
         "img": ""
       },
       {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بیلجیئم میں تیز رفتار ٹرین نے منی بس کو کچل دیا؛ 4 ہلاکتیں اور 5 زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -1993,27 +2073,11 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
         "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
         "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
+        "date": "2026-05-26T15:00:27+00:00",
         "img": ""
       },
       {
@@ -2073,38 +2137,6 @@
         "img": ""
       },
       {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
         "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
         "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
@@ -2113,35 +2145,11 @@
         "img": ""
       },
       {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
-        "img": ""
-      },
-      {
         "title": "Three-month-long summer vacation announced for schools in KP",
         "summary": "<p>PESHAWAR: The elementary and secondary education department on Monday announced the summer vacation for government and private schools and, for the first time, declared that holding summer camps would be mandatory in June.</p> <p>According to a notification issued by the department, the summer vacation for primary s",
         "url": "https://www.dawn.com/news/2003189/three-month-long-summer-vacation-announced-for-schools-in-kp",
         "source": "Dawn",
         "date": "2026-05-26T09:39:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
         "img": ""
       },
       {
@@ -2174,14 +2182,6 @@
         "url": "https://www.dawn.com/news/2003073/unidentified-people-damage-various-bus-stops-in-rawalpindi",
         "source": "Dawn",
         "date": "2026-05-26T08:46:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "Punjab govt launches school summer camps in 12 districts",
-        "summary": "<p>LAHORE: The Punjab government has launched eight-week summer learning camps under the Taleem Programme in 12 districts of the province, starting from June 2, to provide continued academic support to students during the summer vacations.</p> <p>According to a notification issued by the School Education Department, a ",
-        "url": "https://www.dawn.com/news/2003178/punjab-govt-launches-school-summer-camps-in-12-districts",
-        "source": "Dawn",
-        "date": "2026-05-26T08:42:33+05:00",
         "img": ""
       },
       {
@@ -2251,11 +2251,67 @@
     ],
     "sindh": [
       {
+        "title": "New airline South Air operates trial flight to Gwadar",
+        "summary": "<p>QUETTA: In a significant boost to Gwadar’s air connectivity, private airline South Air has launched its first trial flight service from Karachi to Gwadar.</p> <p>The trial flight successfully landed at the New Gwadar International Air­port, marking a key step towards improving air tra­vel facilities in the coastal r",
+        "url": "https://www.dawn.com/news/2003365/new-airline-south-air-operates-trial-flight-to-gwadar",
+        "source": "Dawn",
+        "date": "2026-05-27T07:29:21+05:00",
+        "img": ""
+      },
+      {
         "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
         "summary": "<p>The Punjab Home Department on Tuesday issued a list of banned and monitored organisations ahead of Eidul Azha, urging citizens not to donate sacrificial animal hides to such groups or their affiliated organisations.</p> <p>According to a spokesperson for the department, “Providing any kind of assistance to banned or",
         "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
         "source": "Dawn",
         "date": "2026-05-27T00:01:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
         "img": ""
       },
       {
@@ -2299,6 +2355,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
         "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
         "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
         "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
@@ -2307,11 +2371,27 @@
         "img": ""
       },
       {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بیلجیئم میں تیز رفتار ٹرین نے منی بس کو کچل دیا؛ 4 ہلاکتیں اور 5 زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -2395,27 +2475,11 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
         "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
         "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
+        "date": "2026-05-26T15:00:27+00:00",
         "img": ""
       },
       {
@@ -2475,38 +2539,6 @@
         "img": ""
       },
       {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
         "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
         "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
@@ -2515,35 +2547,11 @@
         "img": ""
       },
       {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
-        "img": ""
-      },
-      {
         "title": "Three-month-long summer vacation announced for schools in KP",
         "summary": "<p>PESHAWAR: The elementary and secondary education department on Monday announced the summer vacation for government and private schools and, for the first time, declared that holding summer camps would be mandatory in June.</p> <p>According to a notification issued by the department, the summer vacation for primary s",
         "url": "https://www.dawn.com/news/2003189/three-month-long-summer-vacation-announced-for-schools-in-kp",
         "source": "Dawn",
         "date": "2026-05-26T09:39:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
         "img": ""
       },
       {
@@ -2576,14 +2584,6 @@
         "url": "https://www.dawn.com/news/2003073/unidentified-people-damage-various-bus-stops-in-rawalpindi",
         "source": "Dawn",
         "date": "2026-05-26T08:46:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "Punjab govt launches school summer camps in 12 districts",
-        "summary": "<p>LAHORE: The Punjab government has launched eight-week summer learning camps under the Taleem Programme in 12 districts of the province, starting from June 2, to provide continued academic support to students during the summer vacations.</p> <p>According to a notification issued by the School Education Department, a ",
-        "url": "https://www.dawn.com/news/2003178/punjab-govt-launches-school-summer-camps-in-12-districts",
-        "source": "Dawn",
-        "date": "2026-05-26T08:42:33+05:00",
         "img": ""
       },
       {
@@ -2653,6 +2653,38 @@
     ],
     "baloch": [
       {
+        "title": "New airline South Air operates trial flight to Gwadar",
+        "summary": "<p>QUETTA: In a significant boost to Gwadar’s air connectivity, private airline South Air has launched its first trial flight service from Karachi to Gwadar.</p> <p>The trial flight successfully landed at the New Gwadar International Air­port, marking a key step towards improving air tra­vel facilities in the coastal r",
+        "url": "https://www.dawn.com/news/2003365/new-airline-south-air-operates-trial-flight-to-gwadar",
+        "source": "Dawn",
+        "date": "2026-05-27T07:29:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "summary": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "url": "https://arynews.tv/telesat-discusses-satellite-services-with-italy",
+        "source": "ARY News",
+        "date": "2026-05-27T07:00:36+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Telesat.jpg"
+      },
+      {
+        "title": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "summary": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "url": "https://arynews.tv/i-squared-makes-bold-move-in-ai-infrastructure",
+        "source": "ARY News",
+        "date": "2026-05-27T06:00:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/I-Squared.jpg"
+      },
+      {
+        "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "summary": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "url": "https://arynews.tv/spacex-and-the-risks-of-high-valuation-ipos",
+        "source": "ARY News",
+        "date": "2026-05-27T05:00:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Space.jpg"
+      },
+      {
         "title": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "summary": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "url": "https://arynews.tv/american-airlines-to-upgrade-in-flight-wi-fi",
@@ -2749,6 +2781,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ella-Langley.jpg"
       },
       {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
         "title": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "summary": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "url": "https://arynews.tv/ireland-to-ban-goods-from-israeli-settlements-in-west-bank-by-july",
@@ -2773,12 +2813,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/UK-2.jpg"
       },
       {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
         "title": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "summary": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "url": "https://arynews.tv/12-year-old-killed-9-injured-as-4-7-magnitude-earthquake-jolts-parts-of-punjab",
         "source": "ARY News",
         "date": "2026-05-26T23:23:41+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Jalalpur.jpg"
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
+        "img": ""
       },
       {
         "title": "At least one killed, 11 injured as earthquake damages houses in Punjab’s Jhelum district",
@@ -2861,30 +2941,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Paul.jpg"
       },
       {
-        "title": "Salman Khan Instagram account suspension: What actually happened?",
-        "summary": "Salman Khan Instagram account suspension: What actually happened?",
-        "url": "https://arynews.tv/salman-khan-instagram-account-suspension-what-actually-happened",
-        "source": "ARY News",
-        "date": "2026-05-26T21:11:40+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-29.jpg"
-      },
-      {
-        "title": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "summary": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "url": "https://arynews.tv/the-gilded-age-season-4-confirmed-for-2026-return",
-        "source": "ARY News",
-        "date": "2026-05-26T21:01:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/The-Gilded-Age.jpg"
-      },
-      {
-        "title": "Starbucks sees sharp drop in Korea sales",
-        "summary": "Starbucks sees sharp drop in Korea sales",
-        "url": "https://arynews.tv/starbucks-sees-sharp-drop-in-korea-sales",
-        "source": "ARY News",
-        "date": "2026-05-26T20:43:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Starbucks.jpg"
-      },
-      {
         "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
         "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
         "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
@@ -2901,6 +2957,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
         "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
         "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
         "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
@@ -2909,11 +2973,27 @@
         "img": ""
       },
       {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بیلجیئم میں تیز رفتار ٹرین نے منی بس کو کچل دیا؛ 4 ہلاکتیں اور 5 زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -2997,27 +3077,11 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
         "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
         "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
+        "date": "2026-05-26T15:00:27+00:00",
         "img": ""
       },
       {
@@ -3077,38 +3141,6 @@
         "img": ""
       },
       {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
         "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
         "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
@@ -3117,35 +3149,11 @@
         "img": ""
       },
       {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
-        "img": ""
-      },
-      {
         "title": "Three-month-long summer vacation announced for schools in KP",
         "summary": "<p>PESHAWAR: The elementary and secondary education department on Monday announced the summer vacation for government and private schools and, for the first time, declared that holding summer camps would be mandatory in June.</p> <p>According to a notification issued by the department, the summer vacation for primary s",
         "url": "https://www.dawn.com/news/2003189/three-month-long-summer-vacation-announced-for-schools-in-kp",
         "source": "Dawn",
         "date": "2026-05-26T09:39:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
         "img": ""
       },
       {
@@ -3178,14 +3186,6 @@
         "url": "https://www.dawn.com/news/2003073/unidentified-people-damage-various-bus-stops-in-rawalpindi",
         "source": "Dawn",
         "date": "2026-05-26T08:46:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "Punjab govt launches school summer camps in 12 districts",
-        "summary": "<p>LAHORE: The Punjab government has launched eight-week summer learning camps under the Taleem Programme in 12 districts of the province, starting from June 2, to provide continued academic support to students during the summer vacations.</p> <p>According to a notification issued by the School Education Department, a ",
-        "url": "https://www.dawn.com/news/2003178/punjab-govt-launches-school-summer-camps-in-12-districts",
-        "source": "Dawn",
-        "date": "2026-05-26T08:42:33+05:00",
         "img": ""
       },
       {
@@ -3255,6 +3255,30 @@
     ],
     "education": [
       {
+        "title": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "summary": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "url": "https://arynews.tv/telesat-discusses-satellite-services-with-italy",
+        "source": "ARY News",
+        "date": "2026-05-27T07:00:36+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Telesat.jpg"
+      },
+      {
+        "title": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "summary": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "url": "https://arynews.tv/i-squared-makes-bold-move-in-ai-infrastructure",
+        "source": "ARY News",
+        "date": "2026-05-27T06:00:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/I-Squared.jpg"
+      },
+      {
+        "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "summary": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "url": "https://arynews.tv/spacex-and-the-risks-of-high-valuation-ipos",
+        "source": "ARY News",
+        "date": "2026-05-27T05:00:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Space.jpg"
+      },
+      {
         "title": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "summary": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "url": "https://arynews.tv/american-airlines-to-upgrade-in-flight-wi-fi",
@@ -3343,6 +3367,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ella-Langley.jpg"
       },
       {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
         "title": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "summary": "Ireland to ban goods from Israeli settlements in West Bank by July",
         "url": "https://arynews.tv/ireland-to-ban-goods-from-israeli-settlements-in-west-bank-by-july",
@@ -3367,12 +3399,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/UK-2.jpg"
       },
       {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
         "title": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "summary": "12-Year-Old Killed, 9 Injured as 4.7-Magnitude Earthquake Jolts Parts of Punjab",
         "url": "https://arynews.tv/12-year-old-killed-9-injured-as-4-7-magnitude-earthquake-jolts-parts-of-punjab",
         "source": "ARY News",
         "date": "2026-05-26T23:23:41+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Jalalpur.jpg"
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
+        "img": ""
       },
       {
         "title": "Jon Snow isn’t dead yet: Kit Harington says HBO’s spin-off could still rise again",
@@ -3431,30 +3503,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Paul.jpg"
       },
       {
-        "title": "Salman Khan Instagram account suspension: What actually happened?",
-        "summary": "Salman Khan Instagram account suspension: What actually happened?",
-        "url": "https://arynews.tv/salman-khan-instagram-account-suspension-what-actually-happened",
-        "source": "ARY News",
-        "date": "2026-05-26T21:11:40+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-29.jpg"
-      },
-      {
-        "title": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "summary": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "url": "https://arynews.tv/the-gilded-age-season-4-confirmed-for-2026-return",
-        "source": "ARY News",
-        "date": "2026-05-26T21:01:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/The-Gilded-Age.jpg"
-      },
-      {
-        "title": "Starbucks sees sharp drop in Korea sales",
-        "summary": "Starbucks sees sharp drop in Korea sales",
-        "url": "https://arynews.tv/starbucks-sees-sharp-drop-in-korea-sales",
-        "source": "ARY News",
-        "date": "2026-05-26T20:43:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Starbucks.jpg"
-      },
-      {
         "title": "ماندر گاؤں میں نامعلوم مسلح افراد کی فائرنگ سے باپ بیٹا جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2814855/resolution-of-kashmir-issue-through-security-council-resolutions-pak-china-declaration-2814855/",
@@ -3463,11 +3511,35 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بیلجیئم میں تیز رفتار ٹرین نے منی بس کو کچل دیا؛ 4 ہلاکتیں اور 5 زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -3543,27 +3615,11 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
         "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
         "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
+        "date": "2026-05-26T15:00:27+00:00",
         "img": ""
       },
       {
@@ -3597,65 +3653,33 @@
         "source": "Express",
         "date": "2026-05-26T13:04:13+00:00",
         "img": ""
-      },
-      {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
-        "img": ""
       }
     ],
     "science": [
+      {
+        "title": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "summary": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
+        "url": "https://arynews.tv/telesat-discusses-satellite-services-with-italy",
+        "source": "ARY News",
+        "date": "2026-05-27T07:00:36+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Telesat.jpg"
+      },
+      {
+        "title": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "summary": "I Squared bets on AI inference with $225 million data center buy from Cogent",
+        "url": "https://arynews.tv/i-squared-makes-bold-move-in-ai-infrastructure",
+        "source": "ARY News",
+        "date": "2026-05-27T06:00:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/I-Squared.jpg"
+      },
+      {
+        "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "summary": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+        "url": "https://arynews.tv/spacex-and-the-risks-of-high-valuation-ipos",
+        "source": "ARY News",
+        "date": "2026-05-27T05:00:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Space.jpg"
+      },
       {
         "title": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
         "summary": "American Airlines to equip over 500 narrow-body jets with Starlink Wi-Fi from 2027",
@@ -3831,30 +3855,6 @@
         "source": "ARY News",
         "date": "2026-05-26T21:25:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Paul.jpg"
-      },
-      {
-        "title": "Salman Khan Instagram account suspension: What actually happened?",
-        "summary": "Salman Khan Instagram account suspension: What actually happened?",
-        "url": "https://arynews.tv/salman-khan-instagram-account-suspension-what-actually-happened",
-        "source": "ARY News",
-        "date": "2026-05-26T21:11:40+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-29.jpg"
-      },
-      {
-        "title": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "summary": "The Gilded Age Season 4 Confirmed for 2026 Return",
-        "url": "https://arynews.tv/the-gilded-age-season-4-confirmed-for-2026-return",
-        "source": "ARY News",
-        "date": "2026-05-26T21:01:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/The-Gilded-Age.jpg"
-      },
-      {
-        "title": "Starbucks sees sharp drop in Korea sales",
-        "summary": "Starbucks sees sharp drop in Korea sales",
-        "url": "https://arynews.tv/starbucks-sees-sharp-drop-in-korea-sales",
-        "source": "ARY News",
-        "date": "2026-05-26T20:43:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Starbucks.jpg"
       }
     ],
     "sports": [
@@ -3865,6 +3865,54 @@
         "source": "ARY Sports",
         "date": "2026-05-27T01:19:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-50.jpg"
+      },
+      {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
+        "img": ""
       },
       {
         "title": "VIRAL: Sarfaraz Ahmed shows his two bulls before Eid al-Adha 2026",
@@ -3883,12 +3931,28 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
         "title": "Sahibzada Farhan headlines star-studded LPL 2026 signings",
         "summary": "Sahibzada Farhan headlines star-studded LPL 2026 signings",
         "url": "https://arynews.tv/category/sports/sahibzada-farhan-headlines-star-studded-lpl-2026-signings",
         "source": "ARY Sports",
         "date": "2026-05-26T19:12:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/02/Sahibzada-Farhan.jpg"
+      },
+      {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
       },
       {
         "title": "End of an era: Chacha Cricket to retire after Australia series",
@@ -3904,6 +3968,14 @@
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -3979,14 +4051,6 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
-        "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
         "title": "Dominant Sabalenka moves into Roland Garros second round",
         "summary": "Dominant Sabalenka moves into Roland Garros second round",
         "url": "https://arynews.tv/category/sports/dominant-sabalenka-moves-into-roland-garros-second-round",
@@ -4011,14 +4075,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Untitled-1-11.jpg"
       },
       {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
         "title": "Scotland seek history on long-awaited World Cup return",
         "summary": "Scotland seek history on long-awaited World Cup return",
         "url": "https://arynews.tv/category/sports/scotland-seek-history-on-long-awaited-world-cup-return",
@@ -4041,14 +4097,6 @@
         "source": "ARY Sports",
         "date": "2026-05-26T15:48:40+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Untitled-1-9.jpg"
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
-        "img": ""
       },
       {
         "title": "Messi diagnosed with left hamstring fatigue",
@@ -4091,6 +4139,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-49.jpg"
       },
       {
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
+        "source": "Express",
+        "date": "2026-05-26T15:00:27+00:00",
+        "img": ""
+      },
+      {
         "title": "زرعی پیداوار بڑھانے کیلیے ایگریکلچرل بائیوٹیکنالوجی پالیسی منظور",
         "summary": "",
         "url": "https://www.express.pk/story/2814853/agricultural-biotechnology-policy-approved-to-increase-agricultural-production-2814853/",
@@ -4128,62 +4184,6 @@
         "url": "https://www.express.pk/story/2814848/donald-trump-call-cabinet-meeting-on-iran-war-2814848/",
         "source": "Express",
         "date": "2026-05-26T13:04:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
         "img": ""
       },
       {
@@ -4421,6 +4421,54 @@
     ],
     "business": [
       {
+        "title": "رواں سال فریضہ حج کی ادائیگی کا نیا ریکارڈ قائم، سعودی محکمہ شماریات کی رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814863/saudi-department-of-statistics-reports-new-record-for-hajj-pilgrimage-this-year-2814863/",
+        "source": "Express",
+        "date": "2026-05-26T23:51:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسرائیل کے جنوبی لبنان میں فضائی حملے، 4 بچوں اور 3 خواتین سمیت 31 افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814861/israeli-airstrikes-in-southern-lebanon-kill-31-people-including-4-children-and-3-women-2814861/",
+        "source": "Express",
+        "date": "2026-05-26T23:33:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "ہالا میں کم عمر بچی سے مبینہ زیادتی کا واقعہ، تین ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814860/three-suspects-arrested-in-alleged-rape-of-minor-girl-in-hala-2814860/",
+        "source": "Express",
+        "date": "2026-05-26T23:21:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف حادثات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814859/karachi-two-people-including-a-woman-died-in-different-accidents-2814859/",
+        "source": "Express",
+        "date": "2026-05-26T23:15:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی میں فائرنگ کا واقعہ، ایک شخص زخمی، اسپتال منتقل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814858/firing-incident-in-karachis-korangi-one-person-injured-shifted-to-hospital-2814858/",
+        "source": "Express",
+        "date": "2026-05-26T23:07:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شادمان ٹاؤن میں مبینہ پولیس مقابلہ، ایک ڈاکو ہلاک، ساتھی زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814857/alleged-police-encounter-in-karachis-shadman-town-one-robber-killed-accomplice-arrested-in-injured-condition-2814857/",
+        "source": "Express",
+        "date": "2026-05-26T23:02:34+05:00",
+        "img": ""
+      },
+      {
         "title": "ماندر گاؤں میں نامعلوم مسلح افراد کی فائرنگ سے باپ بیٹا جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2814855/resolution-of-kashmir-issue-through-security-council-resolutions-pak-china-declaration-2814855/",
@@ -4429,11 +4477,35 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج عیدالاضحیٰ مذہبی عقیدت و احترام کے ساتھ منائی جا رہی ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814864/eid-ul-adha-is-being-celebrated-with-religious-devotion-and-respect-across-the-country-2814864/",
+        "source": "Express",
+        "date": "2026-05-26T19:57:10+00:00",
+        "img": ""
+      },
+      {
+        "title": "صدرِ مملکت اور وزیرِ اعظم کا عیدالاضحیٰ کے موقع پر قوم کے نام پیغام، اتحاد و ایثار پر زور",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814862/president-and-prime-ministers-message-to-the-nation-on-the-occasion-of-eid-ul-adha-emphasizing-unity-and-sacrifice-2814862/",
+        "source": "Express",
+        "date": "2026-05-26T18:41:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بیلجیئم میں تیز رفتار ٹرین نے منی بس کو کچل دیا؛ 4 ہلاکتیں اور 5 زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2814849/belgium-train-and-school-bus-collide-killed-6-injured-5-2814849/",
         "source": "Express",
         "date": "2026-05-26T18:04:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی سندھ سے الگ نہیں ہو سکتا، تقسیم کی سیاست کسی صورت قبول نہیں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814856/karachi-cannot-be-separated-from-sindh-politics-of-division-is-not-acceptable-under-any-circumstances-sindh-government-spokesperson-2814856/",
+        "source": "Express",
+        "date": "2026-05-26T17:54:49+00:00",
         "img": ""
       },
       {
@@ -4509,27 +4581,11 @@
         "img": ""
       },
       {
-        "title": "عید قربان، حج اور عالمی امن کا پیغام",
+        "title": "عیدالاضحیٰ پر عسکری قیادت کا قوم کے نام خصوصی پیغام، شہداء اور عوام کی قربانیوں کو خراج تحسین",
         "summary": "",
-        "url": "https://www.express.pk/story/2814837/eid-qurban-hajj-aur-alami-aman-ka-paigham-2814837/",
+        "url": "https://www.express.pk/story/2814854/military-leaderships-special-message-to-the-nation-on-eid-ul-adha-paying-tribute-to-the-sacrifices-of-martyrs-and-the-people-2814854/",
         "source": "Express",
-        "date": "2026-05-26T16:59:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "پولیس نے مسافروں کو خطرناک انداز میں دودھ کے ٹینکوں میں لے جانے کی کوشش ناکام بنا دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814832/police-eid-passengers-tanks-attempt-failed-2814832/",
-        "source": "Express",
-        "date": "2026-05-26T16:08:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "چین میں گیمنگ ٹائیکون کے قتل پر بزنس پارٹنر کو پھانسی دیدی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814830/china-executes-man-for-murdering-prominent-gaming-tycoon-2814830/",
-        "source": "Express",
-        "date": "2026-05-26T15:44:28+05:00",
+        "date": "2026-05-26T15:00:27+00:00",
         "img": ""
       },
       {
@@ -4562,62 +4618,6 @@
         "url": "https://www.express.pk/story/2814848/donald-trump-call-cabinet-meeting-on-iran-war-2814848/",
         "source": "Express",
         "date": "2026-05-26T13:04:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "آن لائن منشیات بیچنے والے تین ملزمان گرفتار، 19 کلو چرس برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814836/three-suspects-arrested-for-selling-drugs-online-19-kg-of-hashish-recovered-2814836/",
-        "source": "Express",
-        "date": "2026-05-26T11:58:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم شہباز شریف کی ترک صدر اردوان کو عید کی مبارکباد، دو طرفہ تعاون کے فروغ پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814835/prime-minister-shehbaz-sharif-eid-turk-president-erdogan-mutual-cooperation-2814835/",
-        "source": "Express",
-        "date": "2026-05-26T11:49:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ٹریکٹر ٹرالی کے ذریعے چھالیہ اسمگل کیے جانے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814833/karachi-smuggling-of-blisters-through-tractor-trolley-revealed-2814833/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب نے ٹرمپ کی ابراہام معاہدے میں شمولیت کی دعوت کو ٹھکرا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814831/saudi-arabia-reject-donald-trump-proposal-to-join-abraham-accord-2814831/",
-        "source": "Express",
-        "date": "2026-05-26T11:08:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بندی کی خلاف ورزی پر امریکا کو سخت جواب دیں گے؛ ایران نے ٹرمپ کو خبردار کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814828/iran-worn-donald-trump-over-attack-on-strait-of-hurmuz-mines-boats-2814828/",
-        "source": "Express",
-        "date": "2026-05-26T10:07:18+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب کے مختلف اضلاع میں زلزلے کے جھٹکے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814827/earthquake-tremors-felt-in-various-districts-of-punjab-2814827/",
-        "source": "Express",
-        "date": "2026-05-26T09:56:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ اسرائیل کو تسلیم کرنے کیلئے دباؤ ڈال رہا ہے، وزیراعظم مسترد کریں، حافظ نعیم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814824/trump-pressurize-to-accept-israil-prime-minister-must-rejected-hafiz-naeem-2814824/",
-        "source": "Express",
-        "date": "2026-05-26T09:36:06+00:00",
         "img": ""
       },
       {
