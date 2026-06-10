@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-10T20:12:02.930404+00:00",
+  "fetched": "2026-06-10T22:47:10.289941+00:00",
   "categories": {
     "international": [
       {
@@ -155,6 +155,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Snapchat.jpg"
       },
       {
+        "title": "ایران پر آج دوبارہ سخت حملہ کریں گے، پھر دیکھیں گے معاہدے کا کیا ہوتا ہے: صدر ٹرمپ",
+        "summary": "بدھ کو اوول آفس میں بات چیت کرتے ہوئے صدر ٹرمپ کا کہنا تھا کہ وہ ایران کے ساتھ کسی معاہدے کے قریب ہیں لیکن تہران ’حیل و حجت سے کام لے رہا ہے۔‘ ’وہ ہمیں بے قوم بنانے کی کوشش کر رہے ہیں کیونکہ مجھے شرمندگی سے کہنا پڑ رہا ہے کہ ماضی میں ان کا بےوقوف صدور سے پالا پڑتا رہا ہے۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/c0myz91g4gmt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-06-10T22:47:17.394224+00:00",
+        "img": ""
+      },
+      {
         "title": "Why Perrie Edwards felt like a joke after Zayn Malik breakup",
         "summary": "Why Perrie Edwards felt like a joke after Zayn Malik breakup",
         "url": "https://arynews.tv/perrie-edwards-explains-zayn-malik-split",
@@ -273,14 +281,6 @@
         "source": "ARY News",
         "date": "2026-06-10T20:13:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Kuwaiti-cabinet.jpg"
-      },
-      {
-        "title": "ایران پر آج دوبارہ سخت حملہ کریں گے، پھر دیکھیں گے معاہدے کا کیا ہوتا ہے: صدر ٹرمپ",
-        "summary": "بدھ کو اوول آفس میں بات چیت کرتے ہوئے صدر ٹرمپ کا کہنا تھا کہ وہ ایران کے ساتھ کسی معاہدے کے قریب ہیں لیکن تہران ’حیل و حجت سے کام لے رہا ہے۔‘ ’وہ ہمیں بے قوم بنانے کی کوشش کر رہے ہیں کیونکہ مجھے شرمندگی سے کہنا پڑ رہا ہے کہ ماضی میں ان کا بےوقوف صدور سے پالا پڑتا رہا ہے۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/c0myz91g4gmt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-06-10T20:12:05.680744+00:00",
-        "img": ""
       },
       {
         "title": "SC overturns convictions of two MQM workers in Karachi’s Baldia factory fire case",
@@ -725,6 +725,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/perrie-edwards.jpg"
       },
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "summary": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "url": "https://arynews.tv/jhang-eshal-fatima-postmortem-report-surfaces",
@@ -789,12 +797,60 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/UK-Grid.jpg"
       },
       {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Christina Grimmie remembered 10 years after tragic death",
         "summary": "Christina Grimmie remembered 10 years after tragic death",
         "url": "https://arynews.tv/christina-grimmie-10-year-anniversary-legacy",
         "source": "ARY News",
         "date": "2026-06-10T20:51:42+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Christina-Grimmie.jpg"
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan to export high-value buffalo genetic material to China",
@@ -813,12 +869,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prize-Bond-1.jpg"
       },
       {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
         "title": "Kuwait takes important decision about holidays",
         "summary": "Kuwait takes important decision about holidays",
         "url": "https://arynews.tv/kuwait-makes-important-decision-about-holidays",
         "source": "ARY News",
         "date": "2026-06-10T20:13:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Kuwaiti-cabinet.jpg"
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
+        "img": ""
       },
       {
         "title": "31 اگست تک موسم گرما کی تعطیلات کا اعلان",
@@ -909,51 +981,27 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
-        "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
@@ -965,11 +1013,11 @@
         "img": ""
       },
       {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -1021,59 +1069,11 @@
         "img": ""
       },
       {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
         "title": "Peshawar High Court upholds man’s life sentence in Quran desecration case",
         "summary": "<p>PESHAWAR: Peshawar High Court has upheld the life sentence awarded to a man by a trial court for desecrating the Holy Quran at a graveyard here over five years ago.</p> <p>A bench consisting of Justice Sahibzada Asadullah and Justice Babar Sattar declared that the prosecution had successfully brought home the charge",
         "url": "https://www.dawn.com/news/2006477/peshawar-high-court-upholds-mans-life-sentence-in-quran-desecration-case",
         "source": "Dawn",
         "date": "2026-06-10T12:04:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       },
       {
@@ -1327,6 +1327,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/perrie-edwards.jpg"
       },
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "summary": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "url": "https://arynews.tv/jhang-eshal-fatima-postmortem-report-surfaces",
@@ -1391,12 +1399,60 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/UK-Grid.jpg"
       },
       {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Christina Grimmie remembered 10 years after tragic death",
         "summary": "Christina Grimmie remembered 10 years after tragic death",
         "url": "https://arynews.tv/christina-grimmie-10-year-anniversary-legacy",
         "source": "ARY News",
         "date": "2026-06-10T20:51:42+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Christina-Grimmie.jpg"
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan to export high-value buffalo genetic material to China",
@@ -1415,12 +1471,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prize-Bond-1.jpg"
       },
       {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
         "title": "Kuwait takes important decision about holidays",
         "summary": "Kuwait takes important decision about holidays",
         "url": "https://arynews.tv/kuwait-makes-important-decision-about-holidays",
         "source": "ARY News",
         "date": "2026-06-10T20:13:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Kuwaiti-cabinet.jpg"
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
+        "img": ""
       },
       {
         "title": "31 اگست تک موسم گرما کی تعطیلات کا اعلان",
@@ -1511,51 +1583,27 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
-        "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
@@ -1567,11 +1615,11 @@
         "img": ""
       },
       {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -1623,38 +1671,6 @@
         "img": ""
       },
       {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
         "title": "Peshawar High Court upholds man’s life sentence in Quran desecration case",
         "summary": "<p>PESHAWAR: Peshawar High Court has upheld the life sentence awarded to a man by a trial court for desecrating the Holy Quran at a graveyard here over five years ago.</p> <p>A bench consisting of Justice Sahibzada Asadullah and Justice Babar Sattar declared that the prosecution had successfully brought home the charge",
         "url": "https://www.dawn.com/news/2006477/peshawar-high-court-upholds-mans-life-sentence-in-quran-desecration-case",
@@ -1668,22 +1684,6 @@
         "url": "https://khybernews.tv/mi-17-helicopter-crashes-near-muzaffarabad-after-technical-fault-all-on-board-martyred/",
         "source": "Khyber News",
         "date": "2026-06-10T11:29:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       },
       {
@@ -1873,6 +1873,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt extends olive branch to opposition once again as Achakzai threatens boycott",
         "summary": "<p>ISLAMABAD: The government once again extended an olive branch to the opposition for dialogue on important national issues on Wednesday, as National Assembly (NA) Opposition Leader Mahmood Khan Achakzai threatened to boycott the House over unfulfilled promises.</p> <p>“I invited you on behalf of the government to com",
         "url": "https://www.dawn.com/news/2006659/govt-extends-olive-branch-to-opposition-once-again-as-achakzai-threatens-boycott",
@@ -1902,6 +1910,70 @@
         "url": "https://www.dawn.com/news/2006648/finance-minister-aurangzeb-to-present-budget-for-fy2026-27-on-june-12",
         "source": "Dawn",
         "date": "2026-06-10T21:32:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
         "img": ""
       },
       {
@@ -1993,51 +2065,27 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
-        "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
@@ -2049,11 +2097,11 @@
         "img": ""
       },
       {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -2105,59 +2153,11 @@
         "img": ""
       },
       {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
         "title": "Peshawar High Court upholds man’s life sentence in Quran desecration case",
         "summary": "<p>PESHAWAR: Peshawar High Court has upheld the life sentence awarded to a man by a trial court for desecrating the Holy Quran at a graveyard here over five years ago.</p> <p>A bench consisting of Justice Sahibzada Asadullah and Justice Babar Sattar declared that the prosecution had successfully brought home the charge",
         "url": "https://www.dawn.com/news/2006477/peshawar-high-court-upholds-mans-life-sentence-in-quran-desecration-case",
         "source": "Dawn",
         "date": "2026-06-10T12:04:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       },
       {
@@ -2275,6 +2275,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt extends olive branch to opposition once again as Achakzai threatens boycott",
         "summary": "<p>ISLAMABAD: The government once again extended an olive branch to the opposition for dialogue on important national issues on Wednesday, as National Assembly (NA) Opposition Leader Mahmood Khan Achakzai threatened to boycott the House over unfulfilled promises.</p> <p>“I invited you on behalf of the government to com",
         "url": "https://www.dawn.com/news/2006659/govt-extends-olive-branch-to-opposition-once-again-as-achakzai-threatens-boycott",
@@ -2304,6 +2312,70 @@
         "url": "https://www.dawn.com/news/2006648/finance-minister-aurangzeb-to-present-budget-for-fy2026-27-on-june-12",
         "source": "Dawn",
         "date": "2026-06-10T21:32:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
         "img": ""
       },
       {
@@ -2395,51 +2467,27 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
-        "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
@@ -2451,11 +2499,11 @@
         "img": ""
       },
       {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -2507,59 +2555,11 @@
         "img": ""
       },
       {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
         "title": "Peshawar High Court upholds man’s life sentence in Quran desecration case",
         "summary": "<p>PESHAWAR: Peshawar High Court has upheld the life sentence awarded to a man by a trial court for desecrating the Holy Quran at a graveyard here over five years ago.</p> <p>A bench consisting of Justice Sahibzada Asadullah and Justice Babar Sattar declared that the prosecution had successfully brought home the charge",
         "url": "https://www.dawn.com/news/2006477/peshawar-high-court-upholds-mans-life-sentence-in-quran-desecration-case",
         "source": "Dawn",
         "date": "2026-06-10T12:04:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       },
       {
@@ -2813,6 +2813,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/perrie-edwards.jpg"
       },
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "summary": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "url": "https://arynews.tv/jhang-eshal-fatima-postmortem-report-surfaces",
@@ -2877,12 +2885,60 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/UK-Grid.jpg"
       },
       {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Christina Grimmie remembered 10 years after tragic death",
         "summary": "Christina Grimmie remembered 10 years after tragic death",
         "url": "https://arynews.tv/christina-grimmie-10-year-anniversary-legacy",
         "source": "ARY News",
         "date": "2026-06-10T20:51:42+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Christina-Grimmie.jpg"
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan to export high-value buffalo genetic material to China",
@@ -2901,12 +2957,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prize-Bond-1.jpg"
       },
       {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
         "title": "Kuwait takes important decision about holidays",
         "summary": "Kuwait takes important decision about holidays",
         "url": "https://arynews.tv/kuwait-makes-important-decision-about-holidays",
         "source": "ARY News",
         "date": "2026-06-10T20:13:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Kuwaiti-cabinet.jpg"
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
+        "img": ""
       },
       {
         "title": "31 اگست تک موسم گرما کی تعطیلات کا اعلان",
@@ -2997,51 +3069,27 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
-        "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
@@ -3053,11 +3101,11 @@
         "img": ""
       },
       {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -3109,59 +3157,11 @@
         "img": ""
       },
       {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
         "title": "Peshawar High Court upholds man’s life sentence in Quran desecration case",
         "summary": "<p>PESHAWAR: Peshawar High Court has upheld the life sentence awarded to a man by a trial court for desecrating the Holy Quran at a graveyard here over five years ago.</p> <p>A bench consisting of Justice Sahibzada Asadullah and Justice Babar Sattar declared that the prosecution had successfully brought home the charge",
         "url": "https://www.dawn.com/news/2006477/peshawar-high-court-upholds-mans-life-sentence-in-quran-desecration-case",
         "source": "Dawn",
         "date": "2026-06-10T12:04:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       },
       {
@@ -3399,6 +3399,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/perrie-edwards.jpg"
       },
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "summary": "Jhang: Eshal Fatima Postmortem Report Surfaces",
         "url": "https://arynews.tv/jhang-eshal-fatima-postmortem-report-surfaces",
@@ -3431,12 +3439,60 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/UK-Grid.jpg"
       },
       {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Christina Grimmie remembered 10 years after tragic death",
         "summary": "Christina Grimmie remembered 10 years after tragic death",
         "url": "https://arynews.tv/christina-grimmie-10-year-anniversary-legacy",
         "source": "ARY News",
         "date": "2026-06-10T20:51:42+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Christina-Grimmie.jpg"
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan to export high-value buffalo genetic material to China",
@@ -3455,12 +3511,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prize-Bond-1.jpg"
       },
       {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
         "title": "Kuwait takes important decision about holidays",
         "summary": "Kuwait takes important decision about holidays",
         "url": "https://arynews.tv/kuwait-makes-important-decision-about-holidays",
         "source": "ARY News",
         "date": "2026-06-10T20:13:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Kuwaiti-cabinet.jpg"
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
+        "img": ""
       },
       {
         "title": "31 اگست تک موسم گرما کی تعطیلات کا اعلان",
@@ -3519,59 +3591,35 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
-        "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -3612,54 +3660,6 @@
         "url": "https://www.express.pk/story/2816928/iran-replay-to-trump-over-recent-attack-2816928/",
         "source": "Express",
         "date": "2026-06-10T13:27:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       }
     ],
@@ -3875,6 +3875,78 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Rana.jpg"
       },
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
+        "img": ""
+      },
+      {
         "title": "FIFA World Cup 2026: Security planners race to counter drone risks",
         "summary": "FIFA World Cup 2026: Security planners race to counter drone risks",
         "url": "https://arynews.tv/category/sports/fifa-world-cup-2026-counter-drone-risks",
@@ -3955,59 +4027,35 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
-        "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -4048,54 +4096,6 @@
         "url": "https://www.express.pk/story/2816928/iran-replay-to-trump-over-recent-attack-2816928/",
         "source": "Express",
         "date": "2026-06-10T13:27:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       },
       {
@@ -4421,6 +4421,14 @@
     ],
     "business": [
       {
+        "title": "کراچی، فائرنگ کے واقعات میں کمسن لڑکے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816950/three-people-including-a-young-boy-injured-in-shooting-incidents-in-karachi-2816950/",
+        "source": "Express",
+        "date": "2026-06-10T22:30:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Finance Minister Aurangzeb to present budget for FY2026-27 on June 12",
         "summary": "<p>Finance Minister Muhammad Aurangzeb will present the federal budget for the next fiscal year (FY26–27) in the National Assembly on June 12, an adviser to the minister has confirmed.</p> <p>Adviser to the Finance Minister Khurram Schehzad shared the revised budget schedule in a post on X.</p> <p>He added that the Pak",
         "url": "https://www.dawn.com/news/2006648/finance-minister-aurangzeb-to-present-budget-for-fy2026-27-on-june-12",
@@ -4429,11 +4437,75 @@
         "img": ""
       },
       {
+        "title": "علمائے کرام کی محرم الحرام کے لیے بہترین حکمت عملی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816946/ulama-e-karam-ki-muharram-ul-haram-ke-liye-behtareen-hikmat-e-amli-2816946/",
+        "source": "Express",
+        "date": "2026-06-10T20:58:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "عوام کا کوئی قصور نہیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816945/awaam-ka-koi-qusoor-nah-2816945/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "مذاکرات، مسئلے کا فوری حل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816944/muzakraat-maslay-ka-fori-hal-2816944/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "سود اور قرض کے زخم زیادہ اور ترقیاتی منصوبوں کا مرہم کم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816943/sood-aur-qarz-ke-zakham-zyada-aur-taraqqiyati-mansobon-ka-marham-kam-2816943/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "عادات و خصلتیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816942/aadatain-o-khaslatain-2816942/",
+        "source": "Express",
+        "date": "2026-06-10T20:51:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "امن کی کوششیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816941/aman-ki-koshishain-2816941/",
+        "source": "Express",
+        "date": "2026-06-10T20:44:14+05:00",
+        "img": ""
+      },
+      {
         "title": "Centre, provinces 'made decisions in the best interest of Pakistan', PM says in NEC meeting",
         "summary": "<p>Prime Minister Shehbaz Sharif on Wednesday said the Centre and the provinces had taken various decisions in the “best interest” of Pakistan as the National Economic Council (NEC) met on Wednesday.</p> <p>The NEC met to finalise federal and provincial development plans ahead of the presentation of the budget for the ",
         "url": "https://www.dawn.com/news/2006604/centre-provinces-made-decisions-in-the-best-interest-of-pakistan-pm-says-in-nec-meeting",
         "source": "Dawn",
         "date": "2026-06-10T20:31:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی حملے میں فوجی ایئر بیس کو شدید نقصان پہنچا، اسرائیل نے پہلی باراعتراف کرلیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816939/iran-missile-attack-demage-israeli-air-base-ramat-david-air-base-2816939/",
+        "source": "Express",
+        "date": "2026-06-10T20:15:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکا سے مذاکرات کے بعد قطری وفد ایران کیلیے روانہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816938/qatar-delegation-negotiators-departure-for-iran-after-us-talk-2816938/",
+        "source": "Express",
+        "date": "2026-06-10T19:53:38+05:00",
         "img": ""
       },
       {
@@ -4501,59 +4573,35 @@
         "img": ""
       },
       {
-        "title": "ناسا کا خلا میں زندگی کی تلاش کیلئے نئی دوربین کا منصوبہ",
+        "title": "انتظامی مداخلت اعلیٰ عدلیہ کا سب سے بڑے چیلنج ، ماہرین",
         "summary": "",
-        "url": "https://www.express.pk/story/2816922/nasa-is-building-a-new-space-telescope-2816922/",
+        "url": "https://www.express.pk/story/2816951/administrative-interference-is-the-biggest-challenge-of-the-supreme-court-experts-say-2816951/",
         "source": "Express",
-        "date": "2026-06-10T17:31:25+05:00",
+        "date": "2026-06-10T17:37:43+00:00",
         "img": ""
       },
       {
-        "title": "سابق ٹیسٹ کپتان یونس خان نے پی سی بی کیساتھ کام کرنے کیلیے رضامندی ظاہر کردی",
+        "title": "ایران کے خلاف امریکی فضائی کارروائیاں دوبارہ شروع، تہران اور بندرعباس میں دھماکوں کی اطلاعات",
         "summary": "",
-        "url": "https://www.express.pk/story/2816921/former-test-captain-younis-khan-agrees-to-work-with-pcb-2816921/",
+        "url": "https://www.express.pk/story/2816949/us-airstrikes-against-iran-resume-explosions-reported-in-tehran-and-bandar-abbas-2816949/",
         "source": "Express",
-        "date": "2026-06-10T17:26:45+05:00",
+        "date": "2026-06-10T16:58:12+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں سرکاری و نجی کالجوں، جامعات میں تعطیلات کا اعلان",
+        "title": "کوئٹہ، ینگ ڈاکٹرز کے احتجاج پر سخت ایکشن، 23 ڈاکٹر معطل، 25 افسران کو شوکاز نوٹسز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816918/kp-govt-and-private-colleges-universities-vocation-announce-2816918/",
+        "url": "https://www.express.pk/story/2816948/quetta-strict-action-on-young-doctors-protest-23-doctors-suspended-show-cause-notices-issued-to-25-officers-2816948/",
         "source": "Express",
-        "date": "2026-06-10T17:22:57+05:00",
+        "date": "2026-06-10T16:41:49+00:00",
         "img": ""
       },
       {
-        "title": "کراچی؛ لانڈھی میں ڈپریشن کا شکار 13 سالہ بچے کی ماں کی خودکشی",
+        "title": "دہشتگردی : قومی سلامتی کیخلاف گھناؤنی سازش",
         "summary": "",
-        "url": "https://www.express.pk/story/2816917/karachi-mother-of-13-year-old-boy-suffering-from-depression-commits-suicide-in-landhi-2816917/",
+        "url": "https://www.express.pk/story/2816940/dahshatgardi-qaumi-salamti-ke-khilaf-ghinauni-sazish-2816940/",
         "source": "Express",
-        "date": "2026-06-10T17:18:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں اندھی گولیوں کا راج، 40 روز میں 43 شہری زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816916/karachi-blind-builts-injured-43-citizen-in-just-40-days-2816916/",
-        "source": "Express",
-        "date": "2026-06-10T17:06:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "مادہ گوریلا سے لڑائی کے بعد خیالوں میں کھویا گوریلا سوشل میڈیا پر وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816914/gorilla-lost-in-thought-after-fight-with-female-gorilla-goes-viral-on-social-media-2816914/",
-        "source": "Express",
-        "date": "2026-06-10T16:52:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "ملک میں 3 لاکھ 66 ہزار ایچ آئی وی کیسز کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816913/366000-hiv-cases-revealed-in-the-country-2816913/",
-        "source": "Express",
-        "date": "2026-06-10T16:07:17+05:00",
+        "date": "2026-06-10T15:35:21+00:00",
         "img": ""
       },
       {
@@ -4610,54 +4658,6 @@
         "url": "https://www.express.pk/story/2816928/iran-replay-to-trump-over-recent-attack-2816928/",
         "source": "Express",
         "date": "2026-06-10T13:27:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "دنیا میں امن و استحکام کے فروغ کیلئے روس کے ساتھ شراکت داری مضبوط کریں گے، صدر مملکت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816923/global-peace-partnership-with-russia-strong-president-2816923/",
-        "source": "Express",
-        "date": "2026-06-10T12:45:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور اسرائیل ایک پیج پر آگئے؛ ایران پر آج بھی شدید حملوں کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816920/us-israel-one-page-on-attack-iran-2816920/",
-        "source": "Express",
-        "date": "2026-06-10T12:25:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ہدایت پر خیبرپختونخوا کو گندم کی سپلائی شروع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816919/wheat-supply-to-khyber-pakhtunkhwa-begins-on-prime-ministers-directives-2816919/",
-        "source": "Express",
-        "date": "2026-06-10T12:24:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "بجٹ میں ماحول دوست الیکٹرک گاڑیوں کیلئے ٹیکس ریلیف دیے جانے کا امکان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816915/budget-friendly-vehicles-tax-relief-2816915/",
-        "source": "Express",
-        "date": "2026-06-10T12:05:01+00:00",
-        "img": ""
-      },
-      {
-        "title": "وفاقی حکومت کا ترقیاتی پروگرام جاری، مجموعی طور پر 3,669 ارب سے زائد مختص",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816912/federal-govt-development-program-over-3669-billion-rupees-2816912/",
-        "source": "Express",
-        "date": "2026-06-10T11:06:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیرعوامی ایکشن کمیٹی کی ڈوریں سرحد پار سے ہلائی جا رہی ہیں، وفاقی وزیر قانون",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816907/azad-kashmir-awami-action-committee-influenced-from-across-the-country-federal-law-minister-2816907/",
-        "source": "Express",
-        "date": "2026-06-10T10:43:08+00:00",
         "img": ""
       },
       {
