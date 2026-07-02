@@ -1,7 +1,23 @@
 {
-  "fetched": "2026-07-02T21:59:02.518425+00:00",
+  "fetched": "2026-07-02T23:08:31.561054+00:00",
   "categories": {
     "international": [
+      {
+        "title": "‘This will be Cristiano Ronaldo’s last dance’",
+        "summary": "‘This will be Cristiano Ronaldo’s last dance’",
+        "url": "https://arynews.tv/this-will-be-cristiano-ronaldos-last-dance",
+        "source": "ARY News",
+        "date": "2026-07-03T03:43:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-176.jpg"
+      },
+      {
+        "title": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "summary": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "url": "https://arynews.tv/scaloni-warns-argentina-that-cape-verde-success-no-accident",
+        "source": "ARY News",
+        "date": "2026-07-03T03:21:44+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-21.jpg"
+      },
       {
         "title": "Spain ease past Austria with 3-0 World Cup win",
         "summary": "<p>Spain coasted past Austria and into the World Cup last-16 on Thursday, thoroughly outclassing their opponents in a 3-0 knockout win with a brace from Mikel Oyarzabal and a Pedro Porro header.</p> <p>The European champions controlled possession and sliced through the Austrian defense in a typically dominant performan",
@@ -123,6 +139,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/PTA-internet.jpg"
       },
       {
+        "title": "شام کے دارالحکومت دمشق کے ایک کیفے میں بم دھماکہ، چھ افراد ہلاک، متعدد زخمی",
+        "summary": "شام کی وزارتِ داخلہ اور سرکاری میڈیا کے مطابق دارالحکومت دمشق کے مرکزی علاقے حجاز میں ایک کیفے میں دیسی ساختہ بم دھماکے کے نتیجے میں کم از کم چھ افراد ہلاک اور متعدد زخمی ہو گئے ہیں۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cp362x2yxqnt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-02T23:08:35.804837+00:00",
+        "img": ""
+      },
+      {
         "title": "Submarine cable fault may cause intermittent internet disruption: PTA",
         "summary": "<p>ISLAMABAD: The Pakistan Telecommunication Authority (PTA) said on Thursday it was closely monitoring internet traffic disruptions caused by a fault in the SEA-ME-WE 5 (SMW5) international submarine cable system, which was likely to cause intermittent degradation in service quality and connectivity.</p> <p>The teleco",
         "url": "https://www.dawn.com/news/2012491/submarine-cable-fault-may-cause-intermittent-internet-disruption-pta",
@@ -153,14 +177,6 @@
         "source": "ARY News",
         "date": "2026-07-02T22:32:46+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Lahore-roof-collapse.jpg"
-      },
-      {
-        "title": "شام کے دارالحکومت دمشق کے ایک کیفے میں بم دھماکہ، چھ افراد ہلاک، متعدد زخمی",
-        "summary": "شام کی وزارتِ داخلہ اور سرکاری میڈیا کے مطابق دارالحکومت دمشق کے مرکزی علاقے حجاز میں ایک کیفے میں دیسی ساختہ بم دھماکے کے نتیجے میں کم از کم چھ افراد ہلاک اور متعدد زخمی ہو گئے ہیں۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cp362x2yxqnt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-02T21:59:04.907071+00:00",
-        "img": ""
       },
       {
         "title": "Ketan Agarwal case: Siya Goyal and Chetan to undergo lie-detector tests",
@@ -265,22 +281,6 @@
         "source": "Dawn",
         "date": "2026-07-02T20:06:54+05:00",
         "img": ""
-      },
-      {
-        "title": "Where is Taylor Swift getting married?",
-        "summary": "Where is Taylor Swift getting married?",
-        "url": "https://arynews.tv/where-is-taylor-swift-getting-married",
-        "source": "ARY News",
-        "date": "2026-07-02T19:57:56+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-37.jpg"
-      },
-      {
-        "title": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "summary": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "url": "https://arynews.tv/passport-ranking-2026-top-passports-in-the-world",
-        "source": "ARY News",
-        "date": "2026-07-02T19:51:51+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistani-passport-ranking.jpg"
       },
       {
         "title": "AJK Supreme Court defers hearing on petition against PTI’s provisional registration",
@@ -573,6 +573,22 @@
     ],
     "national": [
       {
+        "title": "‘This will be Cristiano Ronaldo’s last dance’",
+        "summary": "‘This will be Cristiano Ronaldo’s last dance’",
+        "url": "https://arynews.tv/this-will-be-cristiano-ronaldos-last-dance",
+        "source": "ARY News",
+        "date": "2026-07-03T03:43:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-176.jpg"
+      },
+      {
+        "title": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "summary": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "url": "https://arynews.tv/scaloni-warns-argentina-that-cape-verde-success-no-accident",
+        "source": "ARY News",
+        "date": "2026-07-03T03:21:44+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-21.jpg"
+      },
+      {
         "title": "Spain thrash Austria to reach World Cup last 16",
         "summary": "Spain thrash Austria to reach World Cup last 16",
         "url": "https://arynews.tv/spain-thrash-austria-to-reach-world-cup-last-16",
@@ -893,14 +909,6 @@
         "img": ""
       },
       {
-        "title": "Where is Taylor Swift getting married?",
-        "summary": "Where is Taylor Swift getting married?",
-        "url": "https://arynews.tv/where-is-taylor-swift-getting-married",
-        "source": "ARY News",
-        "date": "2026-07-02T19:57:56+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-37.jpg"
-      },
-      {
         "title": "عامر خان اور گوری کا شادی کی تقریب سے متعلق نیا فیصلہ",
         "summary": "",
         "url": "https://www.express.pk/story/2820344/amir-khan-gori-marriage-reception-new-decision-2820344/",
@@ -915,14 +923,6 @@
         "source": "Express",
         "date": "2026-07-02T19:53:25+05:00",
         "img": ""
-      },
-      {
-        "title": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "summary": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "url": "https://arynews.tv/passport-ranking-2026-top-passports-in-the-world",
-        "source": "ARY News",
-        "date": "2026-07-02T19:51:51+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistani-passport-ranking.jpg"
       },
       {
         "title": "AJK Supreme Court defers hearing on petition against PTI’s provisional registration",
@@ -1021,6 +1021,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "2 killed in rain-related incidents in KP, taking two-day tally to 9: PDMA",
         "summary": "<p>LAHORE/PESHAWAR: Rain-related incidents claimed the lives of two men in Khyber Pakhtunkhwa on Thursday, while Punjab witnessed two deaths in the last 24 hours due to similar occurrences, authorities said.</p> <p>According to the Pakistan Meteorological Department (PMD), a <a href=\"https://www.dawn.com/news/2011619\">",
         "url": "https://www.dawn.com/news/2012392/2-killed-in-rain-related-incidents-in-kp-taking-two-day-tally-to-9-pdma",
@@ -1066,14 +1074,6 @@
         "url": "https://www.dawn.com/news/2012432/creators-admins-of-whatsapp-groups-not-criminally-liable-for-posts-made-by-members-lhc",
         "source": "Dawn",
         "date": "2026-07-02T13:29:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,22 @@
     ],
     "kpk": [
       {
+        "title": "‘This will be Cristiano Ronaldo’s last dance’",
+        "summary": "‘This will be Cristiano Ronaldo’s last dance’",
+        "url": "https://arynews.tv/this-will-be-cristiano-ronaldos-last-dance",
+        "source": "ARY News",
+        "date": "2026-07-03T03:43:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-176.jpg"
+      },
+      {
+        "title": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "summary": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "url": "https://arynews.tv/scaloni-warns-argentina-that-cape-verde-success-no-accident",
+        "source": "ARY News",
+        "date": "2026-07-03T03:21:44+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-21.jpg"
+      },
+      {
         "title": "Spain thrash Austria to reach World Cup last 16",
         "summary": "Spain thrash Austria to reach World Cup last 16",
         "url": "https://arynews.tv/spain-thrash-austria-to-reach-world-cup-last-16",
@@ -1495,14 +1511,6 @@
         "img": ""
       },
       {
-        "title": "Where is Taylor Swift getting married?",
-        "summary": "Where is Taylor Swift getting married?",
-        "url": "https://arynews.tv/where-is-taylor-swift-getting-married",
-        "source": "ARY News",
-        "date": "2026-07-02T19:57:56+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-37.jpg"
-      },
-      {
         "title": "عامر خان اور گوری کا شادی کی تقریب سے متعلق نیا فیصلہ",
         "summary": "",
         "url": "https://www.express.pk/story/2820344/amir-khan-gori-marriage-reception-new-decision-2820344/",
@@ -1517,14 +1525,6 @@
         "source": "Express",
         "date": "2026-07-02T19:53:25+05:00",
         "img": ""
-      },
-      {
-        "title": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "summary": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "url": "https://arynews.tv/passport-ranking-2026-top-passports-in-the-world",
-        "source": "ARY News",
-        "date": "2026-07-02T19:51:51+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistani-passport-ranking.jpg"
       },
       {
         "title": "AJK Supreme Court defers hearing on petition against PTI’s provisional registration",
@@ -1623,6 +1623,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "2 killed in rain-related incidents in KP, taking two-day tally to 9: PDMA",
         "summary": "<p>LAHORE/PESHAWAR: Rain-related incidents claimed the lives of two men in Khyber Pakhtunkhwa on Thursday, while Punjab witnessed two deaths in the last 24 hours due to similar occurrences, authorities said.</p> <p>According to the Pakistan Meteorological Department (PMD), a <a href=\"https://www.dawn.com/news/2011619\">",
         "url": "https://www.dawn.com/news/2012392/2-killed-in-rain-related-incidents-in-kp-taking-two-day-tally-to-9-pdma",
@@ -1668,14 +1676,6 @@
         "url": "https://www.dawn.com/news/2012432/creators-admins-of-whatsapp-groups-not-criminally-liable-for-posts-made-by-members-lhc",
         "source": "Dawn",
         "date": "2026-07-02T13:29:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
         "img": ""
       },
       {
@@ -2105,6 +2105,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "2 killed in rain-related incidents in KP, taking two-day tally to 9: PDMA",
         "summary": "<p>LAHORE/PESHAWAR: Rain-related incidents claimed the lives of two men in Khyber Pakhtunkhwa on Thursday, while Punjab witnessed two deaths in the last 24 hours due to similar occurrences, authorities said.</p> <p>According to the Pakistan Meteorological Department (PMD), a <a href=\"https://www.dawn.com/news/2011619\">",
         "url": "https://www.dawn.com/news/2012392/2-killed-in-rain-related-incidents-in-kp-taking-two-day-tally-to-9-pdma",
@@ -2150,14 +2158,6 @@
         "url": "https://www.dawn.com/news/2012432/creators-admins-of-whatsapp-groups-not-criminally-liable-for-posts-made-by-members-lhc",
         "source": "Dawn",
         "date": "2026-07-02T13:29:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
         "img": ""
       },
       {
@@ -2507,6 +2507,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "2 killed in rain-related incidents in KP, taking two-day tally to 9: PDMA",
         "summary": "<p>LAHORE/PESHAWAR: Rain-related incidents claimed the lives of two men in Khyber Pakhtunkhwa on Thursday, while Punjab witnessed two deaths in the last 24 hours due to similar occurrences, authorities said.</p> <p>According to the Pakistan Meteorological Department (PMD), a <a href=\"https://www.dawn.com/news/2011619\">",
         "url": "https://www.dawn.com/news/2012392/2-killed-in-rain-related-incidents-in-kp-taking-two-day-tally-to-9-pdma",
@@ -2552,14 +2560,6 @@
         "url": "https://www.dawn.com/news/2012432/creators-admins-of-whatsapp-groups-not-criminally-liable-for-posts-made-by-members-lhc",
         "source": "Dawn",
         "date": "2026-07-02T13:29:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
         "img": ""
       },
       {
@@ -2660,6 +2660,22 @@
       }
     ],
     "baloch": [
+      {
+        "title": "‘This will be Cristiano Ronaldo’s last dance’",
+        "summary": "‘This will be Cristiano Ronaldo’s last dance’",
+        "url": "https://arynews.tv/this-will-be-cristiano-ronaldos-last-dance",
+        "source": "ARY News",
+        "date": "2026-07-03T03:43:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-176.jpg"
+      },
+      {
+        "title": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "summary": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "url": "https://arynews.tv/scaloni-warns-argentina-that-cape-verde-success-no-accident",
+        "source": "ARY News",
+        "date": "2026-07-03T03:21:44+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-21.jpg"
+      },
       {
         "title": "Spain thrash Austria to reach World Cup last 16",
         "summary": "Spain thrash Austria to reach World Cup last 16",
@@ -2981,14 +2997,6 @@
         "img": ""
       },
       {
-        "title": "Where is Taylor Swift getting married?",
-        "summary": "Where is Taylor Swift getting married?",
-        "url": "https://arynews.tv/where-is-taylor-swift-getting-married",
-        "source": "ARY News",
-        "date": "2026-07-02T19:57:56+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-37.jpg"
-      },
-      {
         "title": "عامر خان اور گوری کا شادی کی تقریب سے متعلق نیا فیصلہ",
         "summary": "",
         "url": "https://www.express.pk/story/2820344/amir-khan-gori-marriage-reception-new-decision-2820344/",
@@ -3003,14 +3011,6 @@
         "source": "Express",
         "date": "2026-07-02T19:53:25+05:00",
         "img": ""
-      },
-      {
-        "title": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "summary": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "url": "https://arynews.tv/passport-ranking-2026-top-passports-in-the-world",
-        "source": "ARY News",
-        "date": "2026-07-02T19:51:51+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistani-passport-ranking.jpg"
       },
       {
         "title": "AJK Supreme Court defers hearing on petition against PTI’s provisional registration",
@@ -3109,6 +3109,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "2 killed in rain-related incidents in KP, taking two-day tally to 9: PDMA",
         "summary": "<p>LAHORE/PESHAWAR: Rain-related incidents claimed the lives of two men in Khyber Pakhtunkhwa on Thursday, while Punjab witnessed two deaths in the last 24 hours due to similar occurrences, authorities said.</p> <p>According to the Pakistan Meteorological Department (PMD), a <a href=\"https://www.dawn.com/news/2011619\">",
         "url": "https://www.dawn.com/news/2012392/2-killed-in-rain-related-incidents-in-kp-taking-two-day-tally-to-9-pdma",
@@ -3154,14 +3162,6 @@
         "url": "https://www.dawn.com/news/2012432/creators-admins-of-whatsapp-groups-not-criminally-liable-for-posts-made-by-members-lhc",
         "source": "Dawn",
         "date": "2026-07-02T13:29:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
         "img": ""
       },
       {
@@ -3262,6 +3262,22 @@
       }
     ],
     "education": [
+      {
+        "title": "‘This will be Cristiano Ronaldo’s last dance’",
+        "summary": "‘This will be Cristiano Ronaldo’s last dance’",
+        "url": "https://arynews.tv/this-will-be-cristiano-ronaldos-last-dance",
+        "source": "ARY News",
+        "date": "2026-07-03T03:43:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-176.jpg"
+      },
+      {
+        "title": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "summary": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "url": "https://arynews.tv/scaloni-warns-argentina-that-cape-verde-success-no-accident",
+        "source": "ARY News",
+        "date": "2026-07-03T03:21:44+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-21.jpg"
+      },
       {
         "title": "Spain thrash Austria to reach World Cup last 16",
         "summary": "Spain thrash Austria to reach World Cup last 16",
@@ -3543,14 +3559,6 @@
         "img": ""
       },
       {
-        "title": "Where is Taylor Swift getting married?",
-        "summary": "Where is Taylor Swift getting married?",
-        "url": "https://arynews.tv/where-is-taylor-swift-getting-married",
-        "source": "ARY News",
-        "date": "2026-07-02T19:57:56+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-37.jpg"
-      },
-      {
         "title": "عامر خان اور گوری کا شادی کی تقریب سے متعلق نیا فیصلہ",
         "summary": "",
         "url": "https://www.express.pk/story/2820344/amir-khan-gori-marriage-reception-new-decision-2820344/",
@@ -3565,14 +3573,6 @@
         "source": "Express",
         "date": "2026-07-02T19:53:25+05:00",
         "img": ""
-      },
-      {
-        "title": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "summary": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "url": "https://arynews.tv/passport-ranking-2026-top-passports-in-the-world",
-        "source": "ARY News",
-        "date": "2026-07-02T19:51:51+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistani-passport-ranking.jpg"
       },
       {
         "title": "اسحاق ڈار کی زیرصدارت اجلاس، اسلام آباد میں سارک گیمز سیکرٹریٹ قائم کرنے کا فیصلہ",
@@ -3631,6 +3631,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "بالاکوٹ، دریائے کنہار میں 4 سیاحوں کی جانیں بچانے والی رافٹنگ ٹیم کو خراج تحسین",
         "summary": "",
         "url": "https://www.express.pk/story/2820350/balakot-tribute-to-the-rafting-team-that-saved-the-lives-of-four-tourists-in-the-kunhar-river-2820350/",
@@ -3653,17 +3661,25 @@
         "source": "Express",
         "date": "2026-07-02T14:22:15+00:00",
         "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
-        "img": ""
       }
     ],
     "science": [
+      {
+        "title": "‘This will be Cristiano Ronaldo’s last dance’",
+        "summary": "‘This will be Cristiano Ronaldo’s last dance’",
+        "url": "https://arynews.tv/this-will-be-cristiano-ronaldos-last-dance",
+        "source": "ARY News",
+        "date": "2026-07-03T03:43:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-176.jpg"
+      },
+      {
+        "title": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "summary": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "url": "https://arynews.tv/scaloni-warns-argentina-that-cape-verde-success-no-accident",
+        "source": "ARY News",
+        "date": "2026-07-03T03:21:44+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-21.jpg"
+      },
       {
         "title": "Spain thrash Austria to reach World Cup last 16",
         "summary": "Spain thrash Austria to reach World Cup last 16",
@@ -3847,25 +3863,25 @@
         "source": "ARY News",
         "date": "2026-07-02T20:09:07+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Sohni-Dharti.jpg"
-      },
-      {
-        "title": "Where is Taylor Swift getting married?",
-        "summary": "Where is Taylor Swift getting married?",
-        "url": "https://arynews.tv/where-is-taylor-swift-getting-married",
-        "source": "ARY News",
-        "date": "2026-07-02T19:57:56+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-37.jpg"
-      },
-      {
-        "title": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "summary": "Passport ranking 2026: Top passports in the world, Pakistan’s global standing",
-        "url": "https://arynews.tv/passport-ranking-2026-top-passports-in-the-world",
-        "source": "ARY News",
-        "date": "2026-07-02T19:51:51+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistani-passport-ranking.jpg"
       }
     ],
     "sports": [
+      {
+        "title": "‘This will be Cristiano Ronaldo’s last dance’",
+        "summary": "‘This will be Cristiano Ronaldo’s last dance’",
+        "url": "https://arynews.tv/category/sports/this-will-be-cristiano-ronaldos-last-dance",
+        "source": "ARY Sports",
+        "date": "2026-07-03T03:43:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-176.jpg"
+      },
+      {
+        "title": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "summary": "Scaloni warns Argentina that Cape Verde success ‘no accident’",
+        "url": "https://arynews.tv/category/sports/scaloni-warns-argentina-that-cape-verde-success-no-accident",
+        "source": "ARY Sports",
+        "date": "2026-07-03T03:21:44+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-21.jpg"
+      },
       {
         "title": "Spain ease past Austria with 3-0 World Cup win",
         "summary": "<p>Spain coasted past Austria and into the World Cup last-16 on Thursday, thoroughly outclassing their opponents in a 3-0 knockout win with a brace from Mikel Oyarzabal and a Pedro Porro header.</p> <p>The European champions controlled possession and sliced through the Austrian defense in a typically dominant performan",
@@ -4075,6 +4091,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "West Ham’s Fernandes joins Spurs",
         "summary": "West Ham’s Fernandes joins Spurs",
         "url": "https://arynews.tv/category/sports/west-hams-fernandes-joins-spurs",
@@ -4136,14 +4160,6 @@
         "url": "https://www.dawn.com/news/2012421/pakistan-saudi-arabia-sign-agreement-for-construction-of-cricket-stadium-in-jeddah",
         "source": "Dawn",
         "date": "2026-07-02T13:55:00+05:00",
-        "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
         "img": ""
       },
       {
@@ -4281,22 +4297,6 @@
         "source": "ARY Sports",
         "date": "2026-07-01T16:56:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-91.jpg"
-      },
-      {
-        "title": "Mexico see off Ecuador to break 40-year World Cup curse",
-        "summary": "Mexico see off Ecuador to break 40-year World Cup curse",
-        "url": "https://arynews.tv/category/sports/mexico-see-off-ecuador-to-break-40-year-world-cup-curse",
-        "source": "ARY Sports",
-        "date": "2026-07-01T16:39:30+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-7.jpg"
-      },
-      {
-        "title": "Duffy returns for New Zealand against West Indies",
-        "summary": "Duffy returns for New Zealand against West Indies",
-        "url": "https://arynews.tv/category/sports/duffy-returns-for-new-zealand-against-west-indies",
-        "source": "ARY Sports",
-        "date": "2026-07-01T16:13:07+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-6.jpg"
       },
       {
         "title": "Ben Stokes fully backs Harry Brook to succeed him as Test captain",
@@ -4605,6 +4605,14 @@
         "img": ""
       },
       {
+        "title": "حکومت برآمدات کا مقررہ ہدف حاصل کرنے میں ناکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820360/government-fails-to-achieve-set-export-target-2820360/",
+        "source": "Express",
+        "date": "2026-07-02T17:48:26+00:00",
+        "img": ""
+      },
+      {
         "title": "بالاکوٹ، دریائے کنہار میں 4 سیاحوں کی جانیں بچانے والی رافٹنگ ٹیم کو خراج تحسین",
         "summary": "",
         "url": "https://www.express.pk/story/2820350/balakot-tribute-to-the-rafting-team-that-saved-the-lives-of-four-tourists-in-the-kunhar-river-2820350/",
@@ -4626,14 +4634,6 @@
         "url": "https://www.express.pk/story/2820340/jail-reforms-provincial-responsibility-supreme-court-declaration-2820340/",
         "source": "Express",
         "date": "2026-07-02T14:22:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "سبمرین کبیل میں خرابی کے باعث انٹرنیٹ ٹریفک میں تعطل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820332/submarine-cable-fault-internet-traffic-disrupted-2820332/",
-        "source": "Express",
-        "date": "2026-07-02T13:06:12+00:00",
         "img": ""
       },
       {
