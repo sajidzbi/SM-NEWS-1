@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-08T22:00:39.419742+00:00",
+  "fetched": "2026-07-08T23:59:34.702333+00:00",
   "categories": {
     "international": [
       {
@@ -89,6 +89,14 @@
         "source": "ARY News",
         "date": "2026-07-09T00:01:04+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-37-1.jpg"
+      },
+      {
+        "title": "ایران پر امریکی فضائی حملوں کا نیا سلسلہ جنوبی ساحلی علاقوں میں دھماکے: ہم پر حملہ ہوا تو 20 گنا زیادہ طاقت سے جواب دیں گے: ٹرمپ",
+        "summary": "بدھ اور جمعرات کی درمیانی شب امریکہ کی جانب سے ایران پر دوبارہ فضائی حملے کیے گئے ہیں۔ ایرانی سرکاری میڈیا کے مطابق بوشہر، بندر عباس اور ابو موسیٰ جزیرے سمیت متعدد مقامات حملوں کی زد میں آئے ہیں۔ صدر ٹرمپ کا کہنا ہے کہ یہ حملے تجارتی جہازوں پر ایرانی حملوں کا بدلہ ہیں۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c20ydg11l2lt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-08T23:59:36.482489+00:00",
+        "img": ""
       },
       {
         "title": "Saudi Arabia approves unified national visa platform",
@@ -185,14 +193,6 @@
         "source": "ARY News",
         "date": "2026-07-08T22:06:09+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Argentina.jpg"
-      },
-      {
-        "title": "امریکی فضائی حملوں کا نیا سلسلہ: بندر عباس سمیت ایران کے جنوبی ساحلی علاقوں میں دھماکے",
-        "summary": "بدھ اور جمعرات کی درمیانی شب امریکہ کی جانب سے ایران پر دوبارہ فضائی حملے کیے گئے ہیں۔ ایرانی سرکاری میڈیا کے مطابق بوشہر، بندر عباس اور ابو موسیٰ جزیرے سمیت متعدد مقامات حملوں کی زد میں آئے ہیں۔ صدر ٹرمپ کا کہنا ہے کہ یہ حملے تجارتی جہازوں پر ایرانی حملوں کا بدلہ ہیں۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c20ydg11l2lt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-08T22:00:41.379395+00:00",
-        "img": ""
       },
       {
         "title": "Sikhs for Justice Welcomes U.S. Indictment of Lawrence Bishnoi, Urges Probe Into Alleged State Links",
@@ -669,6 +669,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Saudi-Visa.jpg"
       },
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
         "title": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "summary": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "url": "https://arynews.tv/k2-airways-offices-handed-to-bureau-of-air-safety-investigation",
@@ -699,6 +707,14 @@
         "source": "ARY News",
         "date": "2026-07-08T23:03:03+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-36-1.jpg"
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
+        "img": ""
       },
       {
         "title": "Fact Check: Did GTA 6 PS5 pre-orders outsell Xbox by 8-to-1? Microsoft responds",
@@ -941,19 +957,35 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
         "img": ""
       },
       {
@@ -1037,43 +1069,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Foreigners' abduction, sexual assault case: 4 suspects' physical remand extended by 5 days",
         "summary": "<p>LAHORE: A judicial magistrate on Wednesday granted police custody of four suspects, including the relative of a senior political figure, for another five days in the alleged abduction and rape case involving two foreign women.</p> <p>The suspects were produced before the magistrate at the Cantonment Courts following",
         "url": "https://www.dawn.com/news/2013835/foreigners-abduction-sexual-assault-case-4-suspects-physical-remand-extended-by-5-days",
         "source": "Dawn",
         "date": "2026-07-08T13:17:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       },
       {
@@ -1271,6 +1271,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Saudi-Visa.jpg"
       },
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
         "title": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "summary": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "url": "https://arynews.tv/k2-airways-offices-handed-to-bureau-of-air-safety-investigation",
@@ -1301,6 +1309,14 @@
         "source": "ARY News",
         "date": "2026-07-08T23:03:03+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-36-1.jpg"
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
+        "img": ""
       },
       {
         "title": "Fact Check: Did GTA 6 PS5 pre-orders outsell Xbox by 8-to-1? Microsoft responds",
@@ -1543,19 +1559,35 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
         "img": ""
       },
       {
@@ -1639,43 +1671,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Foreigners' abduction, sexual assault case: 4 suspects' physical remand extended by 5 days",
         "summary": "<p>LAHORE: A judicial magistrate on Wednesday granted police custody of four suspects, including the relative of a senior political figure, for another five days in the alleged abduction and rape case involving two foreign women.</p> <p>The suspects were produced before the magistrate at the Cantonment Courts following",
         "url": "https://www.dawn.com/news/2013835/foreigners-abduction-sexual-assault-case-4-suspects-physical-remand-extended-by-5-days",
         "source": "Dawn",
         "date": "2026-07-08T13:17:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       },
       {
@@ -1857,11 +1857,27 @@
     ],
     "punjab": [
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
         "title": "KP CM orders review of controversial law granting extended privileges to lawmakers",
         "summary": "<p>PESHAWAR: As lawmakers from across the aisle in the KP Assembly joined hands to defend the controversial law granting extended powers and privileges to members, Chief Minister Sohail Afridi on Wednesday ordered a review of its provisions following media outcry.</p> <p>It was reported yesterday that the KP government",
         "url": "https://www.dawn.com/news/2013920/kp-cm-orders-review-of-controversial-law-granting-extended-privileges-to-lawmakers",
         "source": "Dawn",
         "date": "2026-07-08T23:30:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
         "img": ""
       },
       {
@@ -2025,19 +2041,35 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
         "img": ""
       },
       {
@@ -2121,43 +2153,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Foreigners' abduction, sexual assault case: 4 suspects' physical remand extended by 5 days",
         "summary": "<p>LAHORE: A judicial magistrate on Wednesday granted police custody of four suspects, including the relative of a senior political figure, for another five days in the alleged abduction and rape case involving two foreign women.</p> <p>The suspects were produced before the magistrate at the Cantonment Courts following",
         "url": "https://www.dawn.com/news/2013835/foreigners-abduction-sexual-assault-case-4-suspects-physical-remand-extended-by-5-days",
         "source": "Dawn",
         "date": "2026-07-08T13:17:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       },
       {
@@ -2259,11 +2259,27 @@
     ],
     "sindh": [
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
         "title": "KP CM orders review of controversial law granting extended privileges to lawmakers",
         "summary": "<p>PESHAWAR: As lawmakers from across the aisle in the KP Assembly joined hands to defend the controversial law granting extended powers and privileges to members, Chief Minister Sohail Afridi on Wednesday ordered a review of its provisions following media outcry.</p> <p>It was reported yesterday that the KP government",
         "url": "https://www.dawn.com/news/2013920/kp-cm-orders-review-of-controversial-law-granting-extended-privileges-to-lawmakers",
         "source": "Dawn",
         "date": "2026-07-08T23:30:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
         "img": ""
       },
       {
@@ -2427,19 +2443,35 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
         "img": ""
       },
       {
@@ -2523,43 +2555,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Foreigners' abduction, sexual assault case: 4 suspects' physical remand extended by 5 days",
         "summary": "<p>LAHORE: A judicial magistrate on Wednesday granted police custody of four suspects, including the relative of a senior political figure, for another five days in the alleged abduction and rape case involving two foreign women.</p> <p>The suspects were produced before the magistrate at the Cantonment Courts following",
         "url": "https://www.dawn.com/news/2013835/foreigners-abduction-sexual-assault-case-4-suspects-physical-remand-extended-by-5-days",
         "source": "Dawn",
         "date": "2026-07-08T13:17:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       },
       {
@@ -2757,6 +2757,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Saudi-Visa.jpg"
       },
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
         "title": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "summary": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "url": "https://arynews.tv/k2-airways-offices-handed-to-bureau-of-air-safety-investigation",
@@ -2787,6 +2795,14 @@
         "source": "ARY News",
         "date": "2026-07-08T23:03:03+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-36-1.jpg"
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
+        "img": ""
       },
       {
         "title": "Fact Check: Did GTA 6 PS5 pre-orders outsell Xbox by 8-to-1? Microsoft responds",
@@ -3029,19 +3045,35 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
         "img": ""
       },
       {
@@ -3125,43 +3157,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Foreigners' abduction, sexual assault case: 4 suspects' physical remand extended by 5 days",
         "summary": "<p>LAHORE: A judicial magistrate on Wednesday granted police custody of four suspects, including the relative of a senior political figure, for another five days in the alleged abduction and rape case involving two foreign women.</p> <p>The suspects were produced before the magistrate at the Cantonment Courts following",
         "url": "https://www.dawn.com/news/2013835/foreigners-abduction-sexual-assault-case-4-suspects-physical-remand-extended-by-5-days",
         "source": "Dawn",
         "date": "2026-07-08T13:17:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       },
       {
@@ -3359,6 +3359,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Saudi-Visa.jpg"
       },
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
         "title": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "summary": "K2 Airways offices at Karachi Airport handed over to investigation team",
         "url": "https://arynews.tv/k2-airways-offices-handed-to-bureau-of-air-safety-investigation",
@@ -3381,6 +3389,14 @@
         "source": "ARY News",
         "date": "2026-07-08T23:03:03+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-36-1.jpg"
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
+        "img": ""
       },
       {
         "title": "Fact Check: Did GTA 6 PS5 pre-orders outsell Xbox by 8-to-1? Microsoft responds",
@@ -3567,19 +3583,35 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
         "img": ""
       },
       {
@@ -3628,38 +3660,6 @@
         "url": "https://www.express.pk/story/2821246/karachi-crime-index-six-months-2026-2821246/",
         "source": "Express",
         "date": "2026-07-08T14:34:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       }
     ],
@@ -3875,6 +3875,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-39-1.jpg"
       },
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Argentina fans refuse to leave stadium, celebrate World Cup win over Egypt for 2 hours",
         "summary": "Argentina fans refuse to leave stadium, celebrate World Cup win over Egypt for 2 hours",
         "url": "https://arynews.tv/category/sports/argentina-fans-refuse-to-leave-stadium-celebrate-world-cup-win-over-egypt-for-2-hours",
@@ -3995,19 +4011,27 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
         "img": ""
       },
       {
@@ -4025,6 +4049,14 @@
         "source": "ARY Sports",
         "date": "2026-07-08T17:12:57+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-52.jpg"
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
+        "img": ""
       },
       {
         "title": "France v Morocco rematch as World Cup quarter-finals get under way",
@@ -4099,43 +4131,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Rastah is paying tribute to the Pakistanis behind the FIFA World Cup balls with a stylish ball of its own",
         "summary": "<p><a href=\"https://images.dawn.com/news/1195514/rastah-is-paying-tribute-to-the-pakistanis-behind-the-fifa-world-cup-balls-with-a-stylish-ball-of-its-own\">https://images.dawn.com/news/1195514/rastah-is-paying-tribute-to-the-pakistanis-behind-the-fifa-world-cup-balls-with-a-stylish-ball-of-its-own</a></p>",
         "url": "https://www.dawn.com/news/2013841/rastah-is-paying-tribute-to-the-pakistanis-behind-the-fifa-world-cup-balls-with-a-stylish-ball-of-its-own",
         "source": "Dawn",
         "date": "2026-07-08T13:23:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       },
       {
@@ -4429,6 +4429,22 @@
     ],
     "business": [
       {
+        "title": "امریکی پابندیوں میں چھوٹ ختم، ایران کا 6 کروڑ 30 لاکھ بیرل خام تیل سمندر میں پھنس گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821269/us-sanctions-waivers-end-63-million-barrels-of-iranian-crude-oil-stranded-at-sea-2821269/",
+        "source": "Express",
+        "date": "2026-07-08T23:51:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان میں عدلیہ کے مختلف شعبوں میں بدعنوانی منظم نوعیت اختیار کر چکی ہے، رپورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821267/corruption-within-various-sectors-of-pakistans-judiciary-has-become-systemic-according-to-a-report-2821267/",
+        "source": "Express",
+        "date": "2026-07-08T23:01:02+05:00",
+        "img": ""
+      },
+      {
         "title": "نفس پر فتح کی داستان",
         "summary": "",
         "url": "https://www.express.pk/story/2821262/nafs-par-fatah-ki-dastan-2821262/",
@@ -4533,19 +4549,35 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد پولیس میں بھرتی کے خواہش مندوں کیلیے خوش خبری",
+        "title": "سوئی سدرن گیس کمپنی خسارے میں، افسران کو 1.6 ارب کا بونس، آڈٹ اعتراض پر وضاحت طلب",
         "summary": "",
-        "url": "https://www.express.pk/story/2821239/good-news-for-those-aspiring-for-recruitment-in-islamabad-police-2821239/",
+        "url": "https://www.express.pk/story/2821268/sui-southern-gas-company-running-at-a-loss-officers-granted-rs16-billion-in-bonuses-explanation-sought-regarding-audit-objection-2821268/",
         "source": "Express",
-        "date": "2026-07-08T18:34:32+05:00",
+        "date": "2026-07-08T18:41:16+00:00",
         "img": ""
       },
       {
-        "title": "معروف بھارتی اداکار کو زہریلے کیڑے نے کاٹ لیا، حالت تشویشناک",
+        "title": "اسٹیٹ بینک آف پاکستان کا چھوٹے کاروبار کی فنانسنگ ڈیڑھ کھرب تک بڑھانے کا ہدف",
         "summary": "",
-        "url": "https://www.express.pk/story/2821236/rajesh-sharma-was-bitten-by-a-poisonous-insect-while-shooting-with-prabhas-2821236/",
+        "url": "https://www.express.pk/story/2821266/state-bank-of-pakistan-aims-to-increase-small-business-financing-to-rs-15-trillion-2821266/",
         "source": "Express",
-        "date": "2026-07-08T17:56:40+05:00",
+        "date": "2026-07-08T17:50:11+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزارت داخلہ؛ 4 ارب کی عدم ریکوری، خریداریوں میں ڈھائی ارب کی بےضابطگیاں، آڈٹ رپورٹ جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821265/ministry-of-interior-audit-report-released-2821265/",
+        "source": "Express",
+        "date": "2026-07-08T17:41:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی ساحلی علاقوں پر امریکی حملوں کے بعد ٹرمپ کا بڑا بیان، ایران کو خبردار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2821264/trump-issues-major-statement-following-us-attacks-on-iranian-coastal-areas-warns-iran-2821264/",
+        "source": "Express",
+        "date": "2026-07-08T17:09:45+00:00",
         "img": ""
       },
       {
@@ -4610,38 +4642,6 @@
         "url": "https://www.express.pk/story/2821246/karachi-crime-index-six-months-2026-2821246/",
         "source": "Express",
         "date": "2026-07-08T14:34:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کا ایران امریکا کشیدگی پر اظہار تشویش، فریقین پر اسلام آباد معاہدے کی پاسداری پر زور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821242/pakistan-shows-concern-india-iran-conflict-starts-again-2821242/",
-        "source": "Express",
-        "date": "2026-07-08T13:52:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے حملے مفاہمتی یادداشت کی کھلی خلاف ورزی ہیں، منہ توڑ جواب ملے گا؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821240/us-mou-iran-reply-us-attack-2821240/",
-        "source": "Express",
-        "date": "2026-07-08T13:44:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا شام کو دہشت گردی کی سرپرستی کرنے والی ریاستوں کی فہرست سے نکالنے کا عندیہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821237/trump-ahmed-sharaa-nato-syria-remove-from-terrorist-sponsored-states-2821237/",
-        "source": "Express",
-        "date": "2026-07-08T13:27:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "احمد آباد بم دھماکا کیس؛ بھارتی ہائی کورٹ نے ایک اور متنازع فیصلہ سنا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821235/india-high-court-ahmedabad-bomb-blast-case-2821235/",
-        "source": "Express",
-        "date": "2026-07-08T12:44:39+00:00",
         "img": ""
       },
       {
