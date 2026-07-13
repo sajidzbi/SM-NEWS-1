@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-13T20:49:17.356290+00:00",
+  "fetched": "2026-07-13T21:44:31.219730+00:00",
   "categories": {
     "international": [
       {
@@ -195,6 +195,14 @@
         "img": ""
       },
       {
+        "title": "ٹرمپ کا ایران کی بحری ناکہ بندی کا اعلان، پاسدارانِ انقلاب نے امریکہ کو تیل و گیس کی فراہمی ’خطرے میں ڈالنے‘ کا ذمہ دار قرار دے دیا",
+        "summary": "امریکی صدر کا کہنا ہے کہ اس ناکہ بندی کا مقصد ایران کے جہازوں اور اس کے گاہکوں کو آنے جانے سے روکنا ہے تاہم ’دیگر تمام ممالک آبنائے ہرمز کا منصفانہ اور آزادانہ استعمال کر سکیں گے۔‘ دوسری جانب پاسداران انقلاب کا کہنا ہے کہ ایران اب بھی آبنائے ہرمز پر کنٹرول رکھتا ہے اور ’غیر ملکی طاقتوں اور ان کے اتحادیوں کو ایرانی عوا",
+        "url": "https://www.bbc.co.uk/urdu/live/czj8rpx3337t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-13T21:44:34.107934+00:00",
+        "img": ""
+      },
+      {
         "title": "CDF Munir arrives in Turkiye on 2-day official visit: state media",
         "summary": "<p>Chief of Defence Forces (CDF) and Chief of the Army Staff (COAS) Field Marshal Asim Munir on Monday arrived in Turkiye on a two-day official visit, state media reported.</p> <p>Citing security sources, state-run <a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://www.radio.gov.pk/13-07-",
         "url": "https://www.dawn.com/news/2015119/cdf-munir-arrives-in-turkiye-on-2-day-official-visit-state-media",
@@ -248,14 +256,6 @@
         "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
         "source": "Dawn",
         "date": "2026-07-13T20:53:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کا ایران کی بحری ناکہ بندی کا اعلان، پاسدارانِ انقلاب نے امریکہ کو تیل و گیس کی فراہمی ’خطرے میں ڈالنے‘ کا ذمہ دار قرار دے دیا",
-        "summary": "امریکی صدر کا کہنا ہے کہ اس ناکہ بندی کا مقصد ایران کے جہازوں اور اس کے گاہکوں کو آنے جانے سے روکنا ہے تاہم ’دیگر تمام ممالک آبنائے ہرمز کا منصفانہ اور آزادانہ استعمال کر سکیں گے۔‘ دوسری جانب پاسداران انقلاب کا کہنا ہے کہ ایران اب بھی آبنائے ہرمز پر کنٹرول رکھتا ہے اور ’غیر ملکی طاقتوں اور ان کے اتحادیوں کو ایرانی عوا",
-        "url": "https://www.bbc.co.uk/urdu/live/czj8rpx3337t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-13T20:49:20.404845+00:00",
         "img": ""
       },
       {
@@ -773,11 +773,67 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Assassin-creed.jpg"
       },
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
         "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
         "summary": "<p>ISLAMABAD: The Federal Constitutional Court (FCC) on Monday set aside a Supreme Court (SC) judgment from August 2024 that had paved the way for the <a href=\"https://www.dawn.com/news/1859439\">demolition</a> of infrastructure developed by the Monal Group of Companies, La Montana and Gloria Jeans inside the picturesqu",
         "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
         "source": "Dawn",
         "date": "2026-07-13T20:53:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
         "img": ""
       },
       {
@@ -925,51 +981,11 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
         "source": "Express",
         "date": "2026-07-13T15:22:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
         "img": ""
       },
       {
@@ -994,14 +1010,6 @@
         "url": "https://www.dawn.com/news/2015108/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal",
         "source": "Dawn",
         "date": "2026-07-13T14:20:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -1074,14 +1082,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       },
       {
@@ -1375,11 +1375,67 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Assassin-creed.jpg"
       },
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
         "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
         "summary": "<p>ISLAMABAD: The Federal Constitutional Court (FCC) on Monday set aside a Supreme Court (SC) judgment from August 2024 that had paved the way for the <a href=\"https://www.dawn.com/news/1859439\">demolition</a> of infrastructure developed by the Monal Group of Companies, La Montana and Gloria Jeans inside the picturesqu",
         "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
         "source": "Dawn",
         "date": "2026-07-13T20:53:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
         "img": ""
       },
       {
@@ -1527,51 +1583,11 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
         "source": "Express",
         "date": "2026-07-13T15:22:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
         "img": ""
       },
       {
@@ -1596,14 +1612,6 @@
         "url": "https://www.dawn.com/news/2015108/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal",
         "source": "Dawn",
         "date": "2026-07-13T14:20:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -1676,14 +1684,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       },
       {
@@ -1889,11 +1889,67 @@
         "img": ""
       },
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
         "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
         "summary": "<p>ISLAMABAD: The Federal Constitutional Court (FCC) on Monday set aside a Supreme Court (SC) judgment from August 2024 that had paved the way for the <a href=\"https://www.dawn.com/news/1859439\">demolition</a> of infrastructure developed by the Monal Group of Companies, La Montana and Gloria Jeans inside the picturesqu",
         "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
         "source": "Dawn",
         "date": "2026-07-13T20:53:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
         "img": ""
       },
       {
@@ -2009,51 +2065,11 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
         "source": "Express",
         "date": "2026-07-13T15:22:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
         "img": ""
       },
       {
@@ -2078,14 +2094,6 @@
         "url": "https://www.dawn.com/news/2015108/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal",
         "source": "Dawn",
         "date": "2026-07-13T14:20:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -2158,14 +2166,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       },
       {
@@ -2291,11 +2291,67 @@
         "img": ""
       },
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
         "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
         "summary": "<p>ISLAMABAD: The Federal Constitutional Court (FCC) on Monday set aside a Supreme Court (SC) judgment from August 2024 that had paved the way for the <a href=\"https://www.dawn.com/news/1859439\">demolition</a> of infrastructure developed by the Monal Group of Companies, La Montana and Gloria Jeans inside the picturesqu",
         "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
         "source": "Dawn",
         "date": "2026-07-13T20:53:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
         "img": ""
       },
       {
@@ -2411,51 +2467,11 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
         "source": "Express",
         "date": "2026-07-13T15:22:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
         "img": ""
       },
       {
@@ -2480,14 +2496,6 @@
         "url": "https://www.dawn.com/news/2015108/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal",
         "source": "Dawn",
         "date": "2026-07-13T14:20:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -2560,14 +2568,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       },
       {
@@ -2861,11 +2861,67 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Assassin-creed.jpg"
       },
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
         "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
         "summary": "<p>ISLAMABAD: The Federal Constitutional Court (FCC) on Monday set aside a Supreme Court (SC) judgment from August 2024 that had paved the way for the <a href=\"https://www.dawn.com/news/1859439\">demolition</a> of infrastructure developed by the Monal Group of Companies, La Montana and Gloria Jeans inside the picturesqu",
         "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
         "source": "Dawn",
         "date": "2026-07-13T20:53:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
         "img": ""
       },
       {
@@ -3013,51 +3069,11 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
         "source": "Express",
         "date": "2026-07-13T15:22:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
         "img": ""
       },
       {
@@ -3082,14 +3098,6 @@
         "url": "https://www.dawn.com/news/2015108/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal",
         "source": "Dawn",
         "date": "2026-07-13T14:20:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -3162,14 +3170,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       },
       {
@@ -3431,6 +3431,62 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Assassin-creed.jpg"
       },
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
+        "img": ""
+      },
+      {
         "title": "Volkswagen CEO flags 50,000 extra job cuts to staff",
         "summary": "Volkswagen CEO flags 50,000 extra job cuts to staff",
         "url": "https://arynews.tv/volkswagen-ceo-flags-50000-extra-job-cuts-to-staff",
@@ -3519,14 +3575,6 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
@@ -3535,51 +3583,11 @@
         "img": ""
       },
       {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
-        "img": ""
-      },
-      {
         "title": "حکومت کا سوئی ناردرن گیس کمپنی کا 50 ارب روپے کا بڑا ریلیف",
         "summary": "",
         "url": "https://www.express.pk/story/2822002/govt-give-a-relief-sngpl-2822002/",
         "source": "Express",
         "date": "2026-07-13T14:27:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -3652,14 +3660,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       }
     ],
@@ -3891,6 +3891,62 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/egypt-vs-argentina.jpg"
       },
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، بوہرہ پیر میں فلیٹ سے ایک شخص کی گلا کٹی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2822006/a-mans-throat-slit-body-was-found-in-a-flat-in-bohra-pir-karachi-2822006/",
@@ -3963,14 +4019,6 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
@@ -3979,51 +4027,11 @@
         "img": ""
       },
       {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
-        "img": ""
-      },
-      {
         "title": "حکومت کا سوئی ناردرن گیس کمپنی کا 50 ارب روپے کا بڑا ریلیف",
         "summary": "",
         "url": "https://www.express.pk/story/2822002/govt-give-a-relief-sngpl-2822002/",
         "source": "Express",
         "date": "2026-07-13T14:27:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -4096,14 +4104,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       },
       {
@@ -4429,6 +4429,62 @@
     ],
     "business": [
       {
+        "title": "کراچ، گڈاپ سٹی میں رواں سال کی سب سے بڑی ڈکیتی کی تفتیش کے لیے خصوصی ٹیم بنا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822013/a-special-team-has-been-formed-to-investigate-the-biggest-robbery-of-the-year-in-karachis-gadap-city-2822013/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "دہشت گردی سے کیسے نمٹا جائے ؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822012/dehshat-gardi-se-kaise-nimta-jaye-2822012/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "فاعتبرو!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822011/faatabiru-2822011/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت ، اسرائیل ، شیوا جی اور دھریندر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822010/bharat-israel-shivaji-aur-dharmendr-2822010/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "دادرسی سے محروم عوام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822009/dad-rasi-se-mehroom-awam-2822009/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "برائے توجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822008/baraye-tawajjah-2822008/",
+        "source": "Express",
+        "date": "2026-07-13T20:54:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "جب چیٹ جی پی ٹی پانی پینے لگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822007/jab-chatgpt-pani-peene-lage-2822007/",
+        "source": "Express",
+        "date": "2026-07-13T20:51:18+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، بوہرہ پیر میں فلیٹ سے ایک شخص کی گلا کٹی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2822006/a-mans-throat-slit-body-was-found-in-a-flat-in-bohra-pir-karachi-2822006/",
@@ -4501,14 +4557,6 @@
         "img": ""
       },
       {
-        "title": "ولیکا اسپتال کے عملے کی غفلت سے ایک ہی گھر کے چار بچے ایچ آئی وی کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821984/four-children-from-the-same-family-infected-with-hiv-due-to-negligence-of-staff-at-velika-hospital-2821984/",
-        "source": "Express",
-        "date": "2026-07-13T15:25:29+05:00",
-        "img": ""
-      },
-      {
         "title": "مستونگ میں لکپاس ریڈار کی خدمات عارضی طور پر معطل، نوٹم جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2822004/radar-services-at-lakpass-mastung-have-been-temporarily-suspended-2822004/",
@@ -4517,51 +4565,11 @@
         "img": ""
       },
       {
-        "title": "تہران میں حملوں سے متاثرہ ہزاروں گھروں کی مرمت تیزی سے جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821983/war-damaged-units-repaired-in-iran-2821983/",
-        "source": "Express",
-        "date": "2026-07-13T15:17:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "عامر خان کی تیسری شادی پر شیکھر سمن نے کیا کہا؟ تبصرہ وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821982/what-did-shekhar-suman-say-about-aamir-khan-third-marriage-comment-goes-viral-2821982/",
-        "source": "Express",
-        "date": "2026-07-13T15:15:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "’ان ڈراموں کے ہی ان کو پیسے ملتے ہیں‘، حنا پرویز کی رجب بٹ کی والدہ پر بھی تنقید",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821981/hina-pervez-butt-also-criticized-rajab-butt-mother-2821981/",
-        "source": "Express",
-        "date": "2026-07-13T14:58:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "بالاکوٹ زلزلے میں لاپتہ ہونے والے 5 سالہ بچے کی لاش 21 سال بعد برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821980/balakot-earthquake-5-year-missing-child-body-recovered-after-21-years-2821980/",
-        "source": "Express",
-        "date": "2026-07-13T14:52:50+05:00",
-        "img": ""
-      },
-      {
         "title": "حکومت کا سوئی ناردرن گیس کمپنی کا 50 ارب روپے کا بڑا ریلیف",
         "summary": "",
         "url": "https://www.express.pk/story/2822002/govt-give-a-relief-sngpl-2822002/",
         "source": "Express",
         "date": "2026-07-13T14:27:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "خضدار میں شہید سپاہی تحسین کی نماز جنازہ ادا، والد بیٹے کی شہادت پر مسرور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821978/shaheed-tehseen-father-raise-slogans-pakistan-zindabad-in-son-funeral-2821978/",
-        "source": "Express",
-        "date": "2026-07-13T14:18:44+05:00",
         "img": ""
       },
       {
@@ -4634,14 +4642,6 @@
         "url": "https://www.express.pk/story/2821986/petrol-prices-in-pakistan-are-lower-than-in-bangladesh-sri-lanka-and-turkiye-says-the-petroleum-minister-2821986/",
         "source": "Express",
         "date": "2026-07-13T10:51:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکا کو مداخلت کرنے نہیں دیں گے، ایرانی فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2821979/iran-response-to-trump-2821979/",
-        "source": "Express",
-        "date": "2026-07-13T09:37:42+00:00",
         "img": ""
       },
       {
