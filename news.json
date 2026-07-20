@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-19T23:47:20.432070+00:00",
+  "fetched": "2026-07-20T02:01:35.221148+00:00",
   "categories": {
     "international": [
       {
@@ -25,6 +25,14 @@
         "source": "ARY News",
         "date": "2026-07-20T02:22:29+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-96.jpg"
+      },
+      {
+        "title": "ایران کی نیوکلیئر پاور پلانٹ پر امریکی حملے کی تصدیق، بین الاقوامی جوہری توانائی ایجنسی کا واقعے کی تحقیقات کا عندیہ",
+        "summary": "بین الاقوامی جوہری توانائی ایجنسی (آئی اے ای اے) نے ایران کے علاقے ڈارخوین میں زیرِ تعمیر مجوزہ جوہری بجلی گھر کی تعمیراتی سائٹ پر رات گئے ہونے والے مبینہ حملے کی رپورٹس کا جائزہ لینا شروع کر دیا ہے۔ تاہم ایران نے زیرِ تعمیر ڈارخوین جوہری بجلی گھر پر امریکی حملے کی تصدیق کرتے ہوئے اس کی شدید مذمت کی ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c4gkqdkdz4nt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-20T02:01:38.673038+00:00",
+        "img": ""
       },
       {
         "title": "Sam Neill’s cause of death confirmed after speculation",
@@ -120,14 +128,6 @@
         "url": "https://www.dawn.com/news/2016734/canadian-foreign-minister-anita-anand-to-visit-pakistan-on-monday",
         "source": "Dawn",
         "date": "2026-07-19T23:48:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کی نیوکلیئر پاور پلانٹ پر امریکی حملے کی تصدیق، بین الاقوامی جوہری توانائی ایجنسی کا واقعے کی تحقیقات کا عندیہ",
-        "summary": "بین الاقوامی جوہری توانائی ایجنسی (آئی اے ای اے) نے ایران کے علاقے ڈارخوین میں زیرِ تعمیر مجوزہ جوہری بجلی گھر کی تعمیراتی سائٹ پر رات گئے ہونے والے مبینہ حملے کی رپورٹس کا جائزہ لینا شروع کر دیا ہے۔ تاہم ایران نے زیرِ تعمیر ڈارخوین جوہری بجلی گھر پر امریکی حملے کی تصدیق کرتے ہوئے اس کی شدید مذمت کی ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c4gkqdkdz4nt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-19T23:47:23.181504+00:00",
         "img": ""
       },
       {
@@ -589,12 +589,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-95.jpg"
       },
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
         "title": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "summary": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "url": "https://arynews.tv/cinematic-transcendence-unpacking-the-hidden-themes-of-christopher-nolans-the-odyssey",
         "source": "ARY News",
         "date": "2026-07-20T00:42:39+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Christopher-Nolan-‘The-Odyssey.jpg"
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan moves closer to introducing breakthrough therapy for Hepatitis Delta",
@@ -653,6 +677,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Bilawal-Bhutto-1.jpg"
       },
       {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
+        "img": ""
+      },
+      {
         "title": "Bilawal seeks 'better results' in upcoming AJK elections as PPP hopes to form govt",
         "summary": "<p>PPP Chairman Bilawal Bhutto-Zardari on Sunday expressed his hope of forming a government in Azad Jammu and Kashmir (AJK), seeking “better results” from the public in the upcoming elections than in the previous one.</p> <p>He made the remarks while addressing a public rally in AJK’s Kotli ahead of the regional electi",
         "url": "https://www.dawn.com/news/2016735/bilawal-seeks-better-results-in-upcoming-ajk-elections-as-ppp-hopes-to-form-govt",
@@ -691,6 +723,14 @@
         "source": "ARY News",
         "date": "2026-07-19T23:40:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Samsung.jpg"
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
+        "img": ""
       },
       {
         "title": "Dominant Spain win FIFA World Cup in extra-time",
@@ -901,6 +941,22 @@
         "img": ""
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "One terrorist killed, 8 others held as joint operation continues in Bannu",
         "summary": "<p>BANNU: An intelligence-based <a href=\"https://www.dawn.com/news/2016149\">operation</a> (IBO) continued for the third consecutive day across parts of Khyber Pakhtunkhwa’s Bannu district on Sunday, where one <a href=\"https://www.dawn.com/trends/terrorism-in-pakistan/2\">terrorist</a> was killed and eight individuals we",
         "url": "https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu",
@@ -930,46 +986,6 @@
         "url": "https://www.express.pk/story/2823011/manghopir-housing-society-2-year-old-child-allegedly-kidnapped-protest-2823011/",
         "source": "Express",
         "date": "2026-07-19T19:32:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
         "img": ""
       },
       {
@@ -1005,27 +1021,11 @@
         "img": ""
       },
       {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
         "title": "Dar, Venezuelan FM emphasise 'considerable potential' for enhancing economic collaboration",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar held a phone call with Venezuela’s newly appointed Foreign Minister Felix Plasencia on Sunday, with the two leaders emphasising the “considerable potential” for enhancing economic collaboration between their countries, the Foreign Office (FO) said.</p> <p>The two ",
         "url": "https://www.dawn.com/news/2016695/dar-venezuelan-fm-emphasise-considerable-potential-for-enhancing-economic-collaboration",
         "source": "Dawn",
         "date": "2026-07-19T13:43:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       },
       {
@@ -1191,12 +1191,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-95.jpg"
       },
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
         "title": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "summary": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "url": "https://arynews.tv/cinematic-transcendence-unpacking-the-hidden-themes-of-christopher-nolans-the-odyssey",
         "source": "ARY News",
         "date": "2026-07-20T00:42:39+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Christopher-Nolan-‘The-Odyssey.jpg"
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan moves closer to introducing breakthrough therapy for Hepatitis Delta",
@@ -1255,6 +1279,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Bilawal-Bhutto-1.jpg"
       },
       {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
+        "img": ""
+      },
+      {
         "title": "Bilawal seeks 'better results' in upcoming AJK elections as PPP hopes to form govt",
         "summary": "<p>PPP Chairman Bilawal Bhutto-Zardari on Sunday expressed his hope of forming a government in Azad Jammu and Kashmir (AJK), seeking “better results” from the public in the upcoming elections than in the previous one.</p> <p>He made the remarks while addressing a public rally in AJK’s Kotli ahead of the regional electi",
         "url": "https://www.dawn.com/news/2016735/bilawal-seeks-better-results-in-upcoming-ajk-elections-as-ppp-hopes-to-form-govt",
@@ -1293,6 +1325,14 @@
         "source": "ARY News",
         "date": "2026-07-19T23:40:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Samsung.jpg"
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
+        "img": ""
       },
       {
         "title": "Dominant Spain win FIFA World Cup in extra-time",
@@ -1503,6 +1543,22 @@
         "img": ""
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "One terrorist killed, 8 others held as joint operation continues in Bannu",
         "summary": "<p>BANNU: An intelligence-based <a href=\"https://www.dawn.com/news/2016149\">operation</a> (IBO) continued for the third consecutive day across parts of Khyber Pakhtunkhwa’s Bannu district on Sunday, where one <a href=\"https://www.dawn.com/trends/terrorism-in-pakistan/2\">terrorist</a> was killed and eight individuals we",
         "url": "https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu",
@@ -1532,46 +1588,6 @@
         "url": "https://www.express.pk/story/2823011/manghopir-housing-society-2-year-old-child-allegedly-kidnapped-protest-2823011/",
         "source": "Express",
         "date": "2026-07-19T19:32:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
         "img": ""
       },
       {
@@ -1607,27 +1623,11 @@
         "img": ""
       },
       {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
         "title": "Dar, Venezuelan FM emphasise 'considerable potential' for enhancing economic collaboration",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar held a phone call with Venezuela’s newly appointed Foreign Minister Felix Plasencia on Sunday, with the two leaders emphasising the “considerable potential” for enhancing economic collaboration between their countries, the Foreign Office (FO) said.</p> <p>The two ",
         "url": "https://www.dawn.com/news/2016695/dar-venezuelan-fm-emphasise-considerable-potential-for-enhancing-economic-collaboration",
         "source": "Dawn",
         "date": "2026-07-19T13:43:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       },
       {
@@ -1857,11 +1857,43 @@
     ],
     "punjab": [
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
+      },
+      {
         "title": "After backlash over proposed law, state minister outlines more stringent measures for blue passport issuance",
         "summary": "<p>ISLAMABAD: After <a href=\"https://www.dawn.com/news/2014879\">criticism</a> on a bill seeking to allow the issuance of blue passports to former parliamentarians’ children, Minister of State for Interior Tallal Chaudhry has assured that measures would be taken to ensure that the travel document is used for “only offic",
         "url": "https://www.dawn.com/news/2016696/after-backlash-over-proposed-law-state-minister-outlines-more-stringent-measures-for-blue-passport-issuance",
         "source": "Dawn",
         "date": "2026-07-20T00:16:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
         "img": ""
       },
       {
@@ -1878,6 +1910,14 @@
         "url": "https://www.dawn.com/news/2016755/security-forces-counter-unprovoked-firing-by-afghan-taliban-targeting-kurram-border-posts",
         "source": "Dawn",
         "date": "2026-07-19T23:45:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
         "img": ""
       },
       {
@@ -1985,6 +2025,22 @@
         "img": ""
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "One terrorist killed, 8 others held as joint operation continues in Bannu",
         "summary": "<p>BANNU: An intelligence-based <a href=\"https://www.dawn.com/news/2016149\">operation</a> (IBO) continued for the third consecutive day across parts of Khyber Pakhtunkhwa’s Bannu district on Sunday, where one <a href=\"https://www.dawn.com/trends/terrorism-in-pakistan/2\">terrorist</a> was killed and eight individuals we",
         "url": "https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu",
@@ -2014,46 +2070,6 @@
         "url": "https://www.express.pk/story/2823011/manghopir-housing-society-2-year-old-child-allegedly-kidnapped-protest-2823011/",
         "source": "Express",
         "date": "2026-07-19T19:32:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
         "img": ""
       },
       {
@@ -2089,27 +2105,11 @@
         "img": ""
       },
       {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
         "title": "Dar, Venezuelan FM emphasise 'considerable potential' for enhancing economic collaboration",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar held a phone call with Venezuela’s newly appointed Foreign Minister Felix Plasencia on Sunday, with the two leaders emphasising the “considerable potential” for enhancing economic collaboration between their countries, the Foreign Office (FO) said.</p> <p>The two ",
         "url": "https://www.dawn.com/news/2016695/dar-venezuelan-fm-emphasise-considerable-potential-for-enhancing-economic-collaboration",
         "source": "Dawn",
         "date": "2026-07-19T13:43:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       },
       {
@@ -2259,11 +2259,43 @@
     ],
     "sindh": [
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
+      },
+      {
         "title": "After backlash over proposed law, state minister outlines more stringent measures for blue passport issuance",
         "summary": "<p>ISLAMABAD: After <a href=\"https://www.dawn.com/news/2014879\">criticism</a> on a bill seeking to allow the issuance of blue passports to former parliamentarians’ children, Minister of State for Interior Tallal Chaudhry has assured that measures would be taken to ensure that the travel document is used for “only offic",
         "url": "https://www.dawn.com/news/2016696/after-backlash-over-proposed-law-state-minister-outlines-more-stringent-measures-for-blue-passport-issuance",
         "source": "Dawn",
         "date": "2026-07-20T00:16:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
         "img": ""
       },
       {
@@ -2280,6 +2312,14 @@
         "url": "https://www.dawn.com/news/2016755/security-forces-counter-unprovoked-firing-by-afghan-taliban-targeting-kurram-border-posts",
         "source": "Dawn",
         "date": "2026-07-19T23:45:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
         "img": ""
       },
       {
@@ -2387,6 +2427,22 @@
         "img": ""
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "One terrorist killed, 8 others held as joint operation continues in Bannu",
         "summary": "<p>BANNU: An intelligence-based <a href=\"https://www.dawn.com/news/2016149\">operation</a> (IBO) continued for the third consecutive day across parts of Khyber Pakhtunkhwa’s Bannu district on Sunday, where one <a href=\"https://www.dawn.com/trends/terrorism-in-pakistan/2\">terrorist</a> was killed and eight individuals we",
         "url": "https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu",
@@ -2416,46 +2472,6 @@
         "url": "https://www.express.pk/story/2823011/manghopir-housing-society-2-year-old-child-allegedly-kidnapped-protest-2823011/",
         "source": "Express",
         "date": "2026-07-19T19:32:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
         "img": ""
       },
       {
@@ -2491,27 +2507,11 @@
         "img": ""
       },
       {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
         "title": "Dar, Venezuelan FM emphasise 'considerable potential' for enhancing economic collaboration",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar held a phone call with Venezuela’s newly appointed Foreign Minister Felix Plasencia on Sunday, with the two leaders emphasising the “considerable potential” for enhancing economic collaboration between their countries, the Foreign Office (FO) said.</p> <p>The two ",
         "url": "https://www.dawn.com/news/2016695/dar-venezuelan-fm-emphasise-considerable-potential-for-enhancing-economic-collaboration",
         "source": "Dawn",
         "date": "2026-07-19T13:43:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       },
       {
@@ -2677,12 +2677,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-95.jpg"
       },
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
         "title": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "summary": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "url": "https://arynews.tv/cinematic-transcendence-unpacking-the-hidden-themes-of-christopher-nolans-the-odyssey",
         "source": "ARY News",
         "date": "2026-07-20T00:42:39+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Christopher-Nolan-‘The-Odyssey.jpg"
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan moves closer to introducing breakthrough therapy for Hepatitis Delta",
@@ -2741,6 +2765,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Bilawal-Bhutto-1.jpg"
       },
       {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
+        "img": ""
+      },
+      {
         "title": "Bilawal seeks 'better results' in upcoming AJK elections as PPP hopes to form govt",
         "summary": "<p>PPP Chairman Bilawal Bhutto-Zardari on Sunday expressed his hope of forming a government in Azad Jammu and Kashmir (AJK), seeking “better results” from the public in the upcoming elections than in the previous one.</p> <p>He made the remarks while addressing a public rally in AJK’s Kotli ahead of the regional electi",
         "url": "https://www.dawn.com/news/2016735/bilawal-seeks-better-results-in-upcoming-ajk-elections-as-ppp-hopes-to-form-govt",
@@ -2779,6 +2811,14 @@
         "source": "ARY News",
         "date": "2026-07-19T23:40:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Samsung.jpg"
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
+        "img": ""
       },
       {
         "title": "Dominant Spain win FIFA World Cup in extra-time",
@@ -2989,6 +3029,22 @@
         "img": ""
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "One terrorist killed, 8 others held as joint operation continues in Bannu",
         "summary": "<p>BANNU: An intelligence-based <a href=\"https://www.dawn.com/news/2016149\">operation</a> (IBO) continued for the third consecutive day across parts of Khyber Pakhtunkhwa’s Bannu district on Sunday, where one <a href=\"https://www.dawn.com/trends/terrorism-in-pakistan/2\">terrorist</a> was killed and eight individuals we",
         "url": "https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu",
@@ -3018,46 +3074,6 @@
         "url": "https://www.express.pk/story/2823011/manghopir-housing-society-2-year-old-child-allegedly-kidnapped-protest-2823011/",
         "source": "Express",
         "date": "2026-07-19T19:32:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
         "img": ""
       },
       {
@@ -3093,27 +3109,11 @@
         "img": ""
       },
       {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
         "title": "Dar, Venezuelan FM emphasise 'considerable potential' for enhancing economic collaboration",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar held a phone call with Venezuela’s newly appointed Foreign Minister Felix Plasencia on Sunday, with the two leaders emphasising the “considerable potential” for enhancing economic collaboration between their countries, the Foreign Office (FO) said.</p> <p>The two ",
         "url": "https://www.dawn.com/news/2016695/dar-venezuelan-fm-emphasise-considerable-potential-for-enhancing-economic-collaboration",
         "source": "Dawn",
         "date": "2026-07-19T13:43:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       },
       {
@@ -3279,12 +3279,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-95.jpg"
       },
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
         "title": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "summary": "Cinematic transcendence: Unpacking the hidden themes of Christopher Nolan’s ‘The Odyssey’",
         "url": "https://arynews.tv/cinematic-transcendence-unpacking-the-hidden-themes-of-christopher-nolans-the-odyssey",
         "source": "ARY News",
         "date": "2026-07-20T00:42:39+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Christopher-Nolan-‘The-Odyssey.jpg"
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan moves closer to introducing breakthrough therapy for Hepatitis Delta",
@@ -3335,6 +3359,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Bilawal-Bhutto-1.jpg"
       },
       {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
+        "img": ""
+      },
+      {
         "title": "Record-breaking Duckett leads England to ODI series win over India",
         "summary": "Record-breaking Duckett leads England to ODI series win over India",
         "url": "https://arynews.tv/record-breaking-duckett-leads-england-to-odi-series-win-over-india",
@@ -3357,6 +3389,14 @@
         "source": "ARY News",
         "date": "2026-07-19T23:40:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Samsung.jpg"
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
+        "img": ""
       },
       {
         "title": "Dominant Spain win FIFA World Cup in extra-time",
@@ -3559,6 +3599,22 @@
         "img": ""
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "فیفا ورلڈ کپ ٹرافی: فاتح ٹیم اصل ٹرافی اپنے ساتھ کیوں نہیں لے جا سکتی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2823013/fifa-world-cup-trophy-why-cant-the-winning-team-take-the-original-trophy-with-them-2823013/",
@@ -3583,46 +3639,6 @@
         "img": ""
       },
       {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
-        "img": ""
-      },
-      {
         "title": "کینیڈا کی وزیر خارجہ انیتا آنند آج سرکاری دورے پر اسلام آباد پہنچیں گی",
         "summary": "",
         "url": "https://www.express.pk/story/2823015/canadian-foreign-minister-anita-anand-official-visit-will-arrived-islamabad-2823015/",
@@ -3644,22 +3660,6 @@
         "url": "https://www.express.pk/story/2823010/iran-claims-many-us-drones-cruise-missiles-down-2823010/",
         "source": "Express",
         "date": "2026-07-19T14:03:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       }
     ],
@@ -3883,12 +3883,52 @@
         "img": ""
       },
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
+        "img": ""
+      },
+      {
         "title": "Record-breaking Duckett leads England to ODI series win over India",
         "summary": "Record-breaking Duckett leads England to ODI series win over India",
         "url": "https://arynews.tv/category/sports/record-breaking-duckett-leads-england-to-odi-series-win-over-india",
         "source": "ARY Sports",
         "date": "2026-07-19T23:51:40+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-94.jpg"
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
+        "img": ""
       },
       {
         "title": "Dominant Spain win FIFA World Cup in extra-time",
@@ -4003,6 +4043,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Drake-Call-and-Argentina.jpg"
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "Kylian Mbappé sparks social media frenzy with blunder involving Ester Expósito",
         "summary": "Kylian Mbappé sparks social media frenzy with blunder involving Ester Expósito",
         "url": "https://arynews.tv/category/sports/kylian-mbappe-social-media-frenzy-involving-ester-exposito",
@@ -4049,46 +4105,6 @@
         "source": "ARY Sports",
         "date": "2026-07-19T19:31:40+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/ROnal.jpg"
-      },
-      {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
-        "img": ""
       },
       {
         "title": "France's Mbappe becomes World Cup's all-time top scorer",
@@ -4160,22 +4176,6 @@
         "url": "https://www.express.pk/story/2823010/iran-claims-many-us-drones-cruise-missiles-down-2823010/",
         "source": "Express",
         "date": "2026-07-19T14:03:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       },
       {
@@ -4429,6 +4429,46 @@
     ],
     "business": [
       {
+        "title": "کراچی، مختلف واقعات میں ایک خاتون جاں بحق اور ایک زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823034/karachi-one-woman-killed-one-injured-in-separate-incidents-2823034/",
+        "source": "Express",
+        "date": "2026-07-20T01:46:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں پولیس مقابلے، 3 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823033/karachi-police-encounters-in-the-city-3-bandits-arrested-in-injured-condition-2823033/",
+        "source": "Express",
+        "date": "2026-07-20T01:39:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپین نے فتح کے ساتھ فیفا ورلڈ کپ کی 96 سالہ تاریخ کا منفرد ریکارڈ بھی بنا ڈالا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823030/with-this-victory-spain-also-set-a-unique-record-in-the-96-year-history-of-the-fifa-world-cup-2823030/",
+        "source": "Express",
+        "date": "2026-07-20T00:34:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "فیفا ورلڈ کپ فائنل، میچ کے اختتام پر دونوں ٹیموں کے کھلاڑی آپس میں الجھ پڑے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823029/fifa-world-cup-final-players-from-both-teams-clashed-at-the-end-of-the-match-2823029/",
+        "source": "Express",
+        "date": "2026-07-19T23:57:52+05:00",
+        "img": ""
+      },
+      {
+        "title": "شکست نے ارجنٹینا کے کھلاڑیوں کو غم سے نڈھال کر دیا، میسی بھی جذبات پر قابو نہ پا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823028/the-defeat-left-the-argentine-players-devastated-even-messi-could-not-hold-back-his-emotions-2823028/",
+        "source": "Express",
+        "date": "2026-07-19T23:38:55+05:00",
+        "img": ""
+      },
+      {
         "title": "فیفا ورلڈ کپ کی فاتح ہسپانوی ٹیم کا وطن واپسی پر شاندار استقبال کا شیڈول جاری",
         "summary": "",
         "url": "https://www.express.pk/story/2823027/schedule-released-for-the-grand-homecoming-reception-of-the-fifa-world-cup-winning-spanish-team-2823027/",
@@ -4525,6 +4565,22 @@
         "img": ""
       },
       {
+        "title": "کرنٹ اکاؤنٹ خسارہ 649 ملین ڈالرز، برآمدات میں اضافہ ناگزیر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823032/current-account-deficit-stands-at-649-million-increase-in-exports-is-imperative-2823032/",
+        "source": "Express",
+        "date": "2026-07-19T20:14:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "کپاس کی پیداوار میں گزشتہ سال کی نسبت ریکارڈ 77 فیصد اضافہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823031/record-77-increase-in-cotton-production-compared-to-last-year-2823031/",
+        "source": "Express",
+        "date": "2026-07-19T19:57:39+00:00",
+        "img": ""
+      },
+      {
         "title": "فیفا ورلڈ کپ ٹرافی: فاتح ٹیم اصل ٹرافی اپنے ساتھ کیوں نہیں لے جا سکتی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2823013/fifa-world-cup-trophy-why-cant-the-winning-team-take-the-original-trophy-with-them-2823013/",
@@ -4549,46 +4605,6 @@
         "img": ""
       },
       {
-        "title": "اوئسٹر کھانے سے کینسر کا خطرہ کم ہونے میں مدد مل سکتی ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823008/oyster-extract-may-reduce-2823008/",
-        "source": "Express",
-        "date": "2026-07-19T19:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ بدر میں کامیابی نے مسلمانوں کی طاقت اور شان وشوکت میں اضافہ کیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823007/jang-e-badr-main-kamyabi-ne-muslamanon-ki-taqat-aur-shan-o-shaukat-main-izafa-kiya-2823007/",
-        "source": "Express",
-        "date": "2026-07-19T18:58:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل: ٹرمپ اور شکیرا نے بھی دلچسپ پیشگوئیاں کر دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823006/fifa-world-cup-final-trump-and-shakira-also-make-interesting-predictions-2823006/",
-        "source": "Express",
-        "date": "2026-07-19T18:57:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "تیسرا ون ڈے: انگلینڈ نے بھارت کو شکست دیکر سیریز جیت لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823005/eng-beat-india-2823005/",
-        "source": "Express",
-        "date": "2026-07-19T18:16:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمن انڈر 19 ٹی ٹوئنٹی: جنوبی افریقا نے پاکستان کیخلاف 5 میچز کی سیریز میں 1-2 سے سبقت حاصل کر لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823004/womens-under-19-t20-south-africa-takes-a-2-1-lead-in-the-5-match-series-against-pakistan-2823004/",
-        "source": "Express",
-        "date": "2026-07-19T17:55:37+05:00",
-        "img": ""
-      },
-      {
         "title": "کینیڈا کی وزیر خارجہ انیتا آنند آج سرکاری دورے پر اسلام آباد پہنچیں گی",
         "summary": "",
         "url": "https://www.express.pk/story/2823015/canadian-foreign-minister-anita-anand-official-visit-will-arrived-islamabad-2823015/",
@@ -4610,22 +4626,6 @@
         "url": "https://www.express.pk/story/2823010/iran-claims-many-us-drones-cruise-missiles-down-2823010/",
         "source": "Express",
         "date": "2026-07-19T14:03:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیفا ورلڈ کپ فائنل، اسپین دفاعی چیمپئن ارجنٹینا کو شکست دے کر دنیائے فٹبال کا نیا حکمران بن گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823009/fifa-world-cup-2026-final-argentina-vs-spain-2823009/",
-        "source": "Express",
-        "date": "2026-07-19T14:02:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا حملے کرکے اپنی فوجی شکست کی خفت مٹانے کی کوشش کر رہا ہے، پاسداران انقلاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823003/us-trying-to-compensate-for-military-defeat-irgc-2823003/",
-        "source": "Express",
-        "date": "2026-07-19T12:37:45+00:00",
         "img": ""
       },
       {
