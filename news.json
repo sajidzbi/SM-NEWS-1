@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-07-26T23:52:05.047233+00:00",
+  "fetched": "2026-07-27T01:58:37.363004+00:00",
   "categories": {
     "international": [
+      {
+        "title": "عباس عراقچی کا یوکرین پر ایرانی جہاز کو نشانہ بنانے اور یورپ کو جنگ میں گھسیٹنے کی کوشش کا الزام",
+        "summary": "ایران کے وزیرِ خارجہ نے کہا ہے کہ یوکرین کے صدر ویلادیمیر زیلنسکی نے ایک ایرانی تجارتی جہاز پر حملہ کر کے ایک ملاح کو ہلاک کر دیا، جو اقوامِ متحدہ کے چارٹر کی خلاف ورزی ہے۔ انھوں نے ایکس پر اپنے بیان میں الزام عائد کیا کہ ’یہ حملہ اسرائیل کے ایما پر کیا گیا تاکہ یورپ کو اس کی جنگ میں گھسیٹا جا سکے۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/c4gkxneqk77t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-27T01:58:39.460747+00:00",
+        "img": ""
+      },
       {
         "title": "Grenade attack near Quetta’s Patel road leaves one dead, four injured",
         "summary": "Grenade attack near Quetta’s Patel road leaves one dead, four injured",
@@ -88,14 +96,6 @@
         "url": "https://www.dawn.com/news/2018511/suspect-in-berlin-attack-near-pride-gathering-shot-dead-by-police",
         "source": "Dawn",
         "date": "2026-07-27T00:08:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "عباس عراقچی کا یوکرین پر ایرانی جہاز کو نشانہ بنانے اور یورپ کو جنگ میں گھسیٹنے کی کوشش کا الزام",
-        "summary": "ایران کے وزیرِ خارجہ نے کہا ہے کہ یوکرین کے صدر ویلادیمیر زیلنسکی نے ایک ایرانی تجارتی جہاز پر حملہ کر کے ایک ملاح کو ہلاک کر دیا، جو اقوامِ متحدہ کے چارٹر کی خلاف ورزی ہے۔ انھوں نے ایکس پر اپنے بیان میں الزام عائد کیا کہ ’یہ حملہ اسرائیل کے ایما پر کیا گیا تاکہ یورپ کو اس کی جنگ میں گھسیٹا جا سکے۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/c4gkxneqk77t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-26T23:52:06.831004+00:00",
         "img": ""
       },
       {
@@ -789,11 +789,43 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Power-Ball.jpg"
       },
       {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
         "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
         "img": ""
       },
       {
@@ -941,6 +973,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -978,46 +1018,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       },
       {
@@ -1391,11 +1391,43 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Power-Ball.jpg"
       },
       {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
         "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
         "img": ""
       },
       {
@@ -1543,6 +1575,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -1580,46 +1620,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       },
       {
@@ -1873,11 +1873,43 @@
         "img": ""
       },
       {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
         "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
         "img": ""
       },
       {
@@ -2025,6 +2057,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -2062,46 +2102,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       },
       {
@@ -2275,11 +2275,43 @@
         "img": ""
       },
       {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
         "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
         "img": ""
       },
       {
@@ -2427,6 +2459,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -2464,46 +2504,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       },
       {
@@ -2877,11 +2877,43 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Power-Ball.jpg"
       },
       {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
         "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
         "img": ""
       },
       {
@@ -3029,6 +3061,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -3066,46 +3106,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       },
       {
@@ -3463,11 +3463,43 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Power-Ball.jpg"
       },
       {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
         "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
         "img": ""
       },
       {
@@ -3583,6 +3615,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -3620,46 +3660,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       }
     ],
@@ -3891,20 +3891,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-13-1.jpg"
       },
       {
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
+        "source": "Express",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
+        "img": ""
+      },
+      {
         "title": "What Jude Bellingham Said to Referee After England’s World Cup Clash with Argentina",
         "summary": "What Jude Bellingham Said to Referee After England’s World Cup Clash with Argentina",
         "url": "https://arynews.tv/what-jude-bellingham-said-to-referee-after-englands-world-cup-clash-with-argentina",
         "source": "ARY Sports",
         "date": "2026-07-26T18:58:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Jude-Bellingham.jpg"
-      },
-      {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
-        "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
-        "img": ""
       },
       {
         "title": "میرپور ڈویژن کے انتخابات ملتوی؟ الیکشن کمیشن کا بڑا وضاحتی بیان سامنے آ گیا",
@@ -4019,6 +4051,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -4056,46 +4096,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       },
       {
@@ -4429,11 +4429,43 @@
     ],
     "business": [
       {
-        "title": "ہارس بیک آرچری چیمپئن شپ میں پاکستانی باپ بیٹی نے تاریخ رقم کر دی",
+        "title": "جنگ بندی کے اشارے ملنے پر عالمی مارکیٹ میں خام تیل 100 ڈالر سے نیچے آگیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824213/pakistani-father-and-daughter-make-history-at-the-horseback-archery-championship-2824213/",
+        "url": "https://www.express.pk/story/2824242/crude-oil-prices-in-the-global-market-fell-below-100-following-signs-of-a-ceasefire-2824242/",
         "source": "Express",
-        "date": "2026-07-26T18:46:46+05:00",
+        "date": "2026-07-26T20:12:34+00:00",
+        "img": ""
+      },
+      {
+        "title": "پنجاب میں گندم خریداری کا نظام ناکام، لاکھوں ٹن فصل سندھ اور کے پی چلی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824241/wheat-procurement-system-in-punjab-fails-hundreds-of-thousands-of-tons-of-the-crop-moved-to-sindh-and-kp-2824241/",
+        "source": "Express",
+        "date": "2026-07-26T19:53:25+00:00",
+        "img": ""
+      },
+      {
+        "title": "جی ایس پی پلس رپورٹ ، پاکستان کیلیے پیشرفت اوردرپیش چیلنجز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824240/gsp-plus-report-progress-and-challenges-facing-pakistan-2824240/",
+        "source": "Express",
+        "date": "2026-07-26T19:47:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، نارتھ ناظم آباد پولیس کا ڈاکوؤں کے ساتھ مقابلہ، ایک ملزم زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824239/karachi-north-nazimabad-police-clash-with-bandits-one-suspect-arrested-in-injured-condition-2824239/",
+        "source": "Express",
+        "date": "2026-07-26T19:34:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر میں انتخابی دنگل سج گیا، 3 اضلاع میں پولنگ آج ہو گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824238/the-electoral-battle-is-set-in-azad-kashmir-polling-will-take-place-in-three-districts-today-2824238/",
+        "source": "Express",
+        "date": "2026-07-26T19:17:11+00:00",
         "img": ""
       },
       {
@@ -4549,6 +4581,14 @@
         "img": ""
       },
       {
+        "title": "پہلے نشان حیدر یافتہ کیپٹن محمد سرور شہید کو 78ویں یوم شہادت پر مسلح افواج کا شاندار خراج عقیدت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824222/armed-forces-pay-tribute-to-captain-muhammad-sarwar-shaheed-the-first-recipient-of-nishan-e-haider-on-his-78th-martyrdom-anniversary-2824222/",
+        "source": "Express",
+        "date": "2026-07-26T15:16:12+00:00",
+        "img": ""
+      },
+      {
         "title": "کیپٹن محمد سرور شہید نشان حیدر کا 78 واں یوم شہادت آج منایا جا رہا ہے",
         "summary": "",
         "url": "https://www.express.pk/story/2824221/the-78th-martyrdom-anniversary-of-captain-muhammad-sarwar-shaheed-nishan-e-haider-is-being-observed-today-2824221/",
@@ -4586,46 +4626,6 @@
         "url": "https://www.express.pk/story/2824217/bachon-ki-tarbiyat-mein-walidain-ki-ghalat-fehmiy-2824217/",
         "source": "Express",
         "date": "2026-07-26T14:58:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزاد کشمیر کے عوام حق ملکیت اور حق حکمرانی مانگ رہے ہیں، شازیہ مری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824216/the-people-of-azad-kashmir-are-demanding-ownership-rights-and-the-right-to-rule-shazia-marri-2824216/",
-        "source": "Express",
-        "date": "2026-07-26T14:46:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے حملوں سے ہونے والے امریکی نقصانات کی طویل فہرست سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824215/irani-attacks-on-bases-in-region-us-damages-list-2824215/",
-        "source": "Express",
-        "date": "2026-07-26T14:14:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "اکالی پھولا سنگھ اور گردوارہ نہنگ سنگھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824214/akali-phoola-singh-aur-gurdwara-nihang-singh-2824214/",
-        "source": "Express",
-        "date": "2026-07-26T14:13:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل کا غزہ میں حماس کمانڈر کو شہید کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824212/israel-claims-martyred-hamas-commander-in-gaza-2824212/",
-        "source": "Express",
-        "date": "2026-07-26T13:43:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرانو: لداخ سرحد کی قربت میں پاکستان کا آخری قریہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824211/farano-ladakh-sarhad-ki-qurbat-mein-pakistan-ka-aakhri-qarya-2824211/",
-        "source": "Express",
-        "date": "2026-07-26T13:40:06+00:00",
         "img": ""
       },
       {
