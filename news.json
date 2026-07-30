@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-07-29T23:53:08.450918+00:00",
+  "fetched": "2026-07-30T01:26:00.214549+00:00",
   "categories": {
     "international": [
+      {
+        "title": "اردن میں امریکی اڈوں پر حملے کی ایران کو بھاری قیمت چکانا ہو گی: ٹرمپ",
+        "summary": "فاکس نیوز کے مطابق صدر ٹرمپ نے کہا ہے کہ اردن میں امریکی اڈوں پر میزائل حملے کے بعد امریکہ ایران کے خلاف سخت کارروائی کرے گا۔ دوسری جانب مشرقِ وسطیٰ میں امریکی اڈوں پر ایرانی میزائل حملوں اور عراق میں امریکہ و سعودی عرب کی مشترکہ فوجی کارروائی کے بعد عالمی منڈی میں تیل کی قیمتوں میں نمایاں اضافہ ہوا ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c2el30njjeyt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-30T01:26:02.144848+00:00",
+        "img": ""
+      },
       {
         "title": "HRCP, Amnesty call for 'prompt, independent' probe into Rawalakot unrest",
         "summary": "<p>The Human Rights Commission of Pakistan (HRCP) and Amnesty International have expressed concern over reports of violence in the Rawalakot area of Azad Jammu and Kashmir’s (AJK) Poonch district, and called on the authorities to probe the incidents.</p> <p>Clashes took place between protesters and law enforcement pers",
@@ -89,14 +97,6 @@
         "source": "ARY News",
         "date": "2026-07-30T00:01:06+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Egypt.jpg"
-      },
-      {
-        "title": "اردن میں امریکی اڈوں پر حملے کی ایران کو بھاری قیمت چکانا ہو گی: ٹرمپ",
-        "summary": "فاکس نیوز کے مطابق صدر ٹرمپ نے کہا ہے کہ اردن میں امریکی اڈوں پر میزائل حملے کے بعد امریکہ ایران کے خلاف سخت کارروائی کرے گا۔ دوسری جانب مشرقِ وسطیٰ میں امریکی اڈوں پر ایرانی میزائل حملوں اور عراق میں امریکہ و سعودی عرب کی مشترکہ فوجی کارروائی کے بعد عالمی منڈی میں تیل کی قیمتوں میں نمایاں اضافہ ہوا ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c2el30njjeyt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-29T23:53:11.563492+00:00",
-        "img": ""
       },
       {
         "title": "AI search engines may mistake satire for facts, experts warn",
@@ -573,6 +573,14 @@
     ],
     "national": [
       {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
+      {
         "title": "HRCP, Amnesty call for 'prompt, independent' probe into Rawalakot unrest",
         "summary": "<p>The Human Rights Commission of Pakistan (HRCP) and Amnesty International have expressed concern over reports of violence in the Rawalakot area of Azad Jammu and Kashmir’s (AJK) Poonch district, and called on the authorities to probe the incidents.</p> <p>Clashes took place between protesters and law enforcement pers",
         "url": "https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest",
@@ -837,6 +845,38 @@
         "img": ""
       },
       {
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
+        "source": "Express",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Security forces kill 32 terrorists during operations in KP, Balochistan: ISPR",
         "summary": "<p>Security forces have killed 32 terrorists during operations in Khyber Pakhtunkhwa and Balochistan over the last 24 hours, the military’s media affairs wing said in a statement released on Wednesday.</p> <p>The Inter-Services Public Relations (ISPR) said “comprehensive joint operations” were carried out in various pa",
         "url": "https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr",
@@ -850,14 +890,6 @@
         "url": "https://www.dawn.com/news/2019250/govt-aims-to-provide-citizens-access-to-all-public-facilities-under-single-digital-id-pm-shehbaz",
         "source": "Dawn",
         "date": "2026-07-29T18:19:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
-        "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
         "img": ""
       },
       {
@@ -1013,19 +1045,11 @@
         "img": ""
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
         "date": "2026-07-29T14:31:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
         "img": ""
       },
       {
@@ -1034,30 +1058,6 @@
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,14 @@
     ],
     "kpk": [
       {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
+      {
         "title": "HRCP, Amnesty call for 'prompt, independent' probe into Rawalakot unrest",
         "summary": "<p>The Human Rights Commission of Pakistan (HRCP) and Amnesty International have expressed concern over reports of violence in the Rawalakot area of Azad Jammu and Kashmir’s (AJK) Poonch district, and called on the authorities to probe the incidents.</p> <p>Clashes took place between protesters and law enforcement pers",
         "url": "https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest",
@@ -1439,6 +1447,38 @@
         "img": ""
       },
       {
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
+        "source": "Express",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Security forces kill 32 terrorists during operations in KP, Balochistan: ISPR",
         "summary": "<p>Security forces have killed 32 terrorists during operations in Khyber Pakhtunkhwa and Balochistan over the last 24 hours, the military’s media affairs wing said in a statement released on Wednesday.</p> <p>The Inter-Services Public Relations (ISPR) said “comprehensive joint operations” were carried out in various pa",
         "url": "https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr",
@@ -1452,14 +1492,6 @@
         "url": "https://www.dawn.com/news/2019250/govt-aims-to-provide-citizens-access-to-all-public-facilities-under-single-digital-id-pm-shehbaz",
         "source": "Dawn",
         "date": "2026-07-29T18:19:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
-        "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
         "img": ""
       },
       {
@@ -1615,19 +1647,11 @@
         "img": ""
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
         "date": "2026-07-29T14:31:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
         "img": ""
       },
       {
@@ -1644,30 +1668,6 @@
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,14 @@
     ],
     "punjab": [
       {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
+      {
         "title": "HRCP, Amnesty call for 'prompt, independent' probe into Rawalakot unrest",
         "summary": "<p>The Human Rights Commission of Pakistan (HRCP) and Amnesty International have expressed concern over reports of violence in the Rawalakot area of Azad Jammu and Kashmir’s (AJK) Poonch district, and called on the authorities to probe the incidents.</p> <p>Clashes took place between protesters and law enforcement pers",
         "url": "https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest",
@@ -1921,6 +1929,38 @@
         "img": ""
       },
       {
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
+        "source": "Express",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Security forces kill 32 terrorists during operations in KP, Balochistan: ISPR",
         "summary": "<p>Security forces have killed 32 terrorists during operations in Khyber Pakhtunkhwa and Balochistan over the last 24 hours, the military’s media affairs wing said in a statement released on Wednesday.</p> <p>The Inter-Services Public Relations (ISPR) said “comprehensive joint operations” were carried out in various pa",
         "url": "https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr",
@@ -1934,14 +1974,6 @@
         "url": "https://www.dawn.com/news/2019250/govt-aims-to-provide-citizens-access-to-all-public-facilities-under-single-digital-id-pm-shehbaz",
         "source": "Dawn",
         "date": "2026-07-29T18:19:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
-        "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
         "img": ""
       },
       {
@@ -2097,19 +2129,11 @@
         "img": ""
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
         "date": "2026-07-29T14:31:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
         "img": ""
       },
       {
@@ -2118,30 +2142,6 @@
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,14 @@
     ],
     "sindh": [
       {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
+      {
         "title": "HRCP, Amnesty call for 'prompt, independent' probe into Rawalakot unrest",
         "summary": "<p>The Human Rights Commission of Pakistan (HRCP) and Amnesty International have expressed concern over reports of violence in the Rawalakot area of Azad Jammu and Kashmir’s (AJK) Poonch district, and called on the authorities to probe the incidents.</p> <p>Clashes took place between protesters and law enforcement pers",
         "url": "https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest",
@@ -2323,6 +2331,38 @@
         "img": ""
       },
       {
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
+        "source": "Express",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Security forces kill 32 terrorists during operations in KP, Balochistan: ISPR",
         "summary": "<p>Security forces have killed 32 terrorists during operations in Khyber Pakhtunkhwa and Balochistan over the last 24 hours, the military’s media affairs wing said in a statement released on Wednesday.</p> <p>The Inter-Services Public Relations (ISPR) said “comprehensive joint operations” were carried out in various pa",
         "url": "https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr",
@@ -2336,14 +2376,6 @@
         "url": "https://www.dawn.com/news/2019250/govt-aims-to-provide-citizens-access-to-all-public-facilities-under-single-digital-id-pm-shehbaz",
         "source": "Dawn",
         "date": "2026-07-29T18:19:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
-        "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
         "img": ""
       },
       {
@@ -2499,19 +2531,11 @@
         "img": ""
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
         "date": "2026-07-29T14:31:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
         "img": ""
       },
       {
@@ -2520,30 +2544,6 @@
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,14 @@
     ],
     "baloch": [
       {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
+      {
         "title": "HRCP, Amnesty call for 'prompt, independent' probe into Rawalakot unrest",
         "summary": "<p>The Human Rights Commission of Pakistan (HRCP) and Amnesty International have expressed concern over reports of violence in the Rawalakot area of Azad Jammu and Kashmir’s (AJK) Poonch district, and called on the authorities to probe the incidents.</p> <p>Clashes took place between protesters and law enforcement pers",
         "url": "https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest",
@@ -2925,6 +2933,38 @@
         "img": ""
       },
       {
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
+        "source": "Express",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Security forces kill 32 terrorists during operations in KP, Balochistan: ISPR",
         "summary": "<p>Security forces have killed 32 terrorists during operations in Khyber Pakhtunkhwa and Balochistan over the last 24 hours, the military’s media affairs wing said in a statement released on Wednesday.</p> <p>The Inter-Services Public Relations (ISPR) said “comprehensive joint operations” were carried out in various pa",
         "url": "https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr",
@@ -2938,14 +2978,6 @@
         "url": "https://www.dawn.com/news/2019250/govt-aims-to-provide-citizens-access-to-all-public-facilities-under-single-digital-id-pm-shehbaz",
         "source": "Dawn",
         "date": "2026-07-29T18:19:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
-        "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
         "img": ""
       },
       {
@@ -3101,19 +3133,11 @@
         "img": ""
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
         "date": "2026-07-29T14:31:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
         "img": ""
       },
       {
@@ -3122,30 +3146,6 @@
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       },
       {
@@ -3262,6 +3262,14 @@
       }
     ],
     "education": [
+      {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
       {
         "title": "Tom Cruise reacts as daughter Suri changes last name",
         "summary": "Tom Cruise reacts as daughter Suri changes last name",
@@ -3463,11 +3471,35 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-31-2.jpg"
       },
       {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
         "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
         "img": ""
       },
       {
@@ -3615,19 +3647,11 @@
         "img": ""
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
         "date": "2026-07-29T14:31:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
         "img": ""
       },
       {
@@ -3636,30 +3660,6 @@
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       }
     ],
@@ -3867,6 +3867,14 @@
     ],
     "sports": [
       {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
+      {
         "title": "Neymar says his Brazil career is over",
         "summary": "Neymar says his Brazil career is over",
         "url": "https://arynews.tv/neymar-says-his-brazil-career-is-over",
@@ -3899,19 +3907,43 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-33-2.jpg"
       },
       {
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
+        "source": "Express",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
+        "img": ""
+      },
+      {
         "title": "ICC penalises Khurram Shahzad, Mohammad Abbas over 'aggressive, animated' celebration during West Indies Test",
         "summary": "<p>The International Cricket Council (ICC) said on Wednesday that it had penalised Pakistan’s Khurram Shahzad and Mohammad Abbas for breaching Level 1 of the ICC code of conduct during the first match of their ICC World Test Championship series against the West Indies in Tarouba.</p> <p>“Khurram was fined 15 per cent o",
         "url": "https://www.dawn.com/news/2019251/icc-penalises-khurram-shahzad-mohammad-abbas-over-aggressive-animated-celebration-during-west-indies-test",
         "source": "Dawn",
         "date": "2026-07-29T18:01:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
-        "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
         "img": ""
       },
       {
@@ -4131,7 +4163,7 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-149.jpg"
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
@@ -4147,43 +4179,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-148.jpg"
       },
       {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
-        "img": ""
-      },
-      {
         "title": "بنگلا دیش کرکٹ بورڈ نے ون ڈے ٹیم کا نیا کپتان مقرر کر دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       },
       {
@@ -4421,6 +4421,14 @@
     ],
     "business": [
       {
+        "title": "ایران پر فضائی حملے شروع کر دیے ہیں، امریکی سینٹرل کمانڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824739/us-central-command-has-launched-airstrikes-on-iran-2824739/",
+        "source": "Express",
+        "date": "2026-07-30T01:13:06+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt increases diesel price by Rs2.24, decreases petrol's by 75 paisas",
         "summary": "<p>The government on Wednesday increased the price of high-speed diesel (HSD) by Rs2.24 per litre, while reducing that of petrol by a meagre 75 paisas.</p> <p>Following the revision, HSD will retail at Rs390.62 per litre, while petrol will cost Rs335.06 per litre. The Petroleum Division’s notification said the new pric",
         "url": "https://www.dawn.com/news/2019282/govt-increases-diesel-price-by-rs224-decreases-petrols-by-75-paisas",
@@ -4429,11 +4437,35 @@
         "img": ""
       },
       {
-        "title": "’’پیسہ صرف آمدنی نہیں، عزت بھی دلاتا ہے‘‘، شہناز گل کا اپنے معاوضے پر موقف",
+        "title": "اسلحہ ذخائر میں کمی کی خبر درست نکلی، امریکا نے پیٹریاٹ میزائلوں کی تیاری کا آرڈر دے دیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2824706/money-is-not-just-income-it-also-brings-respect-says-shahnaz-gul-on-her-compensation-2824706/",
+        "url": "https://www.express.pk/story/2824738/reports-regarding-the-depletion-of-weapons-stockpiles-proved-accurate-the-us-has-placed-an-order-for-the-production-of-patriot-missiles-2824738/",
         "source": "Express",
-        "date": "2026-07-29T17:58:45+05:00",
+        "date": "2026-07-29T19:32:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
+        "source": "Express",
+        "date": "2026-07-29T19:15:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مقابلے میں ہلاک اشتہاری ضرگام کے گھر سے تاوان کے لیے اغوا کی گئی خاتون بازیاب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824737/rawalpindi-woman-kidnapped-for-ransom-rescued-from-the-house-of-zargham-a-proclaimed-offender-killed-in-an-encounter-2824737/",
+        "source": "Express",
+        "date": "2026-07-29T19:04:53+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ نمبر 7 میں پولیس مقابلہ، ایک زخمی ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824736/karachi-police-encounter-in-baldia-no-7-injured-robber-arrested-2824736/",
+        "source": "Express",
+        "date": "2026-07-29T18:52:20+00:00",
         "img": ""
       },
       {
@@ -4581,19 +4613,11 @@
         "img": ""
       },
       {
-        "title": "لاہور میں مکان کی چھت منہدم، ملبے سے نکالی گئی دو خواتین دم توڑ گئیں، ریسکیو آپریشن جاری",
+        "title": "لاہور، گھر کی تین چھتیں ایک ساتھ گر گئیں، ملبے سے 9 افراد کو نکالا گیا، 2 خواتین جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2824714/lahore-house-roof-collapse-2824714/",
         "source": "Express",
         "date": "2026-07-29T14:31:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور ہنگو میں دہشت گردی کے واقعات میں 11 اہلکار و سویلین شہید، 18 خارجی دہشت گرد ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824713/hangu-and-sawat-operation-18-kharji-killed-2824713/",
-        "source": "Express",
-        "date": "2026-07-29T14:15:49+00:00",
         "img": ""
       },
       {
@@ -4602,30 +4626,6 @@
         "url": "https://www.express.pk/story/2824711/the-bangladesh-cricket-board-has-appointed-a-new-captain-for-the-odi-team-2824711/",
         "source": "Express",
         "date": "2026-07-29T14:06:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کی تقریروں پر سٹہ کھیلنے والا وائٹ ہاؤس اہلکار کی نوکری ختم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824710/white-house-teleprompter-operator-2824710/",
-        "source": "Express",
-        "date": "2026-07-29T14:01:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "دبئی میں غیرقانونی مقیم تارکین وطن کیلئے مراعات، دستاویزات کیلئے تعاون کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824709/dubai-announce-facilities-for-residency-violators-support-for-documentation-2824709/",
-        "source": "Express",
-        "date": "2026-07-29T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، گلشن اقبال میں پولیس موبائل پر حملے میں 2 اہلکار زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824707/karachi-cracker-attack-2824707/",
-        "source": "Express",
-        "date": "2026-07-29T13:22:38+00:00",
         "img": ""
       },
       {
