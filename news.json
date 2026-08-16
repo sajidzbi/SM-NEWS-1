@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-08-16T00:41:09.526054+00:00",
+  "fetched": "2026-08-16T02:15:24.782847+00:00",
   "categories": {
     "international": [
+      {
+        "title": "تہران کا قطر پر تین ایرانی پائلٹوں کو قید میں رکھنے کا الزام، دوحہ کی تردید",
+        "summary": "قطر کی وزارتِ خارجہ نے ایران کے اس دعوے کی تردید کی ہے کہ اس کے تین پائلٹ قطر کی قید میں ہیں۔ ایران کی مسلح افواج کے جنرل سٹاف کی گمشدہ افراد کی تلاش سے متعلق کمیٹی کے سربراہ نے الزام لگایا تھا کہ تین ایرانی پائلٹ قطر میں قید ہیں اور انھوں نے ریڈ کراس سے اس معاملے میں مدد کی اپیل کی تھی۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cme8lk53kz3gt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-16T02:15:26.675953+00:00",
+        "img": ""
+      },
       {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
@@ -9,14 +17,6 @@
         "source": "ARY News",
         "date": "2026-08-16T00:52:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
-      },
-      {
-        "title": "تہران کا قطر پر تین ایرانی پائلٹوں کو قید میں رکھنے کا الزام، دوحہ کی تردید",
-        "summary": "قطر کی وزارتِ خارجہ نے ایران کے اس دعوے کی تردید کی ہے کہ اس کے تین پائلٹ قطر کی قید میں ہیں۔ ایران کی مسلح افواج کے جنرل سٹاف کی گمشدہ افراد کی تلاش سے متعلق کمیٹی کے سربراہ نے الزام لگایا تھا کہ تین ایرانی پائلٹ قطر میں قید ہیں اور انھوں نے ریڈ کراس سے اس معاملے میں مدد کی اپیل کی تھی۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cme8lk53kz3gt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-16T00:41:11.598395+00:00",
-        "img": ""
       },
       {
         "title": "Buckingham Palace wishes Princess Anne a happy 76th birthday",
@@ -573,6 +573,22 @@
     ],
     "national": [
       {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
         "url": "https://arynews.tv/yash-addresses-comparisons-with-shah-rukh-khan",
@@ -581,11 +597,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -749,6 +773,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -786,6 +818,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -917,6 +957,14 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
@@ -949,22 +997,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
       },
       {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "summary": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "url": "https://arynews.tv/mir-raza-ali-case-two-more-police-personnel-join-investigation-team",
@@ -987,14 +1019,6 @@
         "source": "ARY News",
         "date": "2026-08-15T18:42:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-98.jpg"
-      },
-      {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
-        "img": ""
       },
       {
         "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
@@ -1021,35 +1045,11 @@
         "img": ""
       },
       {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,22 @@
     ],
     "kpk": [
       {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
         "url": "https://arynews.tv/yash-addresses-comparisons-with-shah-rukh-khan",
@@ -1183,11 +1199,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -1351,6 +1375,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -1388,6 +1420,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -1519,6 +1559,14 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
@@ -1551,22 +1599,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
       },
       {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "summary": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "url": "https://arynews.tv/mir-raza-ali-case-two-more-police-personnel-join-investigation-team",
@@ -1589,14 +1621,6 @@
         "source": "ARY News",
         "date": "2026-08-15T18:42:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-98.jpg"
-      },
-      {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
-        "img": ""
       },
       {
         "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
@@ -1623,35 +1647,11 @@
         "img": ""
       },
       {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
         "img": ""
       },
       {
@@ -1857,11 +1857,35 @@
     ],
     "punjab": [
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
+        "source": "Express",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -1921,6 +1945,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -1942,6 +1974,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -2049,35 +2089,19 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "آزادی",
         "summary": "",
         "url": "https://www.express.pk/story/2827499/freedom-2827499/",
         "source": "Express",
         "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
         "img": ""
       },
       {
@@ -2105,35 +2129,11 @@
         "img": ""
       },
       {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
         "img": ""
       },
       {
@@ -2259,11 +2259,35 @@
     ],
     "sindh": [
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
+        "source": "Express",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -2323,6 +2347,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -2344,6 +2376,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -2451,35 +2491,19 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "آزادی",
         "summary": "",
         "url": "https://www.express.pk/story/2827499/freedom-2827499/",
         "source": "Express",
         "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
         "img": ""
       },
       {
@@ -2507,35 +2531,11 @@
         "img": ""
       },
       {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,22 @@
     ],
     "baloch": [
       {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
         "url": "https://arynews.tv/yash-addresses-comparisons-with-shah-rukh-khan",
@@ -2669,11 +2685,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -2837,6 +2861,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -2874,6 +2906,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -3005,6 +3045,14 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
@@ -3037,22 +3085,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
       },
       {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "summary": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "url": "https://arynews.tv/mir-raza-ali-case-two-more-police-personnel-join-investigation-team",
@@ -3075,14 +3107,6 @@
         "source": "ARY News",
         "date": "2026-08-15T18:42:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-98.jpg"
-      },
-      {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
-        "img": ""
       },
       {
         "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
@@ -3109,35 +3133,11 @@
         "img": ""
       },
       {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
         "img": ""
       },
       {
@@ -3263,6 +3263,22 @@
     ],
     "education": [
       {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
         "url": "https://arynews.tv/yash-addresses-comparisons-with-shah-rukh-khan",
@@ -3271,11 +3287,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -3415,6 +3439,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -3444,6 +3476,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -3551,6 +3591,14 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
         "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
@@ -3583,22 +3631,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
       },
       {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "summary": "Mir Raza Ali Case: Two more police personnel join investigation team",
         "url": "https://arynews.tv/mir-raza-ali-case-two-more-police-personnel-join-investigation-team",
@@ -3623,43 +3655,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-98.jpg"
       },
       {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
-        "img": ""
-      },
-      {
         "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
         "summary": "",
         "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
         "source": "Express",
         "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
         "img": ""
       }
     ],
@@ -3867,11 +3867,35 @@
     ],
     "sports": [
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
+        "source": "Express",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -3907,6 +3931,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -3920,6 +3952,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -4003,27 +4043,19 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "آزادی",
         "summary": "",
         "url": "https://www.express.pk/story/2827499/freedom-2827499/",
         "source": "Express",
         "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
         "img": ""
       },
       {
@@ -4041,14 +4073,6 @@
         "source": "ARY Sports",
         "date": "2026-08-15T18:39:42+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-97.jpg"
-      },
-      {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
-        "img": ""
       },
       {
         "title": "India’s Padikkal, Rahul hit half-centuries in Sri Lanka Test",
@@ -4091,36 +4115,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-94.jpg"
       },
       {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan captain Babar in injury scare ahead of England Test",
         "summary": "Pakistan captain Babar in injury scare ahead of England Test",
         "url": "https://arynews.tv/pakistan-captain-babar-in-injury-scare-ahead-of-england-test",
         "source": "ARY Sports",
         "date": "2026-08-15T13:43:02+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-149.jpg"
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
-        "img": ""
       },
       {
         "title": "Call of Duty: Modern Warfare 4 Beta teases exciting new content",
@@ -4429,11 +4429,35 @@
     ],
     "business": [
       {
-        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
         "source": "Express",
-        "date": "2026-08-16T00:24:13+05:00",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
+        "source": "Express",
+        "date": "2026-08-16T00:46:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر میں نامعلوم سمت سے گولیاں چلنے کا سلسلہ بدستور جاری، مزید 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
+        "source": "Express",
+        "date": "2026-08-16T00:39:57+05:00",
         "img": ""
       },
       {
@@ -4469,6 +4493,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -4482,6 +4514,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -4565,6 +4605,14 @@
         "img": ""
       },
       {
+        "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
+        "source": "Express",
+        "date": "2026-08-15T19:24:13+00:00",
+        "img": ""
+      },
+      {
         "title": "آزادی",
         "summary": "",
         "url": "https://www.express.pk/story/2827499/freedom-2827499/",
@@ -4573,59 +4621,11 @@
         "img": ""
       },
       {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "1000 سال قدیم پوپ کا گمشدہ خط دریافت، اہم انکشاف!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827494/lost-letter-from-pope-2827494/",
-        "source": "Express",
-        "date": "2026-08-15T18:36:34+05:00",
-        "img": ""
-      },
-      {
         "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
         "summary": "",
         "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
         "source": "Express",
         "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کشمیر کے عوام نے ووٹ سے دنگا فساد کو شکست دے کر ترقی کا فیصلہ کیا ہے، مریم نواز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827493/kashmiris-have-defeated-violence-and-unrest-chosen-the-path-of-development-says-maryam-nawaz-2827493/",
-        "source": "Express",
-        "date": "2026-08-15T13:14:54+00:00",
         "img": ""
       },
       {
