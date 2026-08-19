@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-08-19T00:39:18.361727+00:00",
+  "fetched": "2026-08-19T02:11:41.879038+00:00",
   "categories": {
     "international": [
+      {
+        "title": "متحدہ عرب امارات کا ایران پر دو بیلسٹک میزائل داغنے کا الزام، ’دونوں میزائل اماراتی سرزمین پر نہیں گرے‘",
+        "summary": "متحدہ عرب امارات کی وزارتِ دفاع نے سوشل نیٹ ورک ایکس پر کہا کہ ’متحدہ عرب امارات کے فضائی دفاعی نظام نے ایران کی جانب سے ملک کی طرف داغے گئے دو بیلسٹک میزائلوں کا سراغ لگایا۔ پہلا میزائل امارات کی علاقائی حدود کے باہر گرا جبکہ دوسرا میزائل علاقائی پانیوں میں جا گرا۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/c5rmrrglxr8zt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-19T02:11:45.038654+00:00",
+        "img": ""
+      },
       {
         "title": "US SEC proposes long-awaited crypto rules",
         "summary": "US SEC proposes long-awaited crypto rules",
@@ -49,14 +57,6 @@
         "source": "ARY News",
         "date": "2026-08-19T00:44:10+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Masked-menace.jpg"
-      },
-      {
-        "title": "متحدہ عرب امارات کا ایران پر دو بیلسٹک میزائل داغنے کا الزام، ’دونوں میزائل اماراتی سرزمین پر نہیں گرے‘",
-        "summary": "متحدہ عرب امارات کی وزارتِ دفاع نے سوشل نیٹ ورک ایکس پر کہا کہ ’متحدہ عرب امارات کے فضائی دفاعی نظام نے ایران کی جانب سے ملک کی طرف داغے گئے دو بیلسٹک میزائلوں کا سراغ لگایا۔ پہلا میزائل امارات کی علاقائی حدود کے باہر گرا جبکہ دوسرا میزائل علاقائی پانیوں میں جا گرا۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/c5rmrrglxr8zt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-19T00:39:21.528717+00:00",
-        "img": ""
       },
       {
         "title": "Job opportunities for Pakistanis in Ireland",
@@ -709,14 +709,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان گولڈ نے پاکستان گرینز کو شکست دیکر نیشنل چیمپئنز کپ جیت لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827944/gold-beats-green-2827944/",
@@ -762,6 +754,14 @@
         "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
         "source": "Express",
         "date": "2026-08-18T13:38:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
         "img": ""
       },
       {
@@ -1111,14 +1111,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان گولڈ نے پاکستان گرینز کو شکست دیکر نیشنل چیمپئنز کپ جیت لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827944/gold-beats-green-2827944/",
@@ -1164,6 +1156,14 @@
         "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
         "source": "Express",
         "date": "2026-08-18T13:38:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
         "img": ""
       },
       {
@@ -1393,14 +1393,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان گولڈ نے پاکستان گرینز کو شکست دیکر نیشنل چیمپئنز کپ جیت لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827944/gold-beats-green-2827944/",
@@ -1446,6 +1438,14 @@
         "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
         "source": "Express",
         "date": "2026-08-18T13:38:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
         "img": ""
       },
       {
@@ -1595,14 +1595,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان گولڈ نے پاکستان گرینز کو شکست دیکر نیشنل چیمپئنز کپ جیت لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827944/gold-beats-green-2827944/",
@@ -1648,6 +1640,14 @@
         "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
         "source": "Express",
         "date": "2026-08-18T13:38:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
         "img": ""
       },
       {
@@ -1997,14 +1997,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان گولڈ نے پاکستان گرینز کو شکست دیکر نیشنل چیمپئنز کپ جیت لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827944/gold-beats-green-2827944/",
@@ -2050,6 +2042,14 @@
         "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
         "source": "Express",
         "date": "2026-08-18T13:38:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
         "img": ""
       },
       {
@@ -2399,14 +2399,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان گولڈ نے پاکستان گرینز کو شکست دیکر نیشنل چیمپئنز کپ جیت لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827944/gold-beats-green-2827944/",
@@ -2452,6 +2444,14 @@
         "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
         "source": "Express",
         "date": "2026-08-18T13:38:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
         "img": ""
       },
       {
@@ -2811,14 +2811,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "Babar Azam ruled out of first England Test",
         "summary": "Babar Azam ruled out of first England Test",
         "url": "https://arynews.tv/babar-azam-ruled-out-of-first-england-test",
@@ -2937,6 +2929,14 @@
         "source": "ARY Sports",
         "date": "2026-08-18T13:13:06+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Gianni-Infantino.jpg"
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
+        "img": ""
       },
       {
         "title": "بنوں میں سیکیورٹی فورسز پر خودکش حملہ ناکام، دو حملہ آور ہلاک",
@@ -3165,14 +3165,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
-        "source": "Express",
-        "date": "2026-08-18T18:08:02+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان گولڈ نے پاکستان گرینز کو شکست دیکر نیشنل چیمپئنز کپ جیت لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827944/gold-beats-green-2827944/",
@@ -3218,6 +3210,14 @@
         "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
         "source": "Express",
         "date": "2026-08-18T13:38:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرولیم مصنوعات کی قیمتوں میں مسلسل دوسرے روز بھی اضافہ کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827947/govt-increase-petroleum-products-prices-2827947/",
+        "source": "Express",
+        "date": "2026-08-18T13:08:02+00:00",
         "img": ""
       },
       {
