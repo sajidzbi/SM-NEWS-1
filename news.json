@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-29T21:22:28.466169+00:00",
+  "fetched": "2026-08-29T23:42:13.175664+00:00",
   "categories": {
     "international": [
       {
@@ -41,6 +41,14 @@
         "source": "ARY News",
         "date": "2026-08-30T00:08:35+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Petroleum.jpg"
+      },
+      {
+        "title": "نیپال کے سیلاب میں ہلاک ہونے والوں کی تعداد 650 سے زائد: لاشوں کو محفوظ رکھنا مشکل، مختلف اضلاع میں اجتماعی تدفین شروع",
+        "summary": "نیپال کے نیشنل ڈیزاسٹر رسک ریڈکشن اینڈ مینجمنٹ اتھارٹی کے تازہ اعداد و شمار کے مطابق ملک میں تباہ کن سیلاب اور لینڈ سلائیڈنگ کے نتیجے میں ہلاک ہونے والوں کی تعداد بڑھ کر 675 ہو گئی ہے۔ حکام کا کہنا ہے کہ اب تک 2,498 افراد کو محفوظ مقام پر منتقل یا ریسکیو کیا جا چکا ہے، جبکہ 219 افراد زخمی ہوئے ہیں۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c6qxvw22dnjet?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-29T23:42:14.865277+00:00",
+        "img": ""
       },
       {
         "title": "Info ministry rejects ‘misleading’ foreign media reports on ‘convicted prisoner’",
@@ -104,14 +112,6 @@
         "url": "https://www.dawn.com/news/2025987/25-pakistanis-return-home-after-release-from-indian-jails-via-wagah-border",
         "source": "Dawn",
         "date": "2026-08-29T21:23:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "نیپال کے سیلاب میں ہلاک ہونے والوں کی تعداد 650 سے زائد: لاشوں کو محفوظ رکھنا مشکل، مختلف اضلاع میں اجتماعی تدفین شروع",
-        "summary": "نیپال کے نیشنل ڈیزاسٹر رسک ریڈکشن اینڈ مینجمنٹ اتھارٹی کے تازہ اعداد و شمار کے مطابق ملک میں تباہ کن سیلاب اور لینڈ سلائیڈنگ کے نتیجے میں ہلاک ہونے والوں کی تعداد بڑھ کر 675 ہو گئی ہے۔ حکام کا کہنا ہے کہ اب تک 2,498 افراد کو محفوظ مقام پر منتقل یا ریسکیو کیا جا چکا ہے، جبکہ 219 افراد زخمی ہوئے ہیں۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c6qxvw22dnjet?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-29T21:22:30.829029+00:00",
         "img": ""
       },
       {
@@ -637,6 +637,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Newborn.jpg"
       },
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
         "title": "Islamabad mourns Hina Javed and the rise of femicide in Pakistan at candlelight vigil",
         "summary": "<p><a href=\"https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil\">https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil</a></p>",
         "url": "https://www.dawn.com/news/2025993/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil",
@@ -651,6 +667,38 @@
         "source": "ARY News",
         "date": "2026-08-29T21:58:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-29T215403.286.jpg"
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
+        "img": ""
       },
       {
         "title": "25 Pakistanis return home after release from Indian jails via Wagah border",
@@ -885,52 +933,12 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
         "title": "DHA family leaves home after assault caught on camera",
         "summary": "DHA family leaves home after assault caught on camera",
         "url": "https://arynews.tv/dha-family-leaves-home-after-assault-caught-on-camera",
         "source": "ARY News",
         "date": "2026-08-29T17:49:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/khayaban.jpg"
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
       },
       {
         "title": "Deep Earth surface mapped by scientists using new AI technology",
@@ -1034,14 +1042,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       },
       {
@@ -1239,6 +1239,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Newborn.jpg"
       },
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
         "title": "Islamabad mourns Hina Javed and the rise of femicide in Pakistan at candlelight vigil",
         "summary": "<p><a href=\"https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil\">https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil</a></p>",
         "url": "https://www.dawn.com/news/2025993/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil",
@@ -1253,6 +1269,38 @@
         "source": "ARY News",
         "date": "2026-08-29T21:58:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-29T215403.286.jpg"
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
+        "img": ""
       },
       {
         "title": "25 Pakistanis return home after release from Indian jails via Wagah border",
@@ -1487,52 +1535,12 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
         "title": "DHA family leaves home after assault caught on camera",
         "summary": "DHA family leaves home after assault caught on camera",
         "url": "https://arynews.tv/dha-family-leaves-home-after-assault-caught-on-camera",
         "source": "ARY News",
         "date": "2026-08-29T17:49:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/khayaban.jpg"
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
       },
       {
         "title": "Deep Earth surface mapped by scientists using new AI technology",
@@ -1636,14 +1644,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       },
       {
@@ -1865,11 +1865,59 @@
         "img": ""
       },
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
         "title": "Islamabad mourns Hina Javed and the rise of femicide in Pakistan at candlelight vigil",
         "summary": "<p><a href=\"https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil\">https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil</a></p>",
         "url": "https://www.dawn.com/news/2025993/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil",
         "source": "Dawn",
         "date": "2026-08-29T22:11:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
         "img": ""
       },
       {
@@ -2009,46 +2057,6 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
-      },
-      {
         "title": "Naqvi visits passport office at Karachi's Awami Markaz, says facility to be expanded",
         "summary": "<p>Interior Minister Mohsin Naqvi on Saturday visited the passport office at Karachi’s Awami Markaz and said the facility would be “expanded for citizens’ convenience”, according to his ministry.</p> <p>A statement by the Ministry of Interior said Naqvi met citizens who were at the centre to seek passports. He asked th",
         "url": "https://www.dawn.com/news/2025959/naqvi-visits-passport-office-at-karachis-awami-markaz-says-facility-to-be-expanded",
@@ -2118,14 +2126,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       },
       {
@@ -2267,11 +2267,59 @@
         "img": ""
       },
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
         "title": "Islamabad mourns Hina Javed and the rise of femicide in Pakistan at candlelight vigil",
         "summary": "<p><a href=\"https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil\">https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil</a></p>",
         "url": "https://www.dawn.com/news/2025993/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil",
         "source": "Dawn",
         "date": "2026-08-29T22:11:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
         "img": ""
       },
       {
@@ -2411,46 +2459,6 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
-      },
-      {
         "title": "Naqvi visits passport office at Karachi's Awami Markaz, says facility to be expanded",
         "summary": "<p>Interior Minister Mohsin Naqvi on Saturday visited the passport office at Karachi’s Awami Markaz and said the facility would be “expanded for citizens’ convenience”, according to his ministry.</p> <p>A statement by the Ministry of Interior said Naqvi met citizens who were at the centre to seek passports. He asked th",
         "url": "https://www.dawn.com/news/2025959/naqvi-visits-passport-office-at-karachis-awami-markaz-says-facility-to-be-expanded",
@@ -2520,14 +2528,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       },
       {
@@ -2725,6 +2725,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Newborn.jpg"
       },
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
         "title": "Islamabad mourns Hina Javed and the rise of femicide in Pakistan at candlelight vigil",
         "summary": "<p><a href=\"https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil\">https://images.dawn.com/news/1195747/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil</a></p>",
         "url": "https://www.dawn.com/news/2025993/islamabad-mourns-hina-javed-and-the-rise-of-femicide-in-pakistan-at-candlelight-vigil",
@@ -2739,6 +2755,38 @@
         "source": "ARY News",
         "date": "2026-08-29T21:58:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-29T215403.286.jpg"
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
+        "img": ""
       },
       {
         "title": "25 Pakistanis return home after release from Indian jails via Wagah border",
@@ -2973,52 +3021,12 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
         "title": "DHA family leaves home after assault caught on camera",
         "summary": "DHA family leaves home after assault caught on camera",
         "url": "https://arynews.tv/dha-family-leaves-home-after-assault-caught-on-camera",
         "source": "ARY News",
         "date": "2026-08-29T17:49:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/khayaban.jpg"
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
       },
       {
         "title": "Deep Earth surface mapped by scientists using new AI technology",
@@ -3122,14 +3130,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       },
       {
@@ -3311,12 +3311,60 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Newborn.jpg"
       },
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
         "title": "Nepal warns of climate threat after deadly floods",
         "summary": "Nepal warns of climate threat after deadly floods",
         "url": "https://arynews.tv/nepal-warns-of-climate-threat-after-deadly-floods",
         "source": "ARY News",
         "date": "2026-08-29T21:58:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-29T215403.286.jpg"
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan interior minister reviews passport and immigration services in Karachi",
@@ -3527,52 +3575,12 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
         "title": "DHA family leaves home after assault caught on camera",
         "summary": "DHA family leaves home after assault caught on camera",
         "url": "https://arynews.tv/dha-family-leaves-home-after-assault-caught-on-camera",
         "source": "ARY News",
         "date": "2026-08-29T17:49:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/khayaban.jpg"
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
       },
       {
         "title": "Deep Earth surface mapped by scientists using new AI technology",
@@ -3644,14 +3652,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       }
     ],
@@ -3891,6 +3891,54 @@
         "img": ""
       },
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
+        "img": ""
+      },
+      {
         "title": "مریخ پر فلم ’دی مارشین‘ کا مقام، خلا سے شاندار منظر سامنے آگیا",
         "summary": "",
         "url": "https://www.express.pk/story/2829888/spaceship-captures-detailed-2829888/",
@@ -4003,46 +4051,6 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
-      },
-      {
         "title": "Norris extends McLaren stay until 2030",
         "summary": "Norris extends McLaren stay until 2030",
         "url": "https://arynews.tv/norris-extends-mclaren-stay-until-2030",
@@ -4104,14 +4112,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       },
       {
@@ -4421,6 +4421,54 @@
     ],
     "business": [
       {
+        "title": "کراچی، فلیٹ کا تالا کاٹ کر 3 لاکھ نقدی اور سونا چوری، ملزم کی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829894/karachi-cash-worth-300000-rupees-and-gold-stolen-after-cutting-the-lock-of-a-flat-footage-of-the-suspect-has-surfaced-2829894/",
+        "source": "Express",
+        "date": "2026-08-29T22:36:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "جامعہ کراچی روزہ مرہ امور چلانے کیلیے سینئرڈین کے سپرد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829893/karachi-university-handed-over-to-senior-dean-to-run-day-to-day-affairs-2829893/",
+        "source": "Express",
+        "date": "2026-08-29T22:12:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، غیر قانونی سگریٹ فیکٹری پر بڑا چھاپہ، کروڑوں کا سامان ضبط",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829892/karachi-major-raid-on-illegal-cigarette-factory-goods-worth-tens-of-millions-seized-2829892/",
+        "source": "Express",
+        "date": "2026-08-29T21:54:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلستان جوہر میں کئی فٹ لمبا سانپ نکل آیا، مکینوں میں خوف و ہراس",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829891/a-snake-several-feet-long-appeared-in-karachis-gulistan-e-johar-causing-panic-among-residents-2829891/",
+        "source": "Express",
+        "date": "2026-08-29T21:46:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فائرنگ کے واقعات میں نوعمر لڑکی اور بزرگ شہری زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829890/karachi-teenage-girl-and-elderly-citizen-injured-in-firing-incidents-2829890/",
+        "source": "Express",
+        "date": "2026-08-29T21:40:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گلشن اقبال موچی موڑ کے قریب گھر میں زہر خوانی کے واقعے میں خاتون چل بسی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829889/woman-dies-in-poisoning-incident-at-home-near-gulshan-e-iqbal-mochi-mor-karachi-2829889/",
+        "source": "Express",
+        "date": "2026-08-29T21:31:03+05:00",
+        "img": ""
+      },
+      {
         "title": "مریخ پر فلم ’دی مارشین‘ کا مقام، خلا سے شاندار منظر سامنے آگیا",
         "summary": "",
         "url": "https://www.express.pk/story/2829888/spaceship-captures-detailed-2829888/",
@@ -4533,46 +4581,6 @@
         "img": ""
       },
       {
-        "title": "اسپین؛ جنگل میں بھیڑیوں کے غول کیساتھ زندگی گزارنے والا شخص انتقال کرگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829868/spain-forest-wolves-boy-died-2829868/",
-        "source": "Express",
-        "date": "2026-08-29T17:59:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "درد کی چٹختی ٹیسیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829867/sharp-stinging-pangs-of-pain-2829867/",
-        "source": "Express",
-        "date": "2026-08-29T17:52:41+05:00",
-        "img": ""
-      },
-      {
-        "title": "کرپٹو کرنسی: حلال یا حرام؟ قانونی و تحقیقی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829866/cryptocurrency-halal-or-haram-a-legal-and-analytical-review-2829866/",
-        "source": "Express",
-        "date": "2026-08-29T17:48:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک اہم کتاب’’حاصل عمر ‘‘پر ایک نظر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829865/a-look-at-an-important-book-hasil-omar-2829865/",
-        "source": "Express",
-        "date": "2026-08-29T17:43:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا عروج ہی زوال ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829864/is-the-peak-itself-the-decline-2829864/",
-        "source": "Express",
-        "date": "2026-08-29T17:40:51+05:00",
-        "img": ""
-      },
-      {
         "title": "10 of 12 parties prequalified for Fesco privatisation, K-Electric withdraws",
         "summary": "<p>ISLAMABAD: The Privatisation Commission Board on Friday approved the prequalification of 10 out of 12 interested parties (IPs) for the sale of Faisalabad Electric Supply Company (Fesco), after K-Electric (KE) withdrew its papers and a lone Chinese firm failed to demonstrate sufficient interest in the competition.</p",
         "url": "https://www.dawn.com/news/2025776/10-of-12-parties-prequalified-for-fesco-privatisation-k-electric-withdraws",
@@ -4626,14 +4634,6 @@
         "url": "https://www.express.pk/story/2829872/if-hotels-can-be-built-by-selling-plots-worth-billions-in-hospitalabad-why-not-hospitals-pml-n-leader-2829872/",
         "source": "Express",
         "date": "2026-08-29T13:26:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ معاہدہ اجتماعی سلامتی، تزویراتی تعاون وعلاقائی استحکام کیلئے اہم پیشرفت ہے، اسحاق ڈار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829869/ishaq-dar-makkah-agreement-important-development-for-collective-security-strategic-cooperation-and-regional-stability-2829869/",
-        "source": "Express",
-        "date": "2026-08-29T12:59:32+00:00",
         "img": ""
       },
       {
