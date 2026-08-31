@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-30T21:43:24.429841+00:00",
+  "fetched": "2026-08-31T00:01:39.408864+00:00",
   "categories": {
     "international": [
       {
@@ -24,6 +24,14 @@
         "url": "https://www.dawn.com/news/2026187/trump-says-nbc-journalist-should-face-punishment-from-broadcast-regulator",
         "source": "Dawn",
         "date": "2026-08-31T00:19:52+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاسدارانِ انقلاب کی جزیرہ لارک پر حملے میں ہلاکتوں کی تصدیق: ’امریکہ کو اقتصادی اور عسکری محاذوں پر نتائج بھگتنا پڑیں گے‘",
+        "summary": "امریکی حکام کا کہنا ہے کہ انھوں نے اتوار کی رات جزیرہ لارک پر دو ایرانی لانچرز کو نشانہ بنایا ہے۔ پاسداران انقلاب نے اس حملے میں فوجی اور شہری ہلاکتوں کی تصدیق کرتے ہوئے تنبیہ کی ہے کہ امریکہ کو اس حملے کے نتائج عسکری اور معاشی محاذوں پر بھگتنا پڑیں گے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c6qxvw22dnjet?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-31T00:01:41.664367+00:00",
         "img": ""
       },
       {
@@ -145,14 +153,6 @@
         "source": "ARY News",
         "date": "2026-08-30T21:54:34+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Saudi-Arabia-Food-Database.jpg"
-      },
-      {
-        "title": "مکہ دفاعی معاہدے کے پہلے اجلاس کے لیے فیلڈ مارشل عاصم منیر ترکی پہنچ گئے",
-        "summary": "ترکی کی وزارت خارجہ نے کہا ہے کہ ترکی، پاکستان اور سعودی عرب کے درمیان طے پانے والے مکہ مشترکہ دفاعی معاہدے کے تحت قائم سٹریٹجک سیاسی و دفاعی کمیٹی کا پہلا اجلاس 31 اگست کو استنبول میں منعقد ہوگا۔ پاکستانی فوج کے شعبہ تعلقات عامہ کے مطابق فیلڈ مارشل سید عاصم منیر سرکاری دورے پر ترکی پہنچ گئے ہیں۔ اس سے پہلے اسحاق ڈار ب",
-        "url": "https://www.bbc.co.uk/urdu/live/c6qxvw22dnjet?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-30T21:43:26.201804+00:00",
-        "img": ""
       },
       {
         "title": "Pakistan, Saudi Arabia agree to raise agri, food exports to $3 billion",
@@ -661,6 +661,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-30T222135.634.jpg"
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T22:21:28+05:00",
+        "img": ""
+      },
+      {
         "title": "PIMS deaths: Police await government orders on FIR registration",
         "summary": "PIMS deaths: Police await government orders on FIR registration",
         "url": "https://arynews.tv/pims-deaths-police-await-government-orders-on-fir-registration",
@@ -837,6 +845,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-defence-brawl.jpg"
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "Khawaja Asif Inspects Lahore airport facilities",
         "summary": "Khawaja Asif Inspects Lahore airport facilities",
         "url": "https://arynews.tv/khawaja-asif-inspects-lahore-airport-facilities",
@@ -885,6 +901,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bilal-Saqib.jpg"
       },
       {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
+        "img": ""
+      },
+      {
         "title": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
         "summary": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
         "url": "https://arynews.tv/boat-with-around-270-people-on-board-capsizes-off-north-cyprus-one-dead",
@@ -925,14 +949,6 @@
         "img": ""
       },
       {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
-        "img": ""
-      },
-      {
         "title": "Julian Alvarez returns to Atletico team training after illness",
         "summary": "Julian Alvarez returns to Atletico team training after illness",
         "url": "https://arynews.tv/julian-alvarez-returns-to-atletico-team-training-after-illness",
@@ -957,27 +973,11 @@
         "img": ""
       },
       {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
         "title": "3 brothers killed, relative injured in IED blast in Balochistan's Duki: police",
         "summary": "<p>QUETTA: Three brothers were killed and one of their relatives was injured in a blast caused by an improvised explosive device (IED) in the Duki district of Balochistan on Sunday, police said.</p> <p>Duki Senior Superintendent of Police (SSP) Mansoor Ahmed Buzdar said the blast occurred while a pick-up truck was cros",
         "url": "https://www.dawn.com/news/2026155/3-brothers-killed-relative-injured-in-ied-blast-in-balochistans-duki-police",
         "source": "Dawn",
         "date": "2026-08-30T15:43:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
         "img": ""
       },
       {
@@ -1263,6 +1263,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-30T222135.634.jpg"
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T22:21:28+05:00",
+        "img": ""
+      },
+      {
         "title": "PIMS deaths: Police await government orders on FIR registration",
         "summary": "PIMS deaths: Police await government orders on FIR registration",
         "url": "https://arynews.tv/pims-deaths-police-await-government-orders-on-fir-registration",
@@ -1439,6 +1447,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-defence-brawl.jpg"
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "Khawaja Asif Inspects Lahore airport facilities",
         "summary": "Khawaja Asif Inspects Lahore airport facilities",
         "url": "https://arynews.tv/khawaja-asif-inspects-lahore-airport-facilities",
@@ -1487,6 +1503,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bilal-Saqib.jpg"
       },
       {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
+        "img": ""
+      },
+      {
         "title": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
         "summary": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
         "url": "https://arynews.tv/boat-with-around-270-people-on-board-capsizes-off-north-cyprus-one-dead",
@@ -1527,14 +1551,6 @@
         "img": ""
       },
       {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
-        "img": ""
-      },
-      {
         "title": "Julian Alvarez returns to Atletico team training after illness",
         "summary": "Julian Alvarez returns to Atletico team training after illness",
         "url": "https://arynews.tv/julian-alvarez-returns-to-atletico-team-training-after-illness",
@@ -1559,27 +1575,11 @@
         "img": ""
       },
       {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
         "title": "3 brothers killed, relative injured in IED blast in Balochistan's Duki: police",
         "summary": "<p>QUETTA: Three brothers were killed and one of their relatives was injured in a blast caused by an improvised explosive device (IED) in the Duki district of Balochistan on Sunday, police said.</p> <p>Duki Senior Superintendent of Police (SSP) Mansoor Ahmed Buzdar said the blast occurred while a pick-up truck was cros",
         "url": "https://www.dawn.com/news/2026155/3-brothers-killed-relative-injured-in-ied-blast-in-balochistans-duki-police",
         "source": "Dawn",
         "date": "2026-08-30T15:43:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
         "img": ""
       },
       {
@@ -1889,6 +1889,14 @@
         "img": ""
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T22:21:28+05:00",
+        "img": ""
+      },
+      {
         "title": "'They can come to Pakistan today': Khawaja Asif disputes claim by Imran's sons of expired Nicops",
         "summary": "<p>Defence Minister Khawaja Asif on Sunday said that PTI founder Imran Khan’s sons — Qasim and Sulaiman Khan — could visit Pakistan “today if they wished”, citing the validity of their National Identity Cards for Overseas Pakistanis (Nicop).</p> <p>The government has consistently <a href=\"https://www.dawn.com/news/1983",
         "url": "https://www.dawn.com/news/2026174/they-can-come-to-pakistan-today-khawaja-asif-disputes-claim-by-imrans-sons-of-expired-nicops",
@@ -1985,6 +1993,14 @@
         "img": ""
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "کوچۂ سخن",
         "summary": "",
         "url": "https://www.express.pk/story/2830008/kucha-e-sukhan-2830008/",
@@ -1998,6 +2014,14 @@
         "url": "https://www.dawn.com/news/2026139/disciplinary-proceedings-initiated-against-3-cops-over-alleged-involvement-in-karachi-dha-residents-scuffle-dig",
         "source": "Dawn",
         "date": "2026-08-30T17:50:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
         "img": ""
       },
       {
@@ -2025,14 +2049,6 @@
         "img": ""
       },
       {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
-        "img": ""
-      },
-      {
         "title": "In meeting with Gillani, PML-N leadership stresses 'immediate resolution' of AJK issues",
         "summary": "<p>Azad Jammu and Kashmir’s newly elected Prime Minister Barrister Syed Iftikhar Ali Gillani called on his party’s leadership in Lahore on Sunday, with the latter stressing the need for the “immediate resolution” of issues of the Kashmiri people.</p> <p>The huddle included PML-N President Nawaz Sharif, Prime Minister S",
         "url": "https://www.dawn.com/news/2026156/in-meeting-with-gillani-pml-n-leadership-stresses-immediate-resolution-of-ajk-issues",
@@ -2041,27 +2057,11 @@
         "img": ""
       },
       {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
         "title": "3 brothers killed, relative injured in IED blast in Balochistan's Duki: police",
         "summary": "<p>QUETTA: Three brothers were killed and one of their relatives was injured in a blast caused by an improvised explosive device (IED) in the Duki district of Balochistan on Sunday, police said.</p> <p>Duki Senior Superintendent of Police (SSP) Mansoor Ahmed Buzdar said the blast occurred while a pick-up truck was cros",
         "url": "https://www.dawn.com/news/2026155/3-brothers-killed-relative-injured-in-ied-blast-in-balochistans-duki-police",
         "source": "Dawn",
         "date": "2026-08-30T15:43:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
         "img": ""
       },
       {
@@ -2291,6 +2291,14 @@
         "img": ""
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T22:21:28+05:00",
+        "img": ""
+      },
+      {
         "title": "'They can come to Pakistan today': Khawaja Asif disputes claim by Imran's sons of expired Nicops",
         "summary": "<p>Defence Minister Khawaja Asif on Sunday said that PTI founder Imran Khan’s sons — Qasim and Sulaiman Khan — could visit Pakistan “today if they wished”, citing the validity of their National Identity Cards for Overseas Pakistanis (Nicop).</p> <p>The government has consistently <a href=\"https://www.dawn.com/news/1983",
         "url": "https://www.dawn.com/news/2026174/they-can-come-to-pakistan-today-khawaja-asif-disputes-claim-by-imrans-sons-of-expired-nicops",
@@ -2387,6 +2395,14 @@
         "img": ""
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "کوچۂ سخن",
         "summary": "",
         "url": "https://www.express.pk/story/2830008/kucha-e-sukhan-2830008/",
@@ -2400,6 +2416,14 @@
         "url": "https://www.dawn.com/news/2026139/disciplinary-proceedings-initiated-against-3-cops-over-alleged-involvement-in-karachi-dha-residents-scuffle-dig",
         "source": "Dawn",
         "date": "2026-08-30T17:50:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
         "img": ""
       },
       {
@@ -2427,14 +2451,6 @@
         "img": ""
       },
       {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
-        "img": ""
-      },
-      {
         "title": "In meeting with Gillani, PML-N leadership stresses 'immediate resolution' of AJK issues",
         "summary": "<p>Azad Jammu and Kashmir’s newly elected Prime Minister Barrister Syed Iftikhar Ali Gillani called on his party’s leadership in Lahore on Sunday, with the latter stressing the need for the “immediate resolution” of issues of the Kashmiri people.</p> <p>The huddle included PML-N President Nawaz Sharif, Prime Minister S",
         "url": "https://www.dawn.com/news/2026156/in-meeting-with-gillani-pml-n-leadership-stresses-immediate-resolution-of-ajk-issues",
@@ -2443,27 +2459,11 @@
         "img": ""
       },
       {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
         "title": "3 brothers killed, relative injured in IED blast in Balochistan's Duki: police",
         "summary": "<p>QUETTA: Three brothers were killed and one of their relatives was injured in a blast caused by an improvised explosive device (IED) in the Duki district of Balochistan on Sunday, police said.</p> <p>Duki Senior Superintendent of Police (SSP) Mansoor Ahmed Buzdar said the blast occurred while a pick-up truck was cros",
         "url": "https://www.dawn.com/news/2026155/3-brothers-killed-relative-injured-in-ied-blast-in-balochistans-duki-police",
         "source": "Dawn",
         "date": "2026-08-30T15:43:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
         "img": ""
       },
       {
@@ -2749,6 +2749,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-30T222135.634.jpg"
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T22:21:28+05:00",
+        "img": ""
+      },
+      {
         "title": "PIMS deaths: Police await government orders on FIR registration",
         "summary": "PIMS deaths: Police await government orders on FIR registration",
         "url": "https://arynews.tv/pims-deaths-police-await-government-orders-on-fir-registration",
@@ -2925,6 +2933,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-defence-brawl.jpg"
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "Khawaja Asif Inspects Lahore airport facilities",
         "summary": "Khawaja Asif Inspects Lahore airport facilities",
         "url": "https://arynews.tv/khawaja-asif-inspects-lahore-airport-facilities",
@@ -2973,6 +2989,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bilal-Saqib.jpg"
       },
       {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
+        "img": ""
+      },
+      {
         "title": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
         "summary": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
         "url": "https://arynews.tv/boat-with-around-270-people-on-board-capsizes-off-north-cyprus-one-dead",
@@ -3013,14 +3037,6 @@
         "img": ""
       },
       {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
-        "img": ""
-      },
-      {
         "title": "Julian Alvarez returns to Atletico team training after illness",
         "summary": "Julian Alvarez returns to Atletico team training after illness",
         "url": "https://arynews.tv/julian-alvarez-returns-to-atletico-team-training-after-illness",
@@ -3045,27 +3061,11 @@
         "img": ""
       },
       {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
         "title": "3 brothers killed, relative injured in IED blast in Balochistan's Duki: police",
         "summary": "<p>QUETTA: Three brothers were killed and one of their relatives was injured in a blast caused by an improvised explosive device (IED) in the Duki district of Balochistan on Sunday, police said.</p> <p>Duki Senior Superintendent of Police (SSP) Mansoor Ahmed Buzdar said the blast occurred while a pick-up truck was cros",
         "url": "https://www.dawn.com/news/2026155/3-brothers-killed-relative-injured-in-ied-blast-in-balochistans-duki-police",
         "source": "Dawn",
         "date": "2026-08-30T15:43:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
         "img": ""
       },
       {
@@ -3319,6 +3319,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-30T222135.634.jpg"
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T22:21:28+05:00",
+        "img": ""
+      },
+      {
         "title": "PIMS deaths: Police await government orders on FIR registration",
         "summary": "PIMS deaths: Police await government orders on FIR registration",
         "url": "https://arynews.tv/pims-deaths-police-await-government-orders-on-fir-registration",
@@ -3487,6 +3495,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-defence-brawl.jpg"
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "Khawaja Asif Inspects Lahore airport facilities",
         "summary": "Khawaja Asif Inspects Lahore airport facilities",
         "url": "https://arynews.tv/khawaja-asif-inspects-lahore-airport-facilities",
@@ -3525,6 +3541,14 @@
         "source": "ARY News",
         "date": "2026-08-30T17:49:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bilal-Saqib.jpg"
+      },
+      {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
+        "img": ""
       },
       {
         "title": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
@@ -3567,14 +3591,6 @@
         "img": ""
       },
       {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
-        "img": ""
-      },
-      {
         "title": "Julian Alvarez returns to Atletico team training after illness",
         "summary": "Julian Alvarez returns to Atletico team training after illness",
         "url": "https://arynews.tv/julian-alvarez-returns-to-atletico-team-training-after-illness",
@@ -3589,22 +3605,6 @@
         "source": "ARY News",
         "date": "2026-08-30T16:43:51+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mechanic-on-Wheels.jpg"
-      },
-      {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
-        "img": ""
       },
       {
         "title": "اسلام آباد ہائیکورٹ میں بچوں کے سوشل میڈیا استعمال، آن لائن تحفظ کیلئے درخواست دائر",
@@ -3987,11 +3987,27 @@
         "img": ""
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "کوچۂ سخن",
         "summary": "",
         "url": "https://www.express.pk/story/2830008/kucha-e-sukhan-2830008/",
         "source": "Express",
         "date": "2026-08-30T18:05:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
         "img": ""
       },
       {
@@ -4019,19 +4035,19 @@
         "img": ""
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T17:21:28+00:00",
+        "img": ""
+      },
+      {
         "title": "لارڈز ٹیسٹ: انگلینڈ نے پاکستان کو 194 رنز سے شکست دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2830004/lords-test-england-defeated-pakistan-2830004/",
         "source": "Express",
         "date": "2026-08-30T17:05:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
         "img": ""
       },
       {
@@ -4041,22 +4057,6 @@
         "source": "ARY Sports",
         "date": "2026-08-30T16:54:23+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-30T164803.529.jpg"
-      },
-      {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
-        "img": ""
       },
       {
         "title": "اسلام آباد ہائیکورٹ میں بچوں کے سوشل میڈیا استعمال، آن لائن تحفظ کیلئے درخواست دائر",
@@ -4525,11 +4525,27 @@
         "img": ""
       },
       {
+        "title": "قدرتی آفات کیخلاف مالی تحفظ کاجامع نظام وقت کی ضرورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830028/a-comprehensive-system-of-financial-protection-against-natural-disasters-is-the-need-of-the-hour-2830028/",
+        "source": "Express",
+        "date": "2026-08-30T18:20:42+00:00",
+        "img": ""
+      },
+      {
         "title": "کوچۂ سخن",
         "summary": "",
         "url": "https://www.express.pk/story/2830008/kucha-e-sukhan-2830008/",
         "source": "Express",
         "date": "2026-08-30T18:05:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "لارک جزیرے پر امریکی حملے کے بعد ایران کی جوابی کارروائی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830027/irans-retaliatory-action-following-the-us-attack-on-larak-island-2830027/",
+        "source": "Express",
+        "date": "2026-08-30T17:47:00+00:00",
         "img": ""
       },
       {
@@ -4549,35 +4565,19 @@
         "img": ""
       },
       {
+        "title": "امریکا کا ایران کے لارک جزیرے پر حملہ، 2 راکٹ لانچرز تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830026/us-attacks-irans-larak-island-claims-destruction-of-two-rocket-launchers-2830026/",
+        "source": "Express",
+        "date": "2026-08-30T17:21:28+00:00",
+        "img": ""
+      },
+      {
         "title": "لارڈز ٹیسٹ: انگلینڈ نے پاکستان کو 194 رنز سے شکست دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2830004/lords-test-england-defeated-pakistan-2830004/",
         "source": "Express",
         "date": "2026-08-30T17:05:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "آسٹریلیا میں منفرد واقعہ، خاتون کے ہاں مختلف والدین کے جڑواں بچوں کی پیدائش",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830003/australi-in-rare-case-woman-gives-birth-to-twins-with-different-biological-parents-2830003/",
-        "source": "Express",
-        "date": "2026-08-30T17:00:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "بُک شیلف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830002/bookshelf-2830002/",
-        "source": "Express",
-        "date": "2026-08-30T15:43:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "راکھی ساونت کی عمرہ ادائیگی کے بعد لوگوں میں جائے نماز تقسیم کرنے کی ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830001/video-of-rakhi-sawant-distributing-prayer-mats-among-people-after-performing-umrah-goes-viral-2830001/",
-        "source": "Express",
-        "date": "2026-08-30T15:36:39+05:00",
         "img": ""
       },
       {
