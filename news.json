@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-01T21:38:05.036645+00:00",
+  "fetched": "2026-09-01T23:40:28.061621+00:00",
   "categories": {
     "international": [
       {
@@ -41,6 +41,14 @@
         "source": "ARY News",
         "date": "2026-09-01T23:47:20+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Lindsay-Clancy-Case.jpg"
+      },
+      {
+        "title": "امریکہ کے ایران پر تازہ حملوں میں چار ہلاکتوں کی تصدیق، پاسدارانِ انقلاب کا اُردن میں امریکی اڈے پر حملہ",
+        "summary": "ایران کی سرکاری خبر رساں ایجنسی نے رپورٹ کیا ہے کہ ایران نے تازہ امریکی حملوں کے جواب میں ’اردن میں موجود امریکی اڈوں‘ پر میزائل داغے ہیں۔ صوبہ ہرمزگان کے علاقے ’سرک‘ میں امریکی حملے کے نتیجے میں کم از کم چار افراد ہلاک ہو گئے ہیں۔ اس سے قبل امریکہ نے پاسدارانِ انقلاب کے ٹھکانوں کو نشانہ بنانے کا دعویٰ کیا تھا۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-01T23:40:30.017162+00:00",
+        "img": ""
       },
       {
         "title": "Lahore citizen dies after alleged push by traffic warden",
@@ -169,14 +177,6 @@
         "source": "ARY News",
         "date": "2026-09-01T22:17:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kids-Using-SOcial-Media.jpg"
-      },
-      {
-        "title": "امریکہ کے ایران پر تازہ حملوں میں چار ہلاکتوں کی تصدیق، پاسدارانِ انقلاب کا اُردن میں امریکی اڈے پر حملہ",
-        "summary": "ایران کی سرکاری خبر رساں ایجنسی نے رپورٹ کیا ہے کہ ایران نے تازہ امریکی حملوں کے جواب میں ’اردن میں موجود امریکی اڈوں‘ پر میزائل داغے ہیں۔ صوبہ ہرمزگان کے علاقے ’سرک‘ میں امریکی حملے کے نتیجے میں کم از کم چار افراد ہلاک ہو گئے ہیں۔ اس سے قبل امریکہ نے پاسدارانِ انقلاب کے ٹھکانوں کو نشانہ بنانے کا دعویٰ کیا تھا۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-01T21:38:07.734468+00:00",
-        "img": ""
       },
       {
         "title": "Ex-captains question PCB's 'panic-button' squad shake-up ahead of third England Test",
@@ -637,6 +637,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -709,20 +717,20 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kids-Using-SOcial-Media.jpg"
       },
       {
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
+        "source": "Express",
+        "date": "2026-09-01T22:01:33+05:00",
+        "img": ""
+      },
+      {
         "title": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "summary": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "url": "https://arynews.tv/foundation-for-successful-karachi-strike-laid-says-monem-zafar",
         "source": "ARY News",
         "date": "2026-09-01T21:16:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-10.jpg"
-      },
-      {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
-        "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
-        "img": ""
       },
       {
         "title": "دیانتدار، قابل اور جراتمند افراد کی ٹیم",
@@ -941,27 +949,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
         "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
         "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:24:10+00:00",
         "img": ""
       },
       {
@@ -970,6 +978,22 @@
         "url": "https://www.dawn.com/news/2026565/heavy-rain-lashes-twin-cities-inundates-low-lying-areas",
         "source": "Dawn",
         "date": "2026-09-01T17:23:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
         "img": ""
       },
       {
@@ -1013,35 +1037,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -1239,6 +1239,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -1311,20 +1319,20 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kids-Using-SOcial-Media.jpg"
       },
       {
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
+        "source": "Express",
+        "date": "2026-09-01T22:01:33+05:00",
+        "img": ""
+      },
+      {
         "title": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "summary": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "url": "https://arynews.tv/foundation-for-successful-karachi-strike-laid-says-monem-zafar",
         "source": "ARY News",
         "date": "2026-09-01T21:16:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-10.jpg"
-      },
-      {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
-        "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
-        "img": ""
       },
       {
         "title": "دیانتدار، قابل اور جراتمند افراد کی ٹیم",
@@ -1543,27 +1551,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
         "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
         "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:24:10+00:00",
         "img": ""
       },
       {
@@ -1572,6 +1580,22 @@
         "url": "https://www.dawn.com/news/2026565/heavy-rain-lashes-twin-cities-inundates-low-lying-areas",
         "source": "Dawn",
         "date": "2026-09-01T17:23:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
         "img": ""
       },
       {
@@ -1615,35 +1639,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -1865,6 +1865,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Judicial commission records statements, MLO says he was ‘under no pressure’ during autopsy",
         "summary": "<p>KARACHI: The judicial commission <a href=\"https://www.dawn.com/news/2025655\">formed</a> to investigate the circumstances surrounding the murder of Mir Raza Ali and possible negligence in the case on Tuesday recorded the testimonies of a medico-legal officer (MLO), police officials, two volunteers of a charity organi",
         "url": "https://www.dawn.com/news/2026610/mir-raza-murder-case-judicial-commission-records-statements-mlo-says-he-was-under-no-pressure-during-autopsy",
@@ -1873,11 +1881,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
         "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
+        "date": "2026-09-01T22:01:33+05:00",
         "img": ""
       },
       {
@@ -2025,27 +2033,27 @@
         "img": ""
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
         "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
         "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:24:10+00:00",
         "img": ""
       },
       {
@@ -2054,6 +2062,22 @@
         "url": "https://www.dawn.com/news/2026565/heavy-rain-lashes-twin-cities-inundates-low-lying-areas",
         "source": "Dawn",
         "date": "2026-09-01T17:23:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
         "img": ""
       },
       {
@@ -2097,35 +2121,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -2267,6 +2267,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Judicial commission records statements, MLO says he was ‘under no pressure’ during autopsy",
         "summary": "<p>KARACHI: The judicial commission <a href=\"https://www.dawn.com/news/2025655\">formed</a> to investigate the circumstances surrounding the murder of Mir Raza Ali and possible negligence in the case on Tuesday recorded the testimonies of a medico-legal officer (MLO), police officials, two volunteers of a charity organi",
         "url": "https://www.dawn.com/news/2026610/mir-raza-murder-case-judicial-commission-records-statements-mlo-says-he-was-under-no-pressure-during-autopsy",
@@ -2275,11 +2283,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
         "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
+        "date": "2026-09-01T22:01:33+05:00",
         "img": ""
       },
       {
@@ -2427,27 +2435,27 @@
         "img": ""
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
         "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
         "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:24:10+00:00",
         "img": ""
       },
       {
@@ -2456,6 +2464,22 @@
         "url": "https://www.dawn.com/news/2026565/heavy-rain-lashes-twin-cities-inundates-low-lying-areas",
         "source": "Dawn",
         "date": "2026-09-01T17:23:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
         "img": ""
       },
       {
@@ -2499,35 +2523,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -2725,6 +2725,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -2797,20 +2805,20 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kids-Using-SOcial-Media.jpg"
       },
       {
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
+        "source": "Express",
+        "date": "2026-09-01T22:01:33+05:00",
+        "img": ""
+      },
+      {
         "title": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "summary": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "url": "https://arynews.tv/foundation-for-successful-karachi-strike-laid-says-monem-zafar",
         "source": "ARY News",
         "date": "2026-09-01T21:16:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-10.jpg"
-      },
-      {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
-        "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
-        "img": ""
       },
       {
         "title": "دیانتدار، قابل اور جراتمند افراد کی ٹیم",
@@ -3029,27 +3037,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
         "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
         "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:24:10+00:00",
         "img": ""
       },
       {
@@ -3058,6 +3066,22 @@
         "url": "https://www.dawn.com/news/2026565/heavy-rain-lashes-twin-cities-inundates-low-lying-areas",
         "source": "Dawn",
         "date": "2026-09-01T17:23:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
         "img": ""
       },
       {
@@ -3101,35 +3125,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -3319,6 +3319,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -3383,20 +3391,20 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kids-Using-SOcial-Media.jpg"
       },
       {
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
+        "source": "Express",
+        "date": "2026-09-01T22:01:33+05:00",
+        "img": ""
+      },
+      {
         "title": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "summary": "Foundation for successful Karachi strike laid, says Monem Zafar",
         "url": "https://arynews.tv/foundation-for-successful-karachi-strike-laid-says-monem-zafar",
         "source": "ARY News",
         "date": "2026-09-01T21:16:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-10.jpg"
-      },
-      {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
-        "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
-        "img": ""
       },
       {
         "title": "دیانتدار، قابل اور جراتمند افراد کی ٹیم",
@@ -3583,27 +3591,43 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
         "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
         "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:24:10+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
         "img": ""
       },
       {
@@ -3636,30 +3660,6 @@
         "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
         "source": "Express",
         "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       }
     ],
@@ -3883,6 +3883,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-15.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -3899,19 +3907,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-13.jpg"
       },
       {
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
+        "source": "Express",
+        "date": "2026-09-01T22:01:33+05:00",
+        "img": ""
+      },
+      {
         "title": "Ex-captains question PCB's 'panic-button' squad shake-up ahead of third England Test",
         "summary": "<p>The Pakistan Cricket Board’s (PCB) decision to axe seven players and the head coach after two crushing defeats by England triggered a furious backlash from former captains and coaches who branded the shake-up as “panic-driven” chaos.</p> <p>Yesterday, the PCB <a href=\"https://www.dawn.com/news/2026428/seven-players-",
         "url": "https://www.dawn.com/news/2026659/ex-captains-question-pcbs-panic-button-squad-shake-up-ahead-of-third-england-test",
         "source": "Dawn",
         "date": "2026-09-01T21:30:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
-        "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
         "img": ""
       },
       {
@@ -4035,27 +4043,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
-        "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
-        "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
@@ -4065,6 +4057,30 @@
         "source": "ARY Sports",
         "date": "2026-09-01T17:53:10+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-5.jpg"
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
+        "source": "Express",
+        "date": "2026-09-01T17:24:10+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
       },
       {
         "title": "Villa sign Senegal winger Mbaye from PSG",
@@ -4089,6 +4105,14 @@
         "source": "ARY Sports",
         "date": "2026-09-01T16:20:05+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-50.jpg"
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
+        "img": ""
       },
       {
         "title": "پاک برطانیہ تجارت بڑھانے پر اتفاق، پاکستان کے کردار کی عالمی سطح پر تعریف، اسحاق ڈار",
@@ -4155,36 +4179,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-1.jpg"
       },
       {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "Babar Azam’s drop, recall shows PCB’s short-term approach: Mohammad Wasim",
         "summary": "Babar Azam’s drop, recall shows PCB’s short-term approach: Mohammad Wasim",
         "url": "https://arynews.tv/babar-azams-drop-recall-show-pcbs-short-term-approach-wasim",
         "source": "ARY Sports",
         "date": "2026-09-01T13:30:30+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Babar-Azam-New-Pic.jpg"
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
-        "img": ""
       },
       {
         "title": "Misbah-ul-Haq resigns from PCB selection committee: Sources",
@@ -4437,6 +4437,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistani installment-financing platform raises Rs500m through privately placed Sukuk",
         "summary": "<p>A Pakistani instalment-financing platform, QistBazaar, said on Tuesday that it had successfully raised Rs500 million through a privately placed Sukuk bond.</p> <p>In a press release, QistBazaar — also a Buy Now, Pay Later (BNPL) platform — said the Sukuk marked the first tranche in a planned series of Sukuk issuance",
         "url": "https://www.dawn.com/news/2026662/pakistani-installment-financing-platform-raises-rs500m-through-privately-placed-sukuk",
@@ -4445,11 +4453,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "title": "لندن، قومی کرکٹ ٹیم عشائیے میں شرکت کے لیے پاکستان ہاؤس پہنچ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "url": "https://www.express.pk/story/2830424/london-the-national-cricket-team-has-arrived-at-pakistan-house-to-attend-a-dinner-2830424/",
         "source": "Express",
-        "date": "2026-09-01T21:13:30+05:00",
+        "date": "2026-09-01T22:01:33+05:00",
         "img": ""
       },
       {
@@ -4565,27 +4573,27 @@
         "img": ""
       },
       {
-        "title": "پاکستان کی طبی تاریخ کا کا انوکھا کارنامہ",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830397/pakistan-ki-tibbi-tareekh-ka-anokha-karnameh-2830397/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T18:20:43+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
-        "title": "کیا ہر آلۂ تبادلہ کرنسی بن سکتا ہے؟ ایک فقہی و معاشی جائزہ",
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830396/kya-har-aala-e-tabadla-currency-ban-sakta-hai-aik-fiqhi-o-maashi-jaiza-2830396/",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
         "source": "Express",
-        "date": "2026-09-01T18:16:08+05:00",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
-        "title": "خیبرپختونخوا میں بارشوں سے 2 جانبحق اور 3 زخمی",
+        "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830395/2-killed-3-injured-in-rains-in-khyber-pakhtunkhwa-2830395/",
+        "url": "https://www.express.pk/story/2830425/five-years-of-taliban-rule-completed-grand-claims-exposed-at-islamabad-conference-2830425/",
         "source": "Express",
-        "date": "2026-09-01T18:08:07+05:00",
+        "date": "2026-09-01T17:24:10+00:00",
         "img": ""
       },
       {
@@ -4594,6 +4602,22 @@
         "url": "https://www.dawn.com/news/2026624/us-secures-100-year-concessions-in-venezuela-oil-deal-white-house",
         "source": "Dawn",
         "date": "2026-09-01T17:05:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، میئر مرتضیٰ وہاب کا شہر کے مختلف علاقوں میں جاری ترقیاتی کاموں کا معائنہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830423/karachi-mayor-murtaza-wahab-inspects-ongoing-development-works-in-different-areas-of-the-city-2830423/",
+        "source": "Express",
+        "date": "2026-09-01T16:44:38+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں انوکھی ڈکیتی، نقد رقم نہ ملنے پر ڈاکوؤں نے لاکھوں کا کپڑا لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830422/bizarre-robbery-in-karachi-robbers-loot-fabric-worth-hundreds-of-thousands-after-failing-to-find-cash-2830422/",
+        "source": "Express",
+        "date": "2026-09-01T16:13:30+00:00",
         "img": ""
       },
       {
@@ -4626,30 +4650,6 @@
         "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
         "source": "Express",
         "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
