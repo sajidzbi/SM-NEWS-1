@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-31T20:28:49.541327+00:00",
+  "fetched": "2026-09-01T00:11:56.173819+00:00",
   "categories": {
     "international": [
       {
@@ -56,6 +56,14 @@
         "url": "https://www.dawn.com/news/2026439/technical-fault-driverless-car-crashes-into-police-van-in-islamabad",
         "source": "Dawn",
         "date": "2026-09-01T00:16:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹرمپ کی ایران کو سخت جواب دینے کی دھمکی، ایرانی فوج کا حملوں کے ذرائع کو نشانہ بنانے کا انتباہ",
+        "summary": "فاکس نیوز کو ٹیلی فون پر دیے گئے ایک انٹرویو میں صدر ٹرمپ نے کہا کہ امریکہ ایرانی کارروائی کے جواب میں سخت کارروائی کرے گا۔ ایران کی مسلح افواج کے جنرل سٹاف نے خبردار کیا ہے کہ اگر ایران کے خلاف کسی حملے کے لیے خطے کے ممالک کی سرزمین استعمال کی گئی تو تہران ایسے حملوں کے ’ذرائع‘ کو بھی نشانہ بنائے گا۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-01T00:11:58.738956+00:00",
         "img": ""
       },
       {
@@ -216,14 +224,6 @@
         "url": "https://www.dawn.com/news/2026388/mir-raza-murder-case-post-mortem-report-rules-findings-inconsistent-with-suicide",
         "source": "Dawn",
         "date": "2026-08-31T20:33:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی ایران کو سخت جواب دینے کی دھمکی، ایرانی فوج کا حملوں کے ذرائع کو نشانہ بنانے کا انتباہ",
-        "summary": "فاکس نیوز کو ٹیلی فون پر دیے گئے ایک انٹرویو میں صدر ٹرمپ نے کہا کہ امریکہ ایرانی کارروائی کے جواب میں سخت کارروائی کرے گا۔ ایران کی مسلح افواج کے جنرل سٹاف نے خبردار کیا ہے کہ اگر ایران کے خلاف کسی حملے کے لیے خطے کے ممالک کی سرزمین استعمال کی گئی تو تہران ایسے حملوں کے ’ذرائع‘ کو بھی نشانہ بنائے گا۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-31T20:28:52.427364+00:00",
         "img": ""
       },
       {
@@ -741,6 +741,30 @@
         "img": ""
       },
       {
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
         "title": "Court hands Hindu woman to family after alleged forced conversion and marriage",
         "summary": "<p>LAHORE: A 21-year-old Hindu woman from Sanghar district in Sindh, who was allegedly lured into a relationship and persuaded to convert to Islam by a man from Gujranwala in Punjab, was handed back into her family’s custody after a judicial magistrate on Monday rejected a police request to shift her to a shelter home.",
         "url": "https://www.dawn.com/news/2026413/court-hands-hindu-woman-to-family-after-alleged-forced-conversion-and-marriage",
@@ -757,6 +781,46 @@
         "img": ""
       },
       {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Post-mortem report rules findings 'inconsistent' with suicide",
         "summary": "<p>KARACHI: The final report of the second post-mortem for the Mir Raza Ali murder case on Monday termed its findings “inconsistent” with suicide as the manner of his death.</p> <p>Ali, a 25-year-old Karachi-based businessman, was found dead with a gunshot wound in Gulistan-i-Jauhar last month, a day after he was repor",
         "url": "https://www.dawn.com/news/2026388/mir-raza-murder-case-post-mortem-report-rules-findings-inconsistent-with-suicide",
@@ -765,7 +829,23 @@
         "img": ""
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -853,14 +933,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Rain-Image.jpg"
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
-        "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
-        "img": ""
-      },
-      {
         "title": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "summary": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "url": "https://arynews.tv/india-cannot-suspend-indus-waters-treaty-with-pakistan-hague-court-rules",
@@ -893,44 +965,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-90.jpg"
       },
       {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
-        "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
-        "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "summary": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "url": "https://arynews.tv/mir-raza-ali-case-judicial-commission-cannot-investigate-murder-case-jibran-nasir-calls-for-jit",
         "source": "ARY News",
         "date": "2026-08-31T17:44:04+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Jibran-Nasir.jpg"
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
       },
       {
         "title": "PIMS fire: Senate, NA committees say CCTV footage seems manipulated",
@@ -949,6 +989,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FPSC-1.jpg"
       },
       {
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
+        "source": "Express",
+        "date": "2026-08-31T16:59:18+00:00",
+        "img": ""
+      },
+      {
         "title": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "summary": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "url": "https://arynews.tv/spains-sanchez-rules-out-responsibility-morocco-migrant-surge",
@@ -957,11 +1005,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Spain-migrants.jpg"
       },
       {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
@@ -973,35 +1021,11 @@
         "img": ""
       },
       {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
-        "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -1069,35 +1093,11 @@
         "img": ""
       },
       {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
         "title": "High-rises sealed, 3 Islamabad hospitals fined over fire safety violations",
         "summary": "<p>ISLAMABAD: Following the recent tragic incident at the Pakistan Institute of Medical Sciences (Pims), where <a href=\"https://www.dawn.com/news/2025385\">14 newborn babies died</a> in a fire, the Capital Development Authority (CDA) has intensified enforcement of fire and life safety regulations across Islamabad, seali",
         "url": "https://www.dawn.com/news/2026201/high-rises-sealed-3-islamabad-hospitals-fined-over-fire-safety-violations",
         "source": "Dawn",
         "date": "2026-08-31T11:01:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       },
       {
@@ -1343,6 +1343,30 @@
         "img": ""
       },
       {
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
         "title": "Court hands Hindu woman to family after alleged forced conversion and marriage",
         "summary": "<p>LAHORE: A 21-year-old Hindu woman from Sanghar district in Sindh, who was allegedly lured into a relationship and persuaded to convert to Islam by a man from Gujranwala in Punjab, was handed back into her family’s custody after a judicial magistrate on Monday rejected a police request to shift her to a shelter home.",
         "url": "https://www.dawn.com/news/2026413/court-hands-hindu-woman-to-family-after-alleged-forced-conversion-and-marriage",
@@ -1359,6 +1383,46 @@
         "img": ""
       },
       {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Post-mortem report rules findings 'inconsistent' with suicide",
         "summary": "<p>KARACHI: The final report of the second post-mortem for the Mir Raza Ali murder case on Monday termed its findings “inconsistent” with suicide as the manner of his death.</p> <p>Ali, a 25-year-old Karachi-based businessman, was found dead with a gunshot wound in Gulistan-i-Jauhar last month, a day after he was repor",
         "url": "https://www.dawn.com/news/2026388/mir-raza-murder-case-post-mortem-report-rules-findings-inconsistent-with-suicide",
@@ -1367,7 +1431,23 @@
         "img": ""
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -1455,14 +1535,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Rain-Image.jpg"
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
-        "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
-        "img": ""
-      },
-      {
         "title": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "summary": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "url": "https://arynews.tv/india-cannot-suspend-indus-waters-treaty-with-pakistan-hague-court-rules",
@@ -1495,44 +1567,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-90.jpg"
       },
       {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
-        "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
-        "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "summary": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "url": "https://arynews.tv/mir-raza-ali-case-judicial-commission-cannot-investigate-murder-case-jibran-nasir-calls-for-jit",
         "source": "ARY News",
         "date": "2026-08-31T17:44:04+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Jibran-Nasir.jpg"
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
       },
       {
         "title": "PIMS fire: Senate, NA committees say CCTV footage seems manipulated",
@@ -1551,6 +1591,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FPSC-1.jpg"
       },
       {
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
+        "source": "Express",
+        "date": "2026-08-31T16:59:18+00:00",
+        "img": ""
+      },
+      {
         "title": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "summary": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "url": "https://arynews.tv/spains-sanchez-rules-out-responsibility-morocco-migrant-surge",
@@ -1559,11 +1607,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Spain-migrants.jpg"
       },
       {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
@@ -1575,35 +1623,11 @@
         "img": ""
       },
       {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
-        "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -1687,35 +1711,11 @@
         "img": ""
       },
       {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
         "title": "High-rises sealed, 3 Islamabad hospitals fined over fire safety violations",
         "summary": "<p>ISLAMABAD: Following the recent tragic incident at the Pakistan Institute of Medical Sciences (Pims), where <a href=\"https://www.dawn.com/news/2025385\">14 newborn babies died</a> in a fire, the Capital Development Authority (CDA) has intensified enforcement of fire and life safety regulations across Islamabad, seali",
         "url": "https://www.dawn.com/news/2026201/high-rises-sealed-3-islamabad-hospitals-fined-over-fire-safety-violations",
         "source": "Dawn",
         "date": "2026-08-31T11:01:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       },
       {
@@ -1897,6 +1897,30 @@
         "img": ""
       },
       {
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
         "title": "Court hands Hindu woman to family after alleged forced conversion and marriage",
         "summary": "<p>LAHORE: A 21-year-old Hindu woman from Sanghar district in Sindh, who was allegedly lured into a relationship and persuaded to convert to Islam by a man from Gujranwala in Punjab, was handed back into her family’s custody after a judicial magistrate on Monday rejected a police request to shift her to a shelter home.",
         "url": "https://www.dawn.com/news/2026413/court-hands-hindu-woman-to-family-after-alleged-forced-conversion-and-marriage",
@@ -1913,6 +1937,46 @@
         "img": ""
       },
       {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Post-mortem report rules findings 'inconsistent' with suicide",
         "summary": "<p>KARACHI: The final report of the second post-mortem for the Mir Raza Ali murder case on Monday termed its findings “inconsistent” with suicide as the manner of his death.</p> <p>Ali, a 25-year-old Karachi-based businessman, was found dead with a gunshot wound in Gulistan-i-Jauhar last month, a day after he was repor",
         "url": "https://www.dawn.com/news/2026388/mir-raza-murder-case-post-mortem-report-rules-findings-inconsistent-with-suicide",
@@ -1921,7 +1985,23 @@
         "img": ""
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -1993,14 +2073,6 @@
         "img": ""
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
-        "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
-        "img": ""
-      },
-      {
         "title": "IHC dismisses 3 petitions from Adiala prisoners seeking private hospital treatment, communication with relatives abroad",
         "summary": "<p>ISLAMABAD: The Islamabad High Court (IHC) on Monday dismissed petitions filed by three Adiala Jail prisoners seeking treatment at private hospitals and permission to communicate with relatives abroad, similar to the relief granted to PTI founder Imran Khan.</p> <p>Justice Muhammad Asif issued separate written judgme",
         "url": "https://www.dawn.com/news/2026404/ihc-dismisses-3-petitions-from-adiala-prisoners-seeking-private-hospital-treatment-communication-with-relatives-abroad",
@@ -2009,43 +2081,19 @@
         "img": ""
       },
       {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
         "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
         "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
+        "date": "2026-08-31T16:59:18+00:00",
         "img": ""
       },
       {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
-      },
-      {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
-        "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
@@ -2057,35 +2105,11 @@
         "img": ""
       },
       {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
-        "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -2153,35 +2177,11 @@
         "img": ""
       },
       {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
         "title": "High-rises sealed, 3 Islamabad hospitals fined over fire safety violations",
         "summary": "<p>ISLAMABAD: Following the recent tragic incident at the Pakistan Institute of Medical Sciences (Pims), where <a href=\"https://www.dawn.com/news/2025385\">14 newborn babies died</a> in a fire, the Capital Development Authority (CDA) has intensified enforcement of fire and life safety regulations across Islamabad, seali",
         "url": "https://www.dawn.com/news/2026201/high-rises-sealed-3-islamabad-hospitals-fined-over-fire-safety-violations",
         "source": "Dawn",
         "date": "2026-08-31T11:01:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       },
       {
@@ -2299,6 +2299,30 @@
         "img": ""
       },
       {
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
         "title": "Court hands Hindu woman to family after alleged forced conversion and marriage",
         "summary": "<p>LAHORE: A 21-year-old Hindu woman from Sanghar district in Sindh, who was allegedly lured into a relationship and persuaded to convert to Islam by a man from Gujranwala in Punjab, was handed back into her family’s custody after a judicial magistrate on Monday rejected a police request to shift her to a shelter home.",
         "url": "https://www.dawn.com/news/2026413/court-hands-hindu-woman-to-family-after-alleged-forced-conversion-and-marriage",
@@ -2315,6 +2339,46 @@
         "img": ""
       },
       {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Post-mortem report rules findings 'inconsistent' with suicide",
         "summary": "<p>KARACHI: The final report of the second post-mortem for the Mir Raza Ali murder case on Monday termed its findings “inconsistent” with suicide as the manner of his death.</p> <p>Ali, a 25-year-old Karachi-based businessman, was found dead with a gunshot wound in Gulistan-i-Jauhar last month, a day after he was repor",
         "url": "https://www.dawn.com/news/2026388/mir-raza-murder-case-post-mortem-report-rules-findings-inconsistent-with-suicide",
@@ -2323,7 +2387,23 @@
         "img": ""
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -2395,14 +2475,6 @@
         "img": ""
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
-        "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
-        "img": ""
-      },
-      {
         "title": "IHC dismisses 3 petitions from Adiala prisoners seeking private hospital treatment, communication with relatives abroad",
         "summary": "<p>ISLAMABAD: The Islamabad High Court (IHC) on Monday dismissed petitions filed by three Adiala Jail prisoners seeking treatment at private hospitals and permission to communicate with relatives abroad, similar to the relief granted to PTI founder Imran Khan.</p> <p>Justice Muhammad Asif issued separate written judgme",
         "url": "https://www.dawn.com/news/2026404/ihc-dismisses-3-petitions-from-adiala-prisoners-seeking-private-hospital-treatment-communication-with-relatives-abroad",
@@ -2411,43 +2483,19 @@
         "img": ""
       },
       {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
         "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
         "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
+        "date": "2026-08-31T16:59:18+00:00",
         "img": ""
       },
       {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
-      },
-      {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
-        "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
@@ -2459,35 +2507,11 @@
         "img": ""
       },
       {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
-        "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -2555,35 +2579,11 @@
         "img": ""
       },
       {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
         "title": "High-rises sealed, 3 Islamabad hospitals fined over fire safety violations",
         "summary": "<p>ISLAMABAD: Following the recent tragic incident at the Pakistan Institute of Medical Sciences (Pims), where <a href=\"https://www.dawn.com/news/2025385\">14 newborn babies died</a> in a fire, the Capital Development Authority (CDA) has intensified enforcement of fire and life safety regulations across Islamabad, seali",
         "url": "https://www.dawn.com/news/2026201/high-rises-sealed-3-islamabad-hospitals-fined-over-fire-safety-violations",
         "source": "Dawn",
         "date": "2026-08-31T11:01:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       },
       {
@@ -2829,6 +2829,30 @@
         "img": ""
       },
       {
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
         "title": "Court hands Hindu woman to family after alleged forced conversion and marriage",
         "summary": "<p>LAHORE: A 21-year-old Hindu woman from Sanghar district in Sindh, who was allegedly lured into a relationship and persuaded to convert to Islam by a man from Gujranwala in Punjab, was handed back into her family’s custody after a judicial magistrate on Monday rejected a police request to shift her to a shelter home.",
         "url": "https://www.dawn.com/news/2026413/court-hands-hindu-woman-to-family-after-alleged-forced-conversion-and-marriage",
@@ -2845,6 +2869,46 @@
         "img": ""
       },
       {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Post-mortem report rules findings 'inconsistent' with suicide",
         "summary": "<p>KARACHI: The final report of the second post-mortem for the Mir Raza Ali murder case on Monday termed its findings “inconsistent” with suicide as the manner of his death.</p> <p>Ali, a 25-year-old Karachi-based businessman, was found dead with a gunshot wound in Gulistan-i-Jauhar last month, a day after he was repor",
         "url": "https://www.dawn.com/news/2026388/mir-raza-murder-case-post-mortem-report-rules-findings-inconsistent-with-suicide",
@@ -2853,7 +2917,23 @@
         "img": ""
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -2941,14 +3021,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Rain-Image.jpg"
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
-        "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
-        "img": ""
-      },
-      {
         "title": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "summary": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "url": "https://arynews.tv/india-cannot-suspend-indus-waters-treaty-with-pakistan-hague-court-rules",
@@ -2981,44 +3053,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-90.jpg"
       },
       {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
-        "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
-        "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "summary": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "url": "https://arynews.tv/mir-raza-ali-case-judicial-commission-cannot-investigate-murder-case-jibran-nasir-calls-for-jit",
         "source": "ARY News",
         "date": "2026-08-31T17:44:04+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Jibran-Nasir.jpg"
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
       },
       {
         "title": "PIMS fire: Senate, NA committees say CCTV footage seems manipulated",
@@ -3037,6 +3077,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FPSC-1.jpg"
       },
       {
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
+        "source": "Express",
+        "date": "2026-08-31T16:59:18+00:00",
+        "img": ""
+      },
+      {
         "title": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "summary": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "url": "https://arynews.tv/spains-sanchez-rules-out-responsibility-morocco-migrant-surge",
@@ -3045,11 +3093,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Spain-migrants.jpg"
       },
       {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
@@ -3061,35 +3109,11 @@
         "img": ""
       },
       {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
-        "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -3157,35 +3181,11 @@
         "img": ""
       },
       {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
         "title": "High-rises sealed, 3 Islamabad hospitals fined over fire safety violations",
         "summary": "<p>ISLAMABAD: Following the recent tragic incident at the Pakistan Institute of Medical Sciences (Pims), where <a href=\"https://www.dawn.com/news/2025385\">14 newborn babies died</a> in a fire, the Capital Development Authority (CDA) has intensified enforcement of fire and life safety regulations across Islamabad, seali",
         "url": "https://www.dawn.com/news/2026201/high-rises-sealed-3-islamabad-hospitals-fined-over-fire-safety-violations",
         "source": "Dawn",
         "date": "2026-08-31T11:01:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       },
       {
@@ -3391,7 +3391,87 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/South-LA-couple.jpg"
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -3463,14 +3543,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Rain-Image.jpg"
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
-        "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
-        "img": ""
-      },
-      {
         "title": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "summary": "India cannot suspend Indus Waters Treaty with Pakistan, Hague Court rules",
         "url": "https://arynews.tv/india-cannot-suspend-indus-waters-treaty-with-pakistan-hague-court-rules",
@@ -3495,44 +3567,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-90.jpg"
       },
       {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
-        "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
-        "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "summary": "Mir Raza Ali Case: Judicial Commission cannot investigate murder case, Jibran Nasir calls for JIT",
         "url": "https://arynews.tv/mir-raza-ali-case-judicial-commission-cannot-investigate-murder-case-jibran-nasir-calls-for-jit",
         "source": "ARY News",
         "date": "2026-08-31T17:44:04+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Jibran-Nasir.jpg"
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
       },
       {
         "title": "PIMS fire: Senate, NA committees say CCTV footage seems manipulated",
@@ -3551,6 +3591,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FPSC-1.jpg"
       },
       {
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
+        "source": "Express",
+        "date": "2026-08-31T16:59:18+00:00",
+        "img": ""
+      },
+      {
         "title": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "summary": "Spain’s Sanchez rules out responsibility of Morocco in migrant surge",
         "url": "https://arynews.tv/spains-sanchez-rules-out-responsibility-morocco-migrant-surge",
@@ -3559,43 +3607,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Spain-migrants.jpg"
       },
       {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
-        "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -3636,30 +3660,6 @@
         "url": "https://www.express.pk/story/2830206/petrol-price-notification-01-september-2026-2830206/",
         "source": "Express",
         "date": "2026-08-31T13:24:20+00:00",
-        "img": ""
-      },
-      {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       }
     ],
@@ -3891,6 +3891,62 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-92.jpg"
       },
       {
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
         "title": "Lionel Messi says retiring from international football",
         "summary": "<p>Lionel Messi said on Monday he is retiring from international football after leading Argentina to a second successive World Cup final in July.</p> <p>Following the <a href=\"https://www.dawn.com/news/2021719/lionel-messi-bids-farewell-to-father-who-guided-his-glittering-career\">death</a> of his father Jorge in August",
         "url": "https://www.dawn.com/news/2026422/lionel-messi-says-retiring-from-international-football",
@@ -3899,7 +3955,31 @@
         "img": ""
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -3955,51 +4035,11 @@
         "img": ""
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
         "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
         "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
-        "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
-        "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
-      },
-      {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
-        "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
+        "date": "2026-08-31T16:59:18+00:00",
         "img": ""
       },
       {
@@ -4011,27 +4051,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-161.jpg"
       },
       {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -4041,14 +4073,6 @@
         "source": "ARY Sports",
         "date": "2026-08-31T15:45:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-188.jpg"
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
-        "img": ""
       },
       {
         "title": "Five-star room shortage hits Asian Games cricket: official",
@@ -4152,30 +4176,6 @@
         "url": "https://www.dawn.com/news/2026366/england-captain-joe-root-shrugs-off-concerns-over-lbw-run-after-pakistan-test-series-win",
         "source": "Dawn",
         "date": "2026-08-31T12:01:13+05:00",
-        "img": ""
-      },
-      {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       },
       {
@@ -4437,7 +4437,87 @@
         "img": ""
       },
       {
-        "title": "کراچی، شہر میں ٹارگٹ کلنگ اور جھگڑے کے واقعات میں 3 افراد جاں بحق",
+        "title": "ٹکرائو کی سیاست کے مضمرات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830231/takrao-ki-siyasat-ke-muzammaraat-2830231/",
+        "source": "Express",
+        "date": "2026-08-31T21:19:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "ترقی پسند صحافی و شاعر احمد راہی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830230/taraqqi-pasand-sahafi-o-shaair-ahmed-rahi-2830230/",
+        "source": "Express",
+        "date": "2026-08-31T21:17:14+05:00",
+        "img": ""
+      },
+      {
+        "title": "ظالمو ایل نینو آ رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830229/zalimo-el-nino-aa-raha-hai-2830229/",
+        "source": "Express",
+        "date": "2026-08-31T21:14:00+05:00",
+        "img": ""
+      },
+      {
+        "title": "کامیاب سفارت کاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830228/kamyab-safarat-kari-2830228/",
+        "source": "Express",
+        "date": "2026-08-31T21:10:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایوب خان کے دور حکومت کا ایک غیر جانب دارانہ جائزہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830227/ayub-khan-ke-daur-e-hukoomat-ka-aik-ghair-janibdarana-jaiza-2830227/",
+        "source": "Express",
+        "date": "2026-08-31T21:08:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "پابندیاں ایران پر، لیکن مشکلات امریکا کے لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830226/pabandiyan-iran-par-lekin-mushkilat-america-ke-liye-2830226/",
+        "source": "Express",
+        "date": "2026-08-31T21:05:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "تہران سے واشنگٹن تک خطرے کا نیا دائرہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830225/tehran-se-washington-tak-khatray-ka-naya-daira-2830225/",
+        "source": "Express",
+        "date": "2026-08-31T20:56:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کیا امریکہ کی اقتصادی پابندیاں ایران کو جھکا پائیں گی؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830224/kya-america-ki-iqtisadi-pabandiyan-iran-ko-jhuka-paengi-2830224/",
+        "source": "Express",
+        "date": "2026-08-31T20:38:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: ملیر کے علاقے سکھن میں ڈاکوؤں کی دیدہ دلیری، اسٹور میں گھس کر درجنوں افراد کو لوٹ لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830223/karachi-brazen-act-by-bandits-in-the-sukhan-area-of-malir-they-stormed-a-store-and-robbed-dozens-of-people-2830223/",
+        "source": "Express",
+        "date": "2026-08-31T20:31:04+05:00",
+        "img": ""
+      },
+      {
+        "title": "میکسیکو میں امریکا سے اسمگل ہونے والے ہتھیار پکڑے گئے، 3 افراد گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830222/mexico-seizes-210-guns-smuggled-from-texas-2830222/",
+        "source": "Express",
+        "date": "2026-08-31T20:30:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مذہبی جماعت کے کارکن سمیت 2 افراد ٹارگٹ کلنگ کا شکار، ایک جھگڑے میں جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2830219/karachi-three-people-killed-in-incidents-of-target-killing-and-clashes-in-the-city-2830219/",
         "source": "Express",
@@ -4493,83 +4573,27 @@
         "img": ""
       },
       {
-        "title": "شارٹ فلم کے قابل اعتراض مناظر وائرل؛ اداکار سہیل سمیر نے معافی مانگ لی",
+        "title": "آبنائے ہرمز سے گزرنے والے سعودی آئل ٹینکر کو روک لیا گیا، ایرانی میڈیا کا دعویٰ",
         "summary": "",
-        "url": "https://www.express.pk/story/2830205/actor-sohail-sameer-apology-over-viral-bold-scenes-of-film-2830205/",
+        "url": "https://www.express.pk/story/2830234/saudi-oil-tanker-passing-through-the-strait-of-hormuz-intercepted-iranian-media-claims-2830234/",
         "source": "Express",
-        "date": "2026-08-31T18:14:37+05:00",
+        "date": "2026-08-31T16:59:18+00:00",
         "img": ""
       },
       {
-        "title": "وزیراعظم کی ورلڈ نومیڈ گیمز کی افتتاحی تقریب میں شرکت، عالمی رہنماؤں سے ملاقاتیں",
+        "title": "ایف بی آر نے سست رفتار نمو کے باوجود 1.71 ٹریلین روپے کا ہدف حاصل کر لیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2830204/prime-minister-attends-the-opening-ceremony-of-the-6th-world-nomad-games-and-holds-meetings-with-world-leaders-2830204/",
+        "url": "https://www.express.pk/story/2830233/the-fbr-achieved-the-target-of-rs171-trillion-despite-sluggish-growth-2830233/",
         "source": "Express",
-        "date": "2026-08-31T17:50:26+05:00",
+        "date": "2026-08-31T16:35:11+00:00",
         "img": ""
       },
       {
-        "title": "پشاور نادرن بائی پاس پر پولیس پر حملہ، انٹرپول سے واپس لایا گیا مطلوب ملزم 2 ساتھیوں سمیت ہلاک",
+        "title": "ہائیڈل منافع، کے پی کا وفاق پر پنجاب سے ترجیحی سلوک کا الزام",
         "summary": "",
-        "url": "https://www.express.pk/story/2830203/police-attacked-on-peshawar-northern-bypass-wanted-suspect-brought-back-from-interpol-killed-along-with-2-accomplices-2830203/",
+        "url": "https://www.express.pk/story/2830232/hydel-profits-kp-accuses-federation-of-preferential-treatment-to-punjab-2830232/",
         "source": "Express",
-        "date": "2026-08-31T17:45:53+05:00",
-        "img": ""
-      },
-      {
-        "title": "رکشا بندھن اشتہار میں کریتی سنن کا بولڈ لباس؛ کرینہ کپور اور میگھنا کا ردعمل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830201/kareena-kapoor-kriti-sanon-ad-controversy-meghna-gulzar-2830201/",
-        "source": "Express",
-        "date": "2026-08-31T17:33:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد: ڈرائیور لیس گاڑی کی پولیس موبائل کو ٹکر، ویڈیو وائرل، نوجوان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830200/islamabad-driverless-car-rams-into-police-mobile-video-goes-viral-youth-arrested-2830200/",
-        "source": "Express",
-        "date": "2026-08-31T17:28:00+05:00",
-        "img": ""
-      },
-      {
-        "title": "مانسہرہ: سرن ویلی کی ساڑھے تیرہ ہزار فٹ بلند چوٹی سے واپسی پر غیرملکی سیاح لا پتہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830198/mansehra-foreign-tourist-goes-missing-while-returning-from-a-13500-foot-high-peak-in-siren-valley-2830198/",
-        "source": "Express",
-        "date": "2026-08-31T16:44:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپانٹک چوٹی سر کرنے والی ڈاکٹر اسماء مشتاق کی لاش مل گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830197/the-body-of-dr-asma-mushtaq-the-female-mountaineer-who-lost-her-life-after-summiting-spantik-peak-has-been-recovered-2830197/",
-        "source": "Express",
-        "date": "2026-08-31T16:32:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کرکٹ بورڈ نے ٹیسٹ اسکواڈ سے 7 کھلاڑیوں کو ریلیز کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830194/the-pakistan-cricket-board-has-released-seven-players-from-the-test-squad-2830194/",
-        "source": "Express",
-        "date": "2026-08-31T16:02:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت کی خوبرو اداکارہ کی نازیبا ویڈیو وائرل؛ شالنی پانڈے کا ردعمل سامنے آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830192/shalini-pandey-ai-video-viral-social-media-2830192/",
-        "source": "Express",
-        "date": "2026-08-31T15:59:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں 16 سالہ لڑکی سے چلتی بس میں اجتماعی زیادتی؛ نیم مردہ حالت میں پھینک دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830191/16-year-old-gang-raped-on-moving-bus-in-noida-dumped-40-km-away-in-delhi-2830191/",
-        "source": "Express",
-        "date": "2026-08-31T15:36:20+05:00",
+        "date": "2026-08-31T16:23:48+00:00",
         "img": ""
       },
       {
@@ -4610,30 +4634,6 @@
         "url": "https://www.express.pk/story/2830206/petrol-price-notification-01-september-2026-2830206/",
         "source": "Express",
         "date": "2026-08-31T13:24:20+00:00",
-        "img": ""
-      },
-      {
-        "title": "معیشت کا مالی خسارہ دو دہائیوں کی کم ترین سطح پر آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830196/the-fiscal-deficit-has-dropped-to-a-two-decade-low-2830196/",
-        "source": "Express",
-        "date": "2026-08-31T11:27:12+00:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل کی استنبول میں ترک اور سعودی حکام سے اہم ملاقاتیں، دفاعی تعاون اور علاقائی سیکیورٹی پر گفتگو",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830195/field-marshal-meets-saudi-and-turkey-officals-in-istanbul-2830195/",
-        "source": "Express",
-        "date": "2026-08-31T11:23:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 20 اجلاس؛ امریکا کا بڑا معاشی پلان، ایران اور چین بھی نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830193/g20-summit-us-growth-agenda-iran-sanctions-china-trade-imbalance-2830193/",
-        "source": "Express",
-        "date": "2026-08-31T10:59:50+00:00",
         "img": ""
       },
       {
