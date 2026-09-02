@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-09-01T23:40:28.061621+00:00",
+  "fetched": "2026-09-02T01:59:11.524369+00:00",
   "categories": {
     "international": [
+      {
+        "title": "امریکہ کے ایران پر تازہ حملوں میں چار ہلاکتوں کی تصدیق، پاسدارانِ انقلاب کا اُردن میں امریکی اڈے پر حملہ",
+        "summary": "ایران کی سرکاری خبر رساں ایجنسی نے رپورٹ کیا ہے کہ ایران نے تازہ امریکی حملوں کے جواب میں ’اردن میں موجود امریکی اڈوں‘ پر میزائل داغے ہیں۔ صوبہ ہرمزگان کے علاقے ’سرک‘ میں امریکی حملے کے نتیجے میں کم از کم چار افراد ہلاک ہو گئے ہیں۔ اس سے قبل امریکہ نے پاسدارانِ انقلاب کے ٹھکانوں کو نشانہ بنانے کا دعویٰ کیا تھا۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-02T01:59:13.311074+00:00",
+        "img": ""
+      },
       {
         "title": "South Africa names Mosimane new coach before qualifiers",
         "summary": "South Africa names Mosimane new coach before qualifiers",
@@ -41,14 +49,6 @@
         "source": "ARY News",
         "date": "2026-09-01T23:47:20+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Lindsay-Clancy-Case.jpg"
-      },
-      {
-        "title": "امریکہ کے ایران پر تازہ حملوں میں چار ہلاکتوں کی تصدیق، پاسدارانِ انقلاب کا اُردن میں امریکی اڈے پر حملہ",
-        "summary": "ایران کی سرکاری خبر رساں ایجنسی نے رپورٹ کیا ہے کہ ایران نے تازہ امریکی حملوں کے جواب میں ’اردن میں موجود امریکی اڈوں‘ پر میزائل داغے ہیں۔ صوبہ ہرمزگان کے علاقے ’سرک‘ میں امریکی حملے کے نتیجے میں کم از کم چار افراد ہلاک ہو گئے ہیں۔ اس سے قبل امریکہ نے پاسدارانِ انقلاب کے ٹھکانوں کو نشانہ بنانے کا دعویٰ کیا تھا۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-01T23:40:30.017162+00:00",
-        "img": ""
       },
       {
         "title": "Lahore citizen dies after alleged push by traffic warden",
@@ -573,6 +573,14 @@
     ],
     "national": [
       {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
+      {
         "title": "South Africa names Mosimane new coach before qualifiers",
         "summary": "South Africa names Mosimane new coach before qualifiers",
         "url": "https://arynews.tv/south-africa-names-mosimane-new-coach-before-qualifiers",
@@ -773,6 +781,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -853,6 +869,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-9.jpg"
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -877,6 +901,14 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
@@ -885,27 +917,19 @@
         "img": ""
       },
       {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -1005,35 +1029,11 @@
         "img": ""
       },
       {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
         "title": "2 terrorists killed in Lakki Marwat IBO: police",
         "summary": "<p>LAKKI MARWAT: Two terrorists were killed in an intelligence-based operation (IBO) in Khyber Pakhtunkhwa’s Lakki Marwat district, police said.</p> <p>Qudratullah Khan, the spokesperson for the district police officer in Lakki Marwat, said in a statement that the operation was jointly conducted by police and Counter-T",
         "url": "https://www.dawn.com/news/2026614/2-terrorists-killed-in-lakki-marwat-ibo-police",
         "source": "Dawn",
         "date": "2026-09-01T15:04:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,14 @@
     ],
     "kpk": [
       {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
+      {
         "title": "South Africa names Mosimane new coach before qualifiers",
         "summary": "South Africa names Mosimane new coach before qualifiers",
         "url": "https://arynews.tv/south-africa-names-mosimane-new-coach-before-qualifiers",
@@ -1375,6 +1383,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -1455,6 +1471,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-9.jpg"
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -1479,6 +1503,14 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
@@ -1487,27 +1519,19 @@
         "img": ""
       },
       {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -1607,35 +1631,11 @@
         "img": ""
       },
       {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
         "title": "2 terrorists killed in Lakki Marwat IBO: police",
         "summary": "<p>LAKKI MARWAT: Two terrorists were killed in an intelligence-based operation (IBO) in Khyber Pakhtunkhwa’s Lakki Marwat district, police said.</p> <p>Qudratullah Khan, the spokesperson for the district police officer in Lakki Marwat, said in a statement that the operation was jointly conducted by police and Counter-T",
         "url": "https://www.dawn.com/news/2026614/2-terrorists-killed-in-lakki-marwat-ibo-police",
         "source": "Dawn",
         "date": "2026-09-01T15:04:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,14 @@
     ],
     "punjab": [
       {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
+      {
         "title": "Afghan-origin doctor, policeman among eight held; meth worth Rs900m seized",
         "summary": "<p>KARACHI: A police task force on narcotics in Karachi, in collaboration with a federal civilian intelligence agency, carried out an intelligence-based raid on a warehouse in Mehran Town, Korangi, on Tuesday, arresting eight members of an alleged “international narcotics network” and recovering 50kg of crystal meth, a",
         "url": "https://www.dawn.com/news/2026679/afghan-origin-doctor-policeman-among-eight-held-meth-worth-rs900m-seized",
@@ -1921,6 +1929,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -1977,6 +1993,14 @@
         "img": ""
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -1993,6 +2017,14 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
@@ -2001,27 +2033,19 @@
         "img": ""
       },
       {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -2089,35 +2113,11 @@
         "img": ""
       },
       {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
         "title": "2 terrorists killed in Lakki Marwat IBO: police",
         "summary": "<p>LAKKI MARWAT: Two terrorists were killed in an intelligence-based operation (IBO) in Khyber Pakhtunkhwa’s Lakki Marwat district, police said.</p> <p>Qudratullah Khan, the spokesperson for the district police officer in Lakki Marwat, said in a statement that the operation was jointly conducted by police and Counter-T",
         "url": "https://www.dawn.com/news/2026614/2-terrorists-killed-in-lakki-marwat-ibo-police",
         "source": "Dawn",
         "date": "2026-09-01T15:04:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,14 @@
     ],
     "sindh": [
       {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
+      {
         "title": "Afghan-origin doctor, policeman among eight held; meth worth Rs900m seized",
         "summary": "<p>KARACHI: A police task force on narcotics in Karachi, in collaboration with a federal civilian intelligence agency, carried out an intelligence-based raid on a warehouse in Mehran Town, Korangi, on Tuesday, arresting eight members of an alleged “international narcotics network” and recovering 50kg of crystal meth, a",
         "url": "https://www.dawn.com/news/2026679/afghan-origin-doctor-policeman-among-eight-held-meth-worth-rs900m-seized",
@@ -2323,6 +2331,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -2379,6 +2395,14 @@
         "img": ""
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -2395,6 +2419,14 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
@@ -2403,27 +2435,19 @@
         "img": ""
       },
       {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -2491,35 +2515,11 @@
         "img": ""
       },
       {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
         "title": "2 terrorists killed in Lakki Marwat IBO: police",
         "summary": "<p>LAKKI MARWAT: Two terrorists were killed in an intelligence-based operation (IBO) in Khyber Pakhtunkhwa’s Lakki Marwat district, police said.</p> <p>Qudratullah Khan, the spokesperson for the district police officer in Lakki Marwat, said in a statement that the operation was jointly conducted by police and Counter-T",
         "url": "https://www.dawn.com/news/2026614/2-terrorists-killed-in-lakki-marwat-ibo-police",
         "source": "Dawn",
         "date": "2026-09-01T15:04:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,14 @@
     ],
     "baloch": [
       {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
+      {
         "title": "South Africa names Mosimane new coach before qualifiers",
         "summary": "South Africa names Mosimane new coach before qualifiers",
         "url": "https://arynews.tv/south-africa-names-mosimane-new-coach-before-qualifiers",
@@ -2861,6 +2869,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -2941,6 +2957,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-9.jpg"
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -2965,6 +2989,14 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
@@ -2973,27 +3005,19 @@
         "img": ""
       },
       {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -3093,35 +3117,11 @@
         "img": ""
       },
       {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
         "title": "2 terrorists killed in Lakki Marwat IBO: police",
         "summary": "<p>LAKKI MARWAT: Two terrorists were killed in an intelligence-based operation (IBO) in Khyber Pakhtunkhwa’s Lakki Marwat district, police said.</p> <p>Qudratullah Khan, the spokesperson for the district police officer in Lakki Marwat, said in a statement that the operation was jointly conducted by police and Counter-T",
         "url": "https://www.dawn.com/news/2026614/2-terrorists-killed-in-lakki-marwat-ibo-police",
         "source": "Dawn",
         "date": "2026-09-01T15:04:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
         "img": ""
       },
       {
@@ -3262,6 +3262,14 @@
       }
     ],
     "education": [
+      {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
       {
         "title": "South Africa names Mosimane new coach before qualifiers",
         "summary": "South Africa names Mosimane new coach before qualifiers",
@@ -3439,6 +3447,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -3511,6 +3527,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-9.jpg"
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -3535,27 +3559,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -3636,30 +3660,6 @@
         "url": "https://www.express.pk/story/2830418/pak-uk-agree-to-increase-trade-pakistans-role-appreciated-globally-ishaq-dar-2830418/",
         "source": "Express",
         "date": "2026-09-01T15:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
         "img": ""
       }
     ],
@@ -3867,6 +3867,14 @@
     ],
     "sports": [
       {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
+      {
         "title": "South Africa names Mosimane new coach before qualifiers",
         "summary": "South Africa names Mosimane new coach before qualifiers",
         "url": "https://arynews.tv/south-africa-names-mosimane-new-coach-before-qualifiers",
@@ -3947,6 +3955,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -4003,6 +4019,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-9.jpg"
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -4019,27 +4043,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -4123,14 +4147,6 @@
         "img": ""
       },
       {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan Test overhaul sparks backlash after England series defeats",
         "summary": "Pakistan Test overhaul sparks backlash after England series defeats",
         "url": "https://arynews.tv/pakistan-test-overhaul-sparks-backlash-after-england-series-defeats",
@@ -4153,22 +4169,6 @@
         "source": "ARY Sports",
         "date": "2026-09-01T14:30:34+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Lewis-Hamilton.jpg"
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
       },
       {
         "title": "Australia axe Labuschagne for Zimbabwe, South Africa ODI series",
@@ -4429,6 +4429,14 @@
     ],
     "business": [
       {
+        "title": "افغان موٹر سائیکل اسنیچروں کے خلاف کارروائی، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830432/major-crackdown-against-afghan-motorcycle-snatchers-2830432/",
+        "source": "Express",
+        "date": "2026-09-02T01:23:12+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt raises petrol price by Rs1.08, high-speed diesel by Rs0.51",
         "summary": "<iframe id=\"raw-html-6a97172b6007d\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
         "url": "https://www.dawn.com/news/2026676/govt-raises-petrol-price-by-rs108-high-speed-diesel-by-rs051",
@@ -4485,6 +4493,14 @@
         "img": ""
       },
       {
+        "title": "ایران پر تازہ فضائی حملوں کا مرحلہ مکمل کر لیا، سینٹکام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830433/centcom-completes-phase-of-fresh-air-strikes-on-iran-2830433/",
+        "source": "Express",
+        "date": "2026-09-01T20:37:55+00:00",
+        "img": ""
+      },
+      {
         "title": "ترقی کس کے لیے",
         "summary": "",
         "url": "https://www.express.pk/story/2830416/taraqqi-kis-ke-liye-2830416/",
@@ -4533,6 +4549,14 @@
         "img": ""
       },
       {
+        "title": "پیوٹن نے روسی فوج کو یوکرین کے توانائی نظام پر بڑے حملوں کی تیاری کا حکم دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830431/putin-has-ordered-the-russian-military-to-prepare-for-major-attacks-on-ukraines-energy-system-2830431/",
+        "source": "Express",
+        "date": "2026-09-01T19:55:36+00:00",
+        "img": ""
+      },
+      {
         "title": "ایشا رِکھی کون ہیں؟ بادشاہ کیساتھ خفیہ شادی سے علیحدگی تک مکمل کہانی",
         "summary": "",
         "url": "https://www.express.pk/story/2830409/badshah-isha-rikhi-divorce-secret-marriage-love-story-2830409/",
@@ -4549,27 +4573,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
         "source": "Express",
         "date": "2026-09-01T19:21:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "زچگی کے سی سیکشن آپریشن سے متاثر ہوکر مس ورلڈ یوگنڈا کا منفرد گاؤن تیار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
-        "source": "Express",
-        "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -4626,30 +4650,6 @@
         "url": "https://www.express.pk/story/2830418/pak-uk-agree-to-increase-trade-pakistans-role-appreciated-globally-ishaq-dar-2830418/",
         "source": "Express",
         "date": "2026-09-01T15:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "سوات اور گردونواح میں 5 شدت کے زلزلے سے زمین لرز اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830417/the-ground-shook-in-swat-and-surrounding-areas-due-to-an-earthquake-measuring-50-in-magnitude-2830417/",
-        "source": "Express",
-        "date": "2026-09-01T15:45:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ گھر میں چوری میں ملوث ملزمہ گرفتار، 15 تولہ سونے کے زیورات و دیگر سامان برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
-        "source": "Express",
-        "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
         "img": ""
       },
       {
