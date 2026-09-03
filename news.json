@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-03T21:30:18.777108+00:00",
+  "fetched": "2026-09-03T23:40:54.401185+00:00",
   "categories": {
     "international": [
       {
@@ -56,6 +56,14 @@
         "url": "https://www.dawn.com/news/2027262/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures",
         "source": "Dawn",
         "date": "2026-09-03T23:47:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی حملے میں ’تین ایرانی پائلٹ ہلاک‘ ہوئے: آبنائے ہرمز ایران کی مرضی کے بغیر نہیں کھلے گی، ابراہیم عزیزی",
+        "summary": "ایران کی نیم سرکاری نیوز ایجنسی تسنیم نیوز نے خبر دی ہے کہ دو رات قبل ایران پر امریکی حملوں میں ’تین ایرانی فوجی پائلٹ‘ ہلاک ہوئے تھے۔ تاہم یہ پائلٹ کہاں اور کس طرح ہلاک ہوئے اس کی تفصیلات تاحال نہیں دی گئیں۔ دوسری جانب ایرانی پارلیمان کی قومی سلامتی اور خارجہ پالیسی کمیٹی کے سربراہ ابراہیم عزیزی نے دعویٰ کیا ہے کہ آبن",
+        "url": "https://www.bbc.co.uk/urdu/live/cvp8dljwxy28t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-03T23:40:57.278620+00:00",
         "img": ""
       },
       {
@@ -193,14 +201,6 @@
         "source": "ARY News",
         "date": "2026-09-03T21:34:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/German-flag.jpg"
-      },
-      {
-        "title": "امریکی حملے میں ’تین ایرانی پائلٹ ہلاک‘ ہوئے: آبنائے ہرمز ایران کی مرضی کے بغیر نہیں کھلے گی، ابراہیم عزیزی",
-        "summary": "ایران کی نیم سرکاری نیوز ایجنسی تسنیم نیوز نے خبر دی ہے کہ دو رات قبل ایران پر امریکی حملوں میں ’تین ایرانی فوجی پائلٹ‘ ہلاک ہوئے تھے۔ تاہم یہ پائلٹ کہاں اور کس طرح ہلاک ہوئے اس کی تفصیلات تاحال نہیں دی گئیں۔ دوسری جانب ایرانی پارلیمان کی قومی سلامتی اور خارجہ پالیسی کمیٹی کے سربراہ ابراہیم عزیزی نے دعویٰ کیا ہے کہ آبن",
-        "url": "https://www.bbc.co.uk/urdu/live/cvp8dljwxy28t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-03T21:30:20.805259+00:00",
-        "img": ""
       },
       {
         "title": "Defending champions Alcaraz, Sabalenka storm into third round at US Open",
@@ -717,6 +717,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Italy-flag.jpg"
       },
       {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
+        "img": ""
+      },
+      {
         "title": "Gemini, chatGPT, Claude and other major AI services are down worldwide",
         "summary": "Gemini, chatGPT, Claude and other major AI services are down worldwide",
         "url": "https://arynews.tv/gemini-chatgpt-claude-and-other-major-ai-services-are-down-worldwide",
@@ -1026,14 +1034,6 @@
         "url": "https://www.express.pk/story/2830756/the-government-has-agreed-to-accept-our-proposals-to-abolish-petroleum-levy-hafiz-naeem-2830756/",
         "source": "Express",
         "date": "2026-09-03T12:31:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
         "img": ""
       },
       {
@@ -1319,6 +1319,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Italy-flag.jpg"
       },
       {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
+        "img": ""
+      },
+      {
         "title": "Gemini, chatGPT, Claude and other major AI services are down worldwide",
         "summary": "Gemini, chatGPT, Claude and other major AI services are down worldwide",
         "url": "https://arynews.tv/gemini-chatgpt-claude-and-other-major-ai-services-are-down-worldwide",
@@ -1631,14 +1639,6 @@
         "img": ""
       },
       {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
-        "img": ""
-      },
-      {
         "title": "LHC's Justice Raheel Kamran resigns as judge",
         "summary": "<p>LAHORE: Lahore High Court’s (LHC) Justice Raheel Kamran Sheikh resigned as a judge on Thursday, saying he wanted to pursue legal scholarship, policy research and comparative judicial practice.</p> <p>He sent his resignation letter, dated Sept 3, to President Asif Ali Zardari under Article 206 of the Constitution.</p",
         "url": "https://www.dawn.com/news/2027130/lhcs-justice-raheel-kamran-resigns-as-judge",
@@ -1889,6 +1889,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
+        "img": ""
+      },
+      {
         "title": "لاہور، ریس لگاتی دو موٹرسائیکلیں آپس میں ٹکرانے سے 4 افراد زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2830785/lahore-four-people-injured-after-two-racing-motorcycles-collide-2830785/",
@@ -2110,14 +2118,6 @@
         "url": "https://www.express.pk/story/2830756/the-government-has-agreed-to-accept-our-proposals-to-abolish-petroleum-levy-hafiz-naeem-2830756/",
         "source": "Express",
         "date": "2026-09-03T12:31:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
         "img": ""
       },
       {
@@ -2291,6 +2291,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
+        "img": ""
+      },
+      {
         "title": "لاہور، ریس لگاتی دو موٹرسائیکلیں آپس میں ٹکرانے سے 4 افراد زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2830785/lahore-four-people-injured-after-two-racing-motorcycles-collide-2830785/",
@@ -2512,14 +2520,6 @@
         "url": "https://www.express.pk/story/2830756/the-government-has-agreed-to-accept-our-proposals-to-abolish-petroleum-levy-hafiz-naeem-2830756/",
         "source": "Express",
         "date": "2026-09-03T12:31:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
         "img": ""
       },
       {
@@ -2805,6 +2805,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Italy-flag.jpg"
       },
       {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
+        "img": ""
+      },
+      {
         "title": "Gemini, chatGPT, Claude and other major AI services are down worldwide",
         "summary": "Gemini, chatGPT, Claude and other major AI services are down worldwide",
         "url": "https://arynews.tv/gemini-chatgpt-claude-and-other-major-ai-services-are-down-worldwide",
@@ -3117,14 +3125,6 @@
         "img": ""
       },
       {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
-        "img": ""
-      },
-      {
         "title": "LHC's Justice Raheel Kamran resigns as judge",
         "summary": "<p>LAHORE: Lahore High Court’s (LHC) Justice Raheel Kamran Sheikh resigned as a judge on Thursday, saying he wanted to pursue legal scholarship, policy research and comparative judicial practice.</p> <p>He sent his resignation letter, dated Sept 3, to President Asif Ali Zardari under Article 206 of the Constitution.</p",
         "url": "https://www.dawn.com/news/2027130/lhcs-justice-raheel-kamran-resigns-as-judge",
@@ -3373,6 +3373,14 @@
         "source": "ARY News",
         "date": "2026-09-03T21:54:05+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Italy-flag.jpg"
+      },
+      {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
+        "img": ""
       },
       {
         "title": "Gemini, chatGPT, Claude and other major AI services are down worldwide",
@@ -3653,14 +3661,6 @@
         "source": "Express",
         "date": "2026-09-03T12:31:05+00:00",
         "img": ""
-      },
-      {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
-        "img": ""
       }
     ],
     "science": [
@@ -3896,6 +3896,14 @@
         "url": "https://www.dawn.com/news/2027247/arsenals-defence-presents-acid-test-for-free-scoring-chelsea-in-premier-league-this-week",
         "source": "Dawn",
         "date": "2026-09-03T22:04:07+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
         "img": ""
       },
       {
@@ -4163,14 +4171,6 @@
         "img": ""
       },
       {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
-        "img": ""
-      },
-      {
         "title": "‘Unreasonable’ to say cricket in Pakistan has finished: PCB chief Naqvi",
         "summary": "<p>Pakistan Cricket Board (PCB) chairman Mohsin Naqvi has labelled claims of cricket being finished in the country as “unreasonable”, citing Pakistan’s improved rankings under his tenure to prove otherwise.</p> <p>“South Africa lost to Namibia, India lost to Ireland. At least check there, has cricket finished there?” s",
         "url": "https://www.dawn.com/news/2027140/unreasonable-to-say-cricket-in-pakistan-has-finished-pcb-chief-naqvi",
@@ -4429,6 +4429,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جرگے میں معمولی ٹکر کے تنازعے پر گاڑی کو آگ لگا دی گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830786/karachi-car-set-on-fire-following-a-dispute-over-a-minor-collision-during-a-jirga-2830786/",
+        "source": "Express",
+        "date": "2026-09-03T21:43:06+05:00",
+        "img": ""
+      },
+      {
         "title": "لاہور، ریس لگاتی دو موٹرسائیکلیں آپس میں ٹکرانے سے 4 افراد زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2830785/lahore-four-people-injured-after-two-racing-motorcycles-collide-2830785/",
@@ -4634,14 +4642,6 @@
         "url": "https://www.express.pk/story/2830756/the-government-has-agreed-to-accept-our-proposals-to-abolish-petroleum-levy-hafiz-naeem-2830756/",
         "source": "Express",
         "date": "2026-09-03T12:31:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "سات روزہ وقفے کے بعد سونے اور چاندی کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830755/significant-rise-in-gold-and-silver-prices-after-a-seven-day-hiatus-2830755/",
-        "source": "Express",
-        "date": "2026-09-03T12:21:33+00:00",
         "img": ""
       },
       {
