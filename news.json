@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-05T23:27:07.047994+00:00",
+  "fetched": "2026-09-06T01:56:13.457606+00:00",
   "categories": {
     "international": [
       {
@@ -24,6 +24,14 @@
         "url": "https://www.dawn.com/news/2027584/zverev-grinds-past-halys-gauff-keeps-rolling-at-us-open",
         "source": "Dawn",
         "date": "2026-09-06T04:08:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاسدارانِ انقلاب کے تیل بردار جہازوں پر امریکی حملے کے بعد ایران کا آبنائے ہرمز میں آئل ٹینکرز اور امریکی جہازوں کو نشانہ بنانے کا دعویٰ",
+        "summary": "ایرانی خبر رساں ادارے تسنیم نیوز ایجنسی کے مطابق پاسدارانِ انقلاب کی بحریہ نے آبنائے ہرمز میں ’غیر مجاز راستوں‘ سے گزرنے والے تین آئل ٹینکروں اور امریکہ کے تین جہازوں کو نشانہ بنانے کا دعویٰ کیا ہے۔ اس سے قبل امریکی فوج کی مرکزی کمان نے دعویٰ کیا تھا اس کی فورسز نے پاسدارانِ انقلاب کے تین تیل بردار جہازوں کو تباہ کر دی",
+        "url": "https://www.bbc.co.uk/urdu/live/cw770ndk782gt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-06T01:56:15.474561+00:00",
         "img": ""
       },
       {
@@ -64,14 +72,6 @@
         "url": "https://www.dawn.com/news/2027728/un-agrees-text-on-lethal-autonomous-weapons",
         "source": "Dawn",
         "date": "2026-09-05T23:32:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاسدارانِ انقلاب کے تیل بردار جہازوں پر امریکی حملے کے بعد ایران کا آبنائے ہرمز میں آئل ٹینکرز اور امریکی جہازوں کو نشانہ بنانے کا دعویٰ",
-        "summary": "ایرانی خبر رساں ادارے تسنیم نیوز ایجنسی کے مطابق پاسدارانِ انقلاب کی بحریہ نے آبنائے ہرمز میں ’غیر مجاز راستوں‘ سے گزرنے والے تین آئل ٹینکروں اور امریکہ کے تین جہازوں کو نشانہ بنانے کا دعویٰ کیا ہے۔ اس سے قبل امریکی فوج کی مرکزی کمان نے دعویٰ کیا تھا اس کی فورسز نے پاسدارانِ انقلاب کے تین تیل بردار جہازوں کو تباہ کر دی",
-        "url": "https://www.bbc.co.uk/urdu/live/cw770ndk782gt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-05T23:27:09.474513+00:00",
         "img": ""
       },
       {
@@ -573,6 +573,14 @@
     ],
     "national": [
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
         "title": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "summary": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "url": "https://arynews.tv/defence-daypm-shehbaz-reaffirms-national-unity-and-tribute-to-pakistans-armed-forces",
@@ -587,6 +595,14 @@
         "source": "ARY News",
         "date": "2026-09-06T00:06:44+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T233148.751.jpg"
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
+        "img": ""
       },
       {
         "title": "Baaz Brings a Major Gaming Tournament to Packages Mall: And It’s Live Now!",
@@ -701,6 +717,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Port-Qasim.jpg"
       },
       {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
+        "img": ""
+      },
+      {
         "title": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "summary": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "url": "https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani",
@@ -739,6 +763,14 @@
         "source": "ARY News",
         "date": "2026-09-05T20:04:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NICVD.jpg"
+      },
+      {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
+        "img": ""
       },
       {
         "title": "US military says it destroyed 3 Iranian oil tankers",
@@ -813,12 +845,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Mohsin-Naqvi.jpg"
       },
       {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
         "title": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "summary": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "url": "https://arynews.tv/whatsapp-tests-new-limit-to-let-users-pin-up-to-four-messages-in-chats",
         "source": "ARY News",
         "date": "2026-09-05T18:43:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T183026.729.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
+        "img": ""
       },
       {
         "title": "معاشی استحکام کے اشارے",
@@ -861,22 +909,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T181707.999.jpg"
       },
       {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
         "title": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "summary": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "url": "https://arynews.tv/key-guidelines-for-pakistani-citizens-travelling-to-saudi-arabia-for-work",
@@ -885,44 +917,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/saudi-Arabia-flag.jpg"
       },
       {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
         "title": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "summary": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "url": "https://arynews.tv/apple-iphone-18-launch-event-everything-to-expect-this-wednesday",
         "source": "ARY News",
         "date": "2026-09-05T18:16:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T180644.592.jpg"
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
-        "img": ""
       },
       {
         "title": "Faisalabad police issue fresh guidance on motorcycle number plates",
@@ -1175,6 +1175,14 @@
     ],
     "kpk": [
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
         "title": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "summary": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "url": "https://arynews.tv/defence-daypm-shehbaz-reaffirms-national-unity-and-tribute-to-pakistans-armed-forces",
@@ -1189,6 +1197,14 @@
         "source": "ARY News",
         "date": "2026-09-06T00:06:44+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T233148.751.jpg"
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
+        "img": ""
       },
       {
         "title": "Baaz Brings a Major Gaming Tournament to Packages Mall: And It’s Live Now!",
@@ -1303,6 +1319,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Port-Qasim.jpg"
       },
       {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
+        "img": ""
+      },
+      {
         "title": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "summary": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "url": "https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani",
@@ -1341,6 +1365,14 @@
         "source": "ARY News",
         "date": "2026-09-05T20:04:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NICVD.jpg"
+      },
+      {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
+        "img": ""
       },
       {
         "title": "US military says it destroyed 3 Iranian oil tankers",
@@ -1415,12 +1447,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Mohsin-Naqvi.jpg"
       },
       {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
         "title": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "summary": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "url": "https://arynews.tv/whatsapp-tests-new-limit-to-let-users-pin-up-to-four-messages-in-chats",
         "source": "ARY News",
         "date": "2026-09-05T18:43:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T183026.729.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
+        "img": ""
       },
       {
         "title": "معاشی استحکام کے اشارے",
@@ -1463,22 +1511,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T181707.999.jpg"
       },
       {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
         "title": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "summary": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "url": "https://arynews.tv/key-guidelines-for-pakistani-citizens-travelling-to-saudi-arabia-for-work",
@@ -1487,44 +1519,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/saudi-Arabia-flag.jpg"
       },
       {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
         "title": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "summary": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "url": "https://arynews.tv/apple-iphone-18-launch-event-everything-to-expect-this-wednesday",
         "source": "ARY News",
         "date": "2026-09-05T18:16:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T180644.592.jpg"
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
-        "img": ""
       },
       {
         "title": "Faisalabad police issue fresh guidance on motorcycle number plates",
@@ -1857,6 +1857,22 @@
     ],
     "punjab": [
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Skardu by-election: PPP candidate wins GBA-09, according to unofficial results",
         "summary": "<p>GILGIT: PPP candidate Akhtar Abbas Nashad won the by-election in GBA-09 Skardu-III by a margin of 455 votes after a closely contested race, according to preliminary and unofficial results.</p> <p>Nashad secured 8,040 votes, while his rival, independent candidate Wazir Mohammad Saleem, received 7,585 votes, according",
         "url": "https://www.dawn.com/news/2027668/skardu-by-election-ppp-candidate-wins-gba-09-according-to-unofficial-results",
@@ -1921,6 +1937,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
+        "img": ""
+      },
+      {
         "title": "GB CM constitutes committee to review trekking rules after deadly Broad Peak avalanche",
         "summary": "<p>GILGIT: Gilgit-Baltistan Chief Minister Amjad Hussain has constituted a three-member committee to review the 1999 Trekking Rules and Regulations, according to a statement issued by the CM House on Saturday, a few weeks after 10 mountaineers lost their lives when an <a href=\"https://www.dawn.com/news/2019597/10-climb",
         "url": "https://www.dawn.com/news/2027712/gb-cm-constitutes-committee-to-review-trekking-rules-after-deadly-broad-peak-avalanche",
@@ -1945,6 +1969,14 @@
         "img": ""
       },
       {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
+        "img": ""
+      },
+      {
         "title": "سلمان علی آغا کنگ چارلس سے ملاقات میں شریک کیوں نہیں ہوئے؟ مائیک ہیسن نے وجہ بتا دی",
         "summary": "",
         "url": "https://www.express.pk/story/2831094/why-did-salman-ali-agha-not-attend-the-meeting-with-king-charles-mike-hesson-reveals-the-reason-2831094/",
@@ -1966,6 +1998,22 @@
         "url": "https://www.dawn.com/news/2027704/karachi-police-arrest-two-over-alleged-abduction-of-young-man-in-dha",
         "source": "Dawn",
         "date": "2026-09-05T19:24:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
         "img": ""
       },
       {
@@ -1998,54 +2046,6 @@
         "url": "https://www.express.pk/story/2831084/the-constitution-the-historical-continuity-of-the-federation-2831084/",
         "source": "Express",
         "date": "2026-09-05T18:33:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,22 @@
     ],
     "sindh": [
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Skardu by-election: PPP candidate wins GBA-09, according to unofficial results",
         "summary": "<p>GILGIT: PPP candidate Akhtar Abbas Nashad won the by-election in GBA-09 Skardu-III by a margin of 455 votes after a closely contested race, according to preliminary and unofficial results.</p> <p>Nashad secured 8,040 votes, while his rival, independent candidate Wazir Mohammad Saleem, received 7,585 votes, according",
         "url": "https://www.dawn.com/news/2027668/skardu-by-election-ppp-candidate-wins-gba-09-according-to-unofficial-results",
@@ -2323,6 +2339,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
+        "img": ""
+      },
+      {
         "title": "GB CM constitutes committee to review trekking rules after deadly Broad Peak avalanche",
         "summary": "<p>GILGIT: Gilgit-Baltistan Chief Minister Amjad Hussain has constituted a three-member committee to review the 1999 Trekking Rules and Regulations, according to a statement issued by the CM House on Saturday, a few weeks after 10 mountaineers lost their lives when an <a href=\"https://www.dawn.com/news/2019597/10-climb",
         "url": "https://www.dawn.com/news/2027712/gb-cm-constitutes-committee-to-review-trekking-rules-after-deadly-broad-peak-avalanche",
@@ -2347,6 +2371,14 @@
         "img": ""
       },
       {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
+        "img": ""
+      },
+      {
         "title": "سلمان علی آغا کنگ چارلس سے ملاقات میں شریک کیوں نہیں ہوئے؟ مائیک ہیسن نے وجہ بتا دی",
         "summary": "",
         "url": "https://www.express.pk/story/2831094/why-did-salman-ali-agha-not-attend-the-meeting-with-king-charles-mike-hesson-reveals-the-reason-2831094/",
@@ -2368,6 +2400,22 @@
         "url": "https://www.dawn.com/news/2027704/karachi-police-arrest-two-over-alleged-abduction-of-young-man-in-dha",
         "source": "Dawn",
         "date": "2026-09-05T19:24:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
         "img": ""
       },
       {
@@ -2400,54 +2448,6 @@
         "url": "https://www.express.pk/story/2831084/the-constitution-the-historical-continuity-of-the-federation-2831084/",
         "source": "Express",
         "date": "2026-09-05T18:33:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,14 @@
     ],
     "baloch": [
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
         "title": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "summary": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "url": "https://arynews.tv/defence-daypm-shehbaz-reaffirms-national-unity-and-tribute-to-pakistans-armed-forces",
@@ -2675,6 +2683,14 @@
         "source": "ARY News",
         "date": "2026-09-06T00:06:44+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T233148.751.jpg"
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
+        "img": ""
       },
       {
         "title": "Baaz Brings a Major Gaming Tournament to Packages Mall: And It’s Live Now!",
@@ -2789,6 +2805,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Port-Qasim.jpg"
       },
       {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
+        "img": ""
+      },
+      {
         "title": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "summary": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "url": "https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani",
@@ -2827,6 +2851,14 @@
         "source": "ARY News",
         "date": "2026-09-05T20:04:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NICVD.jpg"
+      },
+      {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
+        "img": ""
       },
       {
         "title": "US military says it destroyed 3 Iranian oil tankers",
@@ -2901,12 +2933,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Mohsin-Naqvi.jpg"
       },
       {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
         "title": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "summary": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "url": "https://arynews.tv/whatsapp-tests-new-limit-to-let-users-pin-up-to-four-messages-in-chats",
         "source": "ARY News",
         "date": "2026-09-05T18:43:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T183026.729.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
+        "img": ""
       },
       {
         "title": "معاشی استحکام کے اشارے",
@@ -2949,22 +2997,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T181707.999.jpg"
       },
       {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
         "title": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "summary": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "url": "https://arynews.tv/key-guidelines-for-pakistani-citizens-travelling-to-saudi-arabia-for-work",
@@ -2973,44 +3005,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/saudi-Arabia-flag.jpg"
       },
       {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
         "title": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "summary": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "url": "https://arynews.tv/apple-iphone-18-launch-event-everything-to-expect-this-wednesday",
         "source": "ARY News",
         "date": "2026-09-05T18:16:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T180644.592.jpg"
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
-        "img": ""
       },
       {
         "title": "Faisalabad police issue fresh guidance on motorcycle number plates",
@@ -3263,6 +3263,14 @@
     ],
     "education": [
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
         "title": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "summary": "Defence Day:PM Shehbaz reaffirms national unity and tribute to Pakistan’s armed forces",
         "url": "https://arynews.tv/defence-daypm-shehbaz-reaffirms-national-unity-and-tribute-to-pakistans-armed-forces",
@@ -3277,6 +3285,14 @@
         "source": "ARY News",
         "date": "2026-09-06T00:06:44+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T233148.751.jpg"
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
+        "img": ""
       },
       {
         "title": "Baaz Brings a Major Gaming Tournament to Packages Mall: And It’s Live Now!",
@@ -3343,6 +3359,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Port-Qasim.jpg"
       },
       {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
+        "img": ""
+      },
+      {
         "title": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "summary": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
         "url": "https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani",
@@ -3373,6 +3397,14 @@
         "source": "ARY News",
         "date": "2026-09-05T20:04:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NICVD.jpg"
+      },
+      {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
+        "img": ""
       },
       {
         "title": "US military says it destroyed 3 Iranian oil tankers",
@@ -3431,12 +3463,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Mohsin-Naqvi.jpg"
       },
       {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
         "title": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "summary": "WhatsApp tests new limit to let users pin up to four messages in chats",
         "url": "https://arynews.tv/whatsapp-tests-new-limit-to-let-users-pin-up-to-four-messages-in-chats",
         "source": "ARY News",
         "date": "2026-09-05T18:43:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T183026.729.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
+        "img": ""
       },
       {
         "title": "معاشی استحکام کے اشارے",
@@ -3479,22 +3527,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T181707.999.jpg"
       },
       {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
         "title": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "summary": "Key guidelines for Pakistani citizens travelling to Saudi Arabia for work",
         "url": "https://arynews.tv/key-guidelines-for-pakistani-citizens-travelling-to-saudi-arabia-for-work",
@@ -3503,44 +3535,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/saudi-Arabia-flag.jpg"
       },
       {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
         "title": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "summary": "Apple iPhone 18 launch event: Everything to expect this Wednesday",
         "url": "https://arynews.tv/apple-iphone-18-launch-event-everything-to-expect-this-wednesday",
         "source": "ARY News",
         "date": "2026-09-05T18:16:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-05T180644.592.jpg"
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
-        "img": ""
       },
       {
         "title": "Faisalabad police issue fresh guidance on motorcycle number plates",
@@ -3891,11 +3891,27 @@
         "img": ""
       },
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
         "title": "India upend Pakistan for seven-wicket win in Women’s Asia Cup",
         "summary": "<p>India brushed Pakistan aside in an emphatic seven-wicket win when the two sides met during the Women’s Asia Cup in Dubai on Saturday, marking India’s seventh Asia Cup triumph against Pakistan in eight matches.</p> <p>Captain Fatima Sana won the toss and chose to bat first, trying to replicate the successful template",
         "url": "https://www.dawn.com/news/2027720/india-upend-pakistan-for-seven-wicket-win-in-womens-asia-cup",
         "source": "Dawn",
         "date": "2026-09-05T23:45:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
         "img": ""
       },
       {
@@ -3923,6 +3939,14 @@
         "img": ""
       },
       {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
+        "img": ""
+      },
+      {
         "title": "زمین اور چاند کے درمیان ممکنہ تنازعات سے متعلق اہم انکشاف",
         "summary": "",
         "url": "https://www.express.pk/story/2831101/space-between-earth-and-moon-2831101/",
@@ -3936,6 +3960,14 @@
         "url": "https://www.express.pk/story/2831099/indian-cricketer-and-actress-express-their-love-in-a-unique-way-they-got-tattoos-of-each-others-handwriting-2831099/",
         "source": "Express",
         "date": "2026-09-05T20:11:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
         "img": ""
       },
       {
@@ -3953,6 +3985,22 @@
         "source": "ARY Sports",
         "date": "2026-09-05T19:30:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-25.jpg"
+      },
+      {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
+        "img": ""
       },
       {
         "title": "معاشی استحکام کے اشارے",
@@ -3984,54 +4032,6 @@
         "url": "https://www.express.pk/story/2831084/the-constitution-the-historical-continuity-of-the-federation-2831084/",
         "source": "Express",
         "date": "2026-09-05T18:33:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
         "img": ""
       },
       {
@@ -4421,6 +4421,22 @@
     ],
     "business": [
       {
+        "title": "جرمنی کی خلائی میدان میں نئی تاریخ رقم، نجی کمپنی کا راکٹ پہلی بار یورپی سرزمین سے مدار پہنچ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831110/germany-makes-history-in-the-space-sector-a-private-companys-rocket-reaches-orbit-from-european-soil-for-the-first-time-2831110/",
+        "source": "Express",
+        "date": "2026-09-06T00:45:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831107/karachi-three-people-injured-in-firing-incidents-across-various-areas-2831107/",
+        "source": "Express",
+        "date": "2026-09-05T23:22:46+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، پولیس مقابلے کے بعد ایک ملزم زخمی حالت میں گرفتار، ایک فرار",
         "summary": "",
         "url": "https://www.express.pk/story/2831106/karachi-one-suspect-arrested-in-injured-condition-after-police-encounter-another-escapes-2831106/",
@@ -4434,6 +4450,14 @@
         "url": "https://www.express.pk/story/2831104/the-pakistan-womens-team-has-played-its-200th-t20-international-match-2831104/",
         "source": "Express",
         "date": "2026-09-05T21:06:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "ملک بھر میں آج یوم دفاع و شہداء پاکستان ملی جوش و جذبے کے ساتھ منایا جا رہا ہے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831113/pakistans-defence-and-martyrs-day-is-being-observed-across-the-country-today-with-national-zeal-and-fervor-2831113/",
+        "source": "Express",
+        "date": "2026-09-05T20:27:47+00:00",
         "img": ""
       },
       {
@@ -4453,11 +4477,35 @@
         "img": ""
       },
       {
+        "title": "یومِ دفاع، صدر اور وزیراعظم کا شہداء کو خراج عقیدت، قومی اتحاد اور مضبوط دفاع کے عزم کا اعادہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831112/defence-day-president-and-prime-minister-pay-tribute-to-martyrs-reiterate-commitment-to-national-unity-and-a-strong-defence-2831112/",
+        "source": "Express",
+        "date": "2026-09-05T20:00:13+00:00",
+        "img": ""
+      },
+      {
         "title": "سلمان علی آغا کنگ چارلس سے ملاقات میں شریک کیوں نہیں ہوئے؟ مائیک ہیسن نے وجہ بتا دی",
         "summary": "",
         "url": "https://www.express.pk/story/2831094/why-did-salman-ali-agha-not-attend-the-meeting-with-king-charles-mike-hesson-reveals-the-reason-2831094/",
         "source": "Express",
         "date": "2026-09-05T19:46:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "کوئٹہ، پولیس اسٹیشن پر دستی بموں سے حملہ، پولیس اہلکار اور راہگیر زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831109/quetta-hand-grenade-attack-on-police-station-police-personnel-and-a-passerby-injured-2831109/",
+        "source": "Express",
+        "date": "2026-09-05T18:59:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "مشرق وسطیٰ میں امریکی اڈے اب کسی کام کے نہیں رہے، سابق سی آئی اے چیف کا بڑا اعتراف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831108/us-bases-in-the-middle-east-are-no-longer-of-any-use-former-cia-chief-makes-major-admission-2831108/",
+        "source": "Express",
+        "date": "2026-09-05T18:40:47+00:00",
         "img": ""
       },
       {
@@ -4490,54 +4538,6 @@
         "url": "https://www.express.pk/story/2831084/the-constitution-the-historical-continuity-of-the-federation-2831084/",
         "source": "Express",
         "date": "2026-09-05T18:33:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی ایس ایل 12 آئندہ سال جنوری میں کرانے کی تجویز سامنے آگئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831083/a-proposal-has-been-put-forward-to-hold-the-next-season-of-the-psl-in-january-of-next-year-2831083/",
-        "source": "Express",
-        "date": "2026-09-05T18:24:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "پمز اسپتال کا سانحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831082/the-pims-hospital-tragedy-2831082/",
-        "source": "Express",
-        "date": "2026-09-05T18:23:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "نیپال کا نوحہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831081/lament-of-nepal-2831081/",
-        "source": "Express",
-        "date": "2026-09-05T18:17:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیرانہ سال قیادت کی آہنی گرفت اور یوتھ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831080/the-iron-grip-of-pirana-saal-leadership-and-youth-2831080/",
-        "source": "Express",
-        "date": "2026-09-05T18:13:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنگ اب میدان میں نہیں، موبائل فون میں لڑی جا رہی ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831079/war-is-no-longer-being-fought-on-the-battlefield-but-on-mobile-phones-2831079/",
-        "source": "Express",
-        "date": "2026-09-05T18:09:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "زمانے کی قسم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831078/by-the-passage-of-time-2831078/",
-        "source": "Express",
-        "date": "2026-09-05T18:05:01+05:00",
         "img": ""
       },
       {
