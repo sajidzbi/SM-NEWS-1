@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-09-07T23:51:11.921190+00:00",
+  "fetched": "2026-09-08T02:04:46.659746+00:00",
   "categories": {
     "international": [
+      {
+        "title": "پیٹرول کی قیمت میں 12 روپے 90 پیسے فی لیٹر اضافہ، ڈیزل بھی مہنگا",
+        "summary": "حکومتِ پاکستان نے پیٹرول اور ہائی سپیڈ ڈیزل کی قیمتوں میں اضافہ کر دیا ہے۔ جاری کردہ نوٹیفکیشن کے مطابق پیٹرول کی قیمت میں 12 روپے 90 پیسے فی لیٹر اضافہ کیا گیا ہے، جس کے بعد پیٹرول کی نئی قیمت 358 روپے 77 پیسے فی لیٹر مقرر کر دی گئی ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c914dengj1m5t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-08T02:04:48.343038+00:00",
+        "img": ""
+      },
       {
         "title": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "summary": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
@@ -48,14 +56,6 @@
         "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
         "source": "Dawn",
         "date": "2026-09-07T23:53:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں 12 روپے 90 پیسے فی لیٹر اضافہ، ڈیزل بھی مہنگا",
-        "summary": "حکومتِ پاکستان نے پیٹرول اور ہائی سپیڈ ڈیزل کی قیمتوں میں اضافہ کر دیا ہے۔ جاری کردہ نوٹیفکیشن کے مطابق پیٹرول کی قیمت میں 12 روپے 90 پیسے فی لیٹر اضافہ کیا گیا ہے، جس کے بعد پیٹرول کی نئی قیمت 358 روپے 77 پیسے فی لیٹر مقرر کر دی گئی ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c914dengj1m5t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-07T23:51:13.603953+00:00",
         "img": ""
       },
       {
@@ -573,12 +573,44 @@
     ],
     "national": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
         "title": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "summary": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "url": "https://arynews.tv/erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham",
         "source": "ARY News",
         "date": "2026-09-08T00:51:33+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Erling-Haaland.jpg"
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
       },
       {
         "title": "Rockstar Games faces trial in Scotland over sackings",
@@ -597,6 +629,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Ayat-Noor.jpg"
       },
       {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
         "title": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "summary": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "url": "https://arynews.tv/new-provinces-khawaja-asif-says-sindh-assemblys-stance-cannot-stop-implementation",
@@ -605,11 +645,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Khawaja-Asif.jpg"
       },
       {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
         "title": "JI submits six proposals as first round of talks with govt concludes",
         "summary": "<p>ISLAMABAD: The first round of talks between Jamaat-i-Islami and the federal government on abolishing the petroleum levy and providing relief to the public concluded in Islamabad on Monday, with the party submitting six key proposals to the government committee.</p> <p>Both sides agreed to hold the next round on Thur",
         "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
         "source": "Dawn",
         "date": "2026-09-07T23:53:54+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
         "img": ""
       },
       {
@@ -901,6 +957,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Driving-licence.jpg"
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
@@ -946,38 +1010,6 @@
         "url": "https://www.dawn.com/news/2028139/mir-raza-murder-case-karachi-police-surgeon-among-4-told-to-appear-before-judicial-commission-tomorrow",
         "source": "Dawn",
         "date": "2026-09-07T18:52:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T17:52:51+05:00",
         "img": ""
       },
       {
@@ -1029,43 +1061,11 @@
         "img": ""
       },
       {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
-        "img": ""
-      },
-      {
         "title": "Islamabad ATC grants ex-senator Mushtaq Ahmad, 95 others bail in AJK protest case",
         "summary": "<p>ISLAMABAD: An anti-terrorism court (ATC) on Monday granted post-arrest bail to all 96 people, including former senator Mushtaq Ahmad, arrested in connection with a <a href=\"https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case\">case</a> registered over",
         "url": "https://www.dawn.com/news/2028111/islamabad-atc-grants-ex-senator-mushtaq-ahmad-95-others-bail-in-ajk-protest-case",
         "source": "Dawn",
         "date": "2026-09-07T13:28:39+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
         "img": ""
       },
       {
@@ -1175,12 +1175,44 @@
     ],
     "kpk": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
         "title": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "summary": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "url": "https://arynews.tv/erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham",
         "source": "ARY News",
         "date": "2026-09-08T00:51:33+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Erling-Haaland.jpg"
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
       },
       {
         "title": "Rockstar Games faces trial in Scotland over sackings",
@@ -1199,6 +1231,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Ayat-Noor.jpg"
       },
       {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
         "title": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "summary": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "url": "https://arynews.tv/new-provinces-khawaja-asif-says-sindh-assemblys-stance-cannot-stop-implementation",
@@ -1207,11 +1247,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Khawaja-Asif.jpg"
       },
       {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
         "title": "JI submits six proposals as first round of talks with govt concludes",
         "summary": "<p>ISLAMABAD: The first round of talks between Jamaat-i-Islami and the federal government on abolishing the petroleum levy and providing relief to the public concluded in Islamabad on Monday, with the party submitting six key proposals to the government committee.</p> <p>Both sides agreed to hold the next round on Thur",
         "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
         "source": "Dawn",
         "date": "2026-09-07T23:53:54+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
         "img": ""
       },
       {
@@ -1503,6 +1559,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Driving-licence.jpg"
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
@@ -1548,38 +1612,6 @@
         "url": "https://www.dawn.com/news/2028139/mir-raza-murder-case-karachi-police-surgeon-among-4-told-to-appear-before-judicial-commission-tomorrow",
         "source": "Dawn",
         "date": "2026-09-07T18:52:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T17:52:51+05:00",
         "img": ""
       },
       {
@@ -1631,43 +1663,11 @@
         "img": ""
       },
       {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
-        "img": ""
-      },
-      {
         "title": "Islamabad ATC grants ex-senator Mushtaq Ahmad, 95 others bail in AJK protest case",
         "summary": "<p>ISLAMABAD: An anti-terrorism court (ATC) on Monday granted post-arrest bail to all 96 people, including former senator Mushtaq Ahmad, arrested in connection with a <a href=\"https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case\">case</a> registered over",
         "url": "https://www.dawn.com/news/2028111/islamabad-atc-grants-ex-senator-mushtaq-ahmad-95-others-bail-in-ajk-protest-case",
         "source": "Dawn",
         "date": "2026-09-07T13:28:39+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
         "img": ""
       },
       {
@@ -1857,11 +1857,67 @@
     ],
     "punjab": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
         "title": "JI submits six proposals as first round of talks with govt concludes",
         "summary": "<p>ISLAMABAD: The first round of talks between Jamaat-i-Islami and the federal government on abolishing the petroleum levy and providing relief to the public concluded in Islamabad on Monday, with the party submitting six key proposals to the government committee.</p> <p>Both sides agreed to hold the next round on Thur",
         "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
         "source": "Dawn",
         "date": "2026-09-07T23:53:54+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
         "img": ""
       },
       {
@@ -1993,6 +2049,14 @@
         "img": ""
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
@@ -2030,38 +2094,6 @@
         "url": "https://www.dawn.com/news/2028139/mir-raza-murder-case-karachi-police-surgeon-among-4-told-to-appear-before-judicial-commission-tomorrow",
         "source": "Dawn",
         "date": "2026-09-07T18:52:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T17:52:51+05:00",
         "img": ""
       },
       {
@@ -2113,43 +2145,11 @@
         "img": ""
       },
       {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
-        "img": ""
-      },
-      {
         "title": "Islamabad ATC grants ex-senator Mushtaq Ahmad, 95 others bail in AJK protest case",
         "summary": "<p>ISLAMABAD: An anti-terrorism court (ATC) on Monday granted post-arrest bail to all 96 people, including former senator Mushtaq Ahmad, arrested in connection with a <a href=\"https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case\">case</a> registered over",
         "url": "https://www.dawn.com/news/2028111/islamabad-atc-grants-ex-senator-mushtaq-ahmad-95-others-bail-in-ajk-protest-case",
         "source": "Dawn",
         "date": "2026-09-07T13:28:39+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
         "img": ""
       },
       {
@@ -2259,11 +2259,67 @@
     ],
     "sindh": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
         "title": "JI submits six proposals as first round of talks with govt concludes",
         "summary": "<p>ISLAMABAD: The first round of talks between Jamaat-i-Islami and the federal government on abolishing the petroleum levy and providing relief to the public concluded in Islamabad on Monday, with the party submitting six key proposals to the government committee.</p> <p>Both sides agreed to hold the next round on Thur",
         "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
         "source": "Dawn",
         "date": "2026-09-07T23:53:54+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
         "img": ""
       },
       {
@@ -2395,6 +2451,14 @@
         "img": ""
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
@@ -2432,30 +2496,6 @@
         "url": "https://www.dawn.com/news/2028139/mir-raza-murder-case-karachi-police-surgeon-among-4-told-to-appear-before-judicial-commission-tomorrow",
         "source": "Dawn",
         "date": "2026-09-07T18:52:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
         "img": ""
       },
       {
@@ -2507,51 +2547,11 @@
         "img": ""
       },
       {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
-        "img": ""
-      },
-      {
         "title": "Islamabad ATC grants ex-senator Mushtaq Ahmad, 95 others bail in AJK protest case",
         "summary": "<p>ISLAMABAD: An anti-terrorism court (ATC) on Monday granted post-arrest bail to all 96 people, including former senator Mushtaq Ahmad, arrested in connection with a <a href=\"https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case\">case</a> registered over",
         "url": "https://www.dawn.com/news/2028111/islamabad-atc-grants-ex-senator-mushtaq-ahmad-95-others-bail-in-ajk-protest-case",
         "source": "Dawn",
         "date": "2026-09-07T13:28:39+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
         "img": ""
       },
       {
@@ -2661,12 +2661,44 @@
     ],
     "baloch": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
         "title": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "summary": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "url": "https://arynews.tv/erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham",
         "source": "ARY News",
         "date": "2026-09-08T00:51:33+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Erling-Haaland.jpg"
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
       },
       {
         "title": "Rockstar Games faces trial in Scotland over sackings",
@@ -2685,6 +2717,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Ayat-Noor.jpg"
       },
       {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
         "title": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "summary": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "url": "https://arynews.tv/new-provinces-khawaja-asif-says-sindh-assemblys-stance-cannot-stop-implementation",
@@ -2693,11 +2733,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Khawaja-Asif.jpg"
       },
       {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
         "title": "JI submits six proposals as first round of talks with govt concludes",
         "summary": "<p>ISLAMABAD: The first round of talks between Jamaat-i-Islami and the federal government on abolishing the petroleum levy and providing relief to the public concluded in Islamabad on Monday, with the party submitting six key proposals to the government committee.</p> <p>Both sides agreed to hold the next round on Thur",
         "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
         "source": "Dawn",
         "date": "2026-09-07T23:53:54+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
         "img": ""
       },
       {
@@ -2989,6 +3045,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Driving-licence.jpg"
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
@@ -3034,30 +3098,6 @@
         "url": "https://www.dawn.com/news/2028139/mir-raza-murder-case-karachi-police-surgeon-among-4-told-to-appear-before-judicial-commission-tomorrow",
         "source": "Dawn",
         "date": "2026-09-07T18:52:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
         "img": ""
       },
       {
@@ -3109,51 +3149,11 @@
         "img": ""
       },
       {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
-        "img": ""
-      },
-      {
         "title": "Islamabad ATC grants ex-senator Mushtaq Ahmad, 95 others bail in AJK protest case",
         "summary": "<p>ISLAMABAD: An anti-terrorism court (ATC) on Monday granted post-arrest bail to all 96 people, including former senator Mushtaq Ahmad, arrested in connection with a <a href=\"https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case\">case</a> registered over",
         "url": "https://www.dawn.com/news/2028111/islamabad-atc-grants-ex-senator-mushtaq-ahmad-95-others-bail-in-ajk-protest-case",
         "source": "Dawn",
         "date": "2026-09-07T13:28:39+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
         "img": ""
       },
       {
@@ -3263,12 +3263,44 @@
     ],
     "education": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
         "title": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "summary": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "url": "https://arynews.tv/erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham",
         "source": "ARY News",
         "date": "2026-09-08T00:51:33+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Erling-Haaland.jpg"
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
       },
       {
         "title": "Rockstar Games faces trial in Scotland over sackings",
@@ -3287,12 +3319,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Ayat-Noor.jpg"
       },
       {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
         "title": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "summary": "New provinces: Khawaja Asif says Sindh Assembly’s stance cannot stop implementation",
         "url": "https://arynews.tv/new-provinces-khawaja-asif-says-sindh-assemblys-stance-cannot-stop-implementation",
         "source": "ARY News",
         "date": "2026-09-08T00:02:12+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Khawaja-Asif.jpg"
+      },
+      {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
+        "img": ""
       },
       {
         "title": "Microsoft uncovers massive phishing campaign exploiting ASCII smuggling technique",
@@ -3551,6 +3607,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Driving-licence.jpg"
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
@@ -3565,30 +3629,6 @@
         "source": "ARY News",
         "date": "2026-09-07T19:20:35+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-07T185559.427.jpg"
-      },
-      {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
-        "img": ""
       },
       {
         "title": "لاہور، پولیس کو رشوت دینے کی کوشش پر دو شہریوں کے خلاف مقدمات درج",
@@ -3620,46 +3660,6 @@
         "url": "https://www.express.pk/story/2831421/iran-oman-talks-safe-strait-of-hormuz-route-final-stage-2831421/",
         "source": "Express",
         "date": "2026-09-07T15:24:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
         "img": ""
       }
     ],
@@ -3867,12 +3867,68 @@
     ],
     "sports": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
         "title": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "summary": "Erling Haaland unveils World Cup jersey collection featuring Neymar, Mbappe, and Jude Bellingham",
         "url": "https://arynews.tv/erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham",
         "source": "ARY Sports",
         "date": "2026-09-08T00:51:33+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Erling-Haaland.jpg"
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan through to Women’s Asia Cup semi-finals as Nashra leads Hong Kong rout",
@@ -4011,6 +4067,14 @@
         "img": ""
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
@@ -4027,36 +4091,12 @@
         "img": ""
       },
       {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
         "title": "Asian Games 2026 cricket schedule, timings revealed",
         "summary": "Asian Games 2026 cricket schedule, timings revealed",
         "url": "https://arynews.tv/asian-games-2026-cricket-schedule-timings-revealed",
         "source": "ARY Sports",
         "date": "2026-09-07T18:06:35+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-29.jpg"
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
-        "img": ""
       },
       {
         "title": "لاہور، پولیس کو رشوت دینے کی کوشش پر دو شہریوں کے خلاف مقدمات درج",
@@ -4139,27 +4179,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PG12-Anchor.jpg"
       },
       {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
         "title": "PCB launches internal disciplinary inquiry amid reports about Imam, Rizwan",
         "summary": "<p>The Pakistan Cricket Board (PCB) on Monday confirmed that it had initiated an internal disciplinary inquiry following reports “concerning discipline and conduct” as the media alleged that investigations involving former Test players Imamul Haq and Mohammad Rizwan have been widened.</p> <p>In a statement, PCB media d",
         "url": "https://www.dawn.com/news/2028120/pcb-launches-internal-disciplinary-inquiry-amid-reports-about-imam-rizwan",
         "source": "Dawn",
         "date": "2026-09-07T13:51:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
         "img": ""
       },
       {
@@ -4185,30 +4209,6 @@
         "source": "ARY Sports",
         "date": "2026-09-07T12:56:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-35.jpg"
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
-        "img": ""
       },
       {
         "title": "Labuschagne makes the cut for Australia Test squad for South Africa",
@@ -4421,11 +4421,67 @@
     ],
     "business": [
       {
+        "title": "سابق کپتان کیون پیٹرسن انگلینڈ مینز وائٹ بال ٹیم کے مینٹور مقرر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831442/former-cricketer-and-captain-kevin-pietersen-appointed-as-mentor-for-the-england-mens-white-ball-team-2831442/",
+        "source": "Express",
+        "date": "2026-09-08T01:16:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی کے ریڈ زون میں بڑی ڈکیتی، ڈاکوؤں نے تاجر سے 3 کروڑ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831440/major-robbery-in-karachis-red-zone-bandits-looted-30-million-rupees-from-a-businessman-2831440/",
+        "source": "Express",
+        "date": "2026-09-08T00:38:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، دو زخمیوں سمیت 3 ڈاکو گرفتار، ایک فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831439/karachi-police-encounters-in-different-areas-of-the-city-3-robbers-including-two-injured-arrested-one-escapes-2831439/",
+        "source": "Express",
+        "date": "2026-09-08T00:26:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، فلائی اوور پر ڈاکوؤں کا ناکہ، متعدد شہری نقدی، موبائل فونز اور قیمتی اشیاء سے محروم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831438/karachi-robbers-ambush-flyover-depriving-several-citizens-of-cash-mobile-phones-and-valuables-2831438/",
+        "source": "Express",
+        "date": "2026-09-08T00:17:37+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt jacks up petrol price by Rs12.90, HSD by Rs3.72",
         "summary": "<iframe id=\"raw-html-6a9f0d0045fff\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
         "url": "https://www.dawn.com/news/2028176/govt-jacks-up-petrol-price-by-rs1290-hsd-by-rs372",
         "source": "Dawn",
         "date": "2026-09-08T00:14:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اورنگی ٹاؤن فرنٹیئر کالونی میں کرنٹ لگنے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831437/young-man-dies-of-electrocution-in-frontier-colony-orangi-town-karachi-2831437/",
+        "source": "Express",
+        "date": "2026-09-08T00:04:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچ، کوچ کی ٹکر سے راہگیر لڑکا جاں بحق، عوام کے تشدد سے کوچ ڈرائیور زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831436/karachi-pedestrian-boy-killed-after-being-hit-by-a-coach-coach-driver-injured-by-a-mob-2831436/",
+        "source": "Express",
+        "date": "2026-09-07T23:55:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، خودکشی کے دو الگ واقعات میں خاتون سمیت دو افراد جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831435/karachi-two-people-including-a-woman-die-in-two-separate-incidents-of-suicide-2831435/",
+        "source": "Express",
+        "date": "2026-09-07T23:47:50+05:00",
         "img": ""
       },
       {
@@ -4525,35 +4581,19 @@
         "img": ""
       },
       {
+        "title": "پی آئی اے کی فضائی میزبان کا اسمگلنگ کے الزام میں ملازمت سے برخاستگی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831441/pia-flight-attendant-likely-to-be-fired-over-smuggling-charges-2831441/",
+        "source": "Express",
+        "date": "2026-09-07T19:48:12+00:00",
+        "img": ""
+      },
+      {
         "title": "ایدھی ہوم میں 65 لاکھ کی ڈکیتی، پولیس ایک ماہ میں بھی ملزمان کا سراغ لگانے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2831418/robbery-of-rs-65-million-at-edhi-home-police-fail-to-trace-the-accused-even-after-a-month-2831418/",
         "source": "Express",
         "date": "2026-09-07T19:31:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "حسن علی کی اہلیہ کی پراسرار پوسٹ، کرکٹر کے مبینہ افیئر کی افواہیں گرم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831415/hassan-ali-wife-stories-spark-cheating-rumours-2831415/",
-        "source": "Express",
-        "date": "2026-09-07T18:48:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "ویمنز ایشیا کپ: پاکستان کی نشرح سندھو کی تباہ کن بولنگ، اہم اعزاز اپنے نام کر لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831412/womens-asia-cup-pakistans-nashra-sandhu-2831412/",
-        "source": "Express",
-        "date": "2026-09-07T18:33:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "روزانہ دہی کھانے کے حیرت انگیز فوائد، صحت پر کیا اثر پڑتا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831409/the-amazing-benefits-of-eating-yogurt-daily-what-are-the-effects-on-health-2831409/",
-        "source": "Express",
-        "date": "2026-09-07T17:54:31+05:00",
         "img": ""
       },
       {
@@ -4586,46 +4626,6 @@
         "url": "https://www.express.pk/story/2831421/iran-oman-talks-safe-strait-of-hormuz-route-final-stage-2831421/",
         "source": "Express",
         "date": "2026-09-07T15:24:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "انتظامی یونٹ یا صوبے کی تقسیم : پیپلزپارٹی کا 10 ستمبر سے وحدت سندھ سیمینارز منعقد کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831416/ppp-announces-to-hold-sindh-unity-seminars-from-september-10-2831416/",
-        "source": "Express",
-        "date": "2026-09-07T13:55:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "جرمنی کے ریاستی الیکشن میں انتہائی دائیں بازو کی مسلم دشمن جماعت کی تاریخی کامیابی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831413/germany-afd-historic-victory-saxony-anhalt-election-2026-2831413/",
-        "source": "Express",
-        "date": "2026-09-07T13:39:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں بہن بھائی پر تشدد کرنے والی بااثر خاتون کی ضمانت منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831410/karachi-bail-granted-to-influential-woman-who-assaulted-a-brother-and-sister-in-defence-2831410/",
-        "source": "Express",
-        "date": "2026-09-07T12:54:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم مصنوعات کی قیمتوں میں بڑا اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831408/petrol-prices-increase-for-8-september-2831408/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:51+00:00",
-        "img": ""
-      },
-      {
-        "title": "مسلم نسل کشی پر عمر قید کاٹنے والے بوسنیا کے قصاب کی فوجی اعزاز کیساتھ آخری رسومات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831407/ratko-mladic-funeral-full-military-honors-serbia-2831407/",
-        "source": "Express",
-        "date": "2026-09-07T12:52:01+00:00",
         "img": ""
       },
       {
