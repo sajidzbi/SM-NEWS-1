@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-12T23:33:52.493561+00:00",
+  "fetched": "2026-09-13T02:05:01.657918+00:00",
   "categories": {
     "international": [
       {
@@ -8,6 +8,14 @@
         "url": "https://www.dawn.com/news/2029516/abdul-qadir-hits-century-as-pakistan-u-19-outclass-england-in-second-youth-odi",
         "source": "Dawn",
         "date": "2026-09-13T03:40:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "’یمن میں جھڑپوں کے باعث کم از کم 76 ہزار افراد بے گھر ہوئے‘: حوثیوں نے امریکہ سے یمن میں مداخلت نہ کرنے کی درخواست کی ہے، ٹرمپ",
+        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ حوثیوں نے امریکہ سے رابطہ کر کے یمن میں مداخلت نہ کرنے کی درخواست کی ہے۔ ان کا کہنا ہے کہ حوثی ہم سے لڑنا نہیں چاہتے۔ دوسری جانب اقوامِ متحدہ کے ادارہ برائے پناہ گزین کا کہنا ہے کہ یمن میں حوثیوں اور حکومتی فورسز کے درمیان حالیہ جھڑپوں کے نتیجے میں کم از کم 76 ہزار افراد اپنے گھ",
+        "url": "https://www.bbc.co.uk/urdu/live/cqzjzv0mrgdlt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-13T02:05:05.509219+00:00",
         "img": ""
       },
       {
@@ -48,14 +56,6 @@
         "url": "https://www.dawn.com/news/2029423/tens-of-thousands-protest-against-far-right-in-germany",
         "source": "Dawn",
         "date": "2026-09-12T23:50:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "’یمن میں جھڑپوں کے باعث کم از کم 76 ہزار افراد بے گھر ہوئے‘: حوثیوں نے امریکہ سے یمن میں مداخلت نہ کرنے کی درخواست کی ہے، ٹرمپ",
-        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ حوثیوں نے امریکہ سے رابطہ کر کے یمن میں مداخلت نہ کرنے کی درخواست کی ہے۔ ان کا کہنا ہے کہ حوثی ہم سے لڑنا نہیں چاہتے۔ دوسری جانب اقوامِ متحدہ کے ادارہ برائے پناہ گزین کا کہنا ہے کہ یمن میں حوثیوں اور حکومتی فورسز کے درمیان حالیہ جھڑپوں کے نتیجے میں کم از کم 76 ہزار افراد اپنے گھ",
-        "url": "https://www.bbc.co.uk/urdu/live/cqzjzv0mrgdlt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-12T23:33:53.805145+00:00",
         "img": ""
       },
       {
@@ -573,12 +573,36 @@
     ],
     "national": [
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
         "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "summary": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "url": "https://arynews.tv/us-judge-rules-that-trump-plan-to-halve-fema-workforce-violated-law",
         "source": "ARY News",
         "date": "2026-09-13T01:10:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
@@ -709,6 +733,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-55.jpg"
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "Coalition partners PPP, PML-N seek to bridge differences amid strained ties",
         "summary": "<p>LAHORE: Differences continued to mar the working relationship between the PPP and PML-N as the coalition partners’ coordination committees met on Saturday to resolve outstanding issues and iron out their differences.</p> <p>The PML-N-led government enjoys a two-thirds majority in the National Asse­mbly with the PPP’",
         "url": "https://www.dawn.com/news/2029403/coalition-partners-ppp-pml-n-seek-to-bridge-differences-amid-strained-ties",
@@ -763,6 +795,14 @@
         "source": "ARY News",
         "date": "2026-09-12T19:29:52+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-6.jpg"
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
+        "img": ""
       },
       {
         "title": "BRICS 2026 agrees to joint declaration in test of unity",
@@ -885,44 +925,12 @@
         "img": ""
       },
       {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
         "title": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "summary": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "url": "https://arynews.tv/kwsc-and-fwo-to-construct-water-pipeline-for-dha-and-clifton",
         "source": "ARY News",
         "date": "2026-09-12T18:01:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Murtaza.jpg"
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
       },
       {
         "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
@@ -1034,14 +1042,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
@@ -1175,12 +1175,36 @@
     ],
     "kpk": [
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
         "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "summary": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "url": "https://arynews.tv/us-judge-rules-that-trump-plan-to-halve-fema-workforce-violated-law",
         "source": "ARY News",
         "date": "2026-09-13T01:10:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
@@ -1311,6 +1335,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-55.jpg"
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "Coalition partners PPP, PML-N seek to bridge differences amid strained ties",
         "summary": "<p>LAHORE: Differences continued to mar the working relationship between the PPP and PML-N as the coalition partners’ coordination committees met on Saturday to resolve outstanding issues and iron out their differences.</p> <p>The PML-N-led government enjoys a two-thirds majority in the National Asse­mbly with the PPP’",
         "url": "https://www.dawn.com/news/2029403/coalition-partners-ppp-pml-n-seek-to-bridge-differences-amid-strained-ties",
@@ -1365,6 +1397,14 @@
         "source": "ARY News",
         "date": "2026-09-12T19:29:52+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-6.jpg"
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
+        "img": ""
       },
       {
         "title": "BRICS 2026 agrees to joint declaration in test of unity",
@@ -1487,44 +1527,12 @@
         "img": ""
       },
       {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
         "title": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "summary": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "url": "https://arynews.tv/kwsc-and-fwo-to-construct-water-pipeline-for-dha-and-clifton",
         "source": "ARY News",
         "date": "2026-09-12T18:01:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Murtaza.jpg"
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
       },
       {
         "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
@@ -1636,14 +1644,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,30 @@
     ],
     "punjab": [
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
         "summary": "",
         "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
@@ -1913,6 +1937,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "Coalition partners PPP, PML-N seek to bridge differences amid strained ties",
         "summary": "<p>LAHORE: Differences continued to mar the working relationship between the PPP and PML-N as the coalition partners’ coordination committees met on Saturday to resolve outstanding issues and iron out their differences.</p> <p>The PML-N-led government enjoys a two-thirds majority in the National Asse­mbly with the PPP’",
         "url": "https://www.dawn.com/news/2029403/coalition-partners-ppp-pml-n-seek-to-bridge-differences-amid-strained-ties",
@@ -1934,6 +1966,14 @@
         "url": "https://www.express.pk/story/2832390/firing-on-deputy-commissioners-convoy-2832390/",
         "source": "Express",
         "date": "2026-09-12T19:32:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
         "img": ""
       },
       {
@@ -2025,38 +2065,6 @@
         "img": ""
       },
       {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
         "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
         "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
@@ -2118,14 +2126,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,30 @@
     ],
     "sindh": [
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
         "summary": "",
         "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
@@ -2315,6 +2339,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "Coalition partners PPP, PML-N seek to bridge differences amid strained ties",
         "summary": "<p>LAHORE: Differences continued to mar the working relationship between the PPP and PML-N as the coalition partners’ coordination committees met on Saturday to resolve outstanding issues and iron out their differences.</p> <p>The PML-N-led government enjoys a two-thirds majority in the National Asse­mbly with the PPP’",
         "url": "https://www.dawn.com/news/2029403/coalition-partners-ppp-pml-n-seek-to-bridge-differences-amid-strained-ties",
@@ -2336,6 +2368,14 @@
         "url": "https://www.express.pk/story/2832390/firing-on-deputy-commissioners-convoy-2832390/",
         "source": "Express",
         "date": "2026-09-12T19:32:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
         "img": ""
       },
       {
@@ -2427,38 +2467,6 @@
         "img": ""
       },
       {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
         "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
         "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
@@ -2520,14 +2528,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
@@ -2661,12 +2661,36 @@
     ],
     "baloch": [
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
         "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "summary": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "url": "https://arynews.tv/us-judge-rules-that-trump-plan-to-halve-fema-workforce-violated-law",
         "source": "ARY News",
         "date": "2026-09-13T01:10:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
@@ -2797,6 +2821,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-55.jpg"
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "Coalition partners PPP, PML-N seek to bridge differences amid strained ties",
         "summary": "<p>LAHORE: Differences continued to mar the working relationship between the PPP and PML-N as the coalition partners’ coordination committees met on Saturday to resolve outstanding issues and iron out their differences.</p> <p>The PML-N-led government enjoys a two-thirds majority in the National Asse­mbly with the PPP’",
         "url": "https://www.dawn.com/news/2029403/coalition-partners-ppp-pml-n-seek-to-bridge-differences-amid-strained-ties",
@@ -2851,6 +2883,14 @@
         "source": "ARY News",
         "date": "2026-09-12T19:29:52+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-6.jpg"
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
+        "img": ""
       },
       {
         "title": "BRICS 2026 agrees to joint declaration in test of unity",
@@ -2973,44 +3013,12 @@
         "img": ""
       },
       {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
         "title": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "summary": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "url": "https://arynews.tv/kwsc-and-fwo-to-construct-water-pipeline-for-dha-and-clifton",
         "source": "ARY News",
         "date": "2026-09-12T18:01:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Murtaza.jpg"
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
       },
       {
         "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
@@ -3122,14 +3130,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
@@ -3263,12 +3263,36 @@
     ],
     "education": [
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
         "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "summary": "US judge rules that Trump plan to halve FEMA workforce violated law",
         "url": "https://arynews.tv/us-judge-rules-that-trump-plan-to-halve-fema-workforce-violated-law",
         "source": "ARY News",
         "date": "2026-09-13T01:10:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
@@ -3375,6 +3399,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-55.jpg"
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan urges global rules for digital assets at UN briefing",
         "summary": "Pakistan urges global rules for digital assets at UN briefing",
         "url": "https://arynews.tv/pakistan-urges-global-rules-for-digital-assets-at-un-briefing",
@@ -3421,6 +3453,14 @@
         "source": "ARY News",
         "date": "2026-09-12T19:29:52+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-6.jpg"
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
+        "img": ""
       },
       {
         "title": "BRICS 2026 agrees to joint declaration in test of unity",
@@ -3527,44 +3567,12 @@
         "img": ""
       },
       {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
         "title": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "summary": "KWSC and FWO to construct water pipeline for DHA and Clifton",
         "url": "https://arynews.tv/kwsc-and-fwo-to-construct-water-pipeline-for-dha-and-clifton",
         "source": "ARY News",
         "date": "2026-09-12T18:01:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Murtaza.jpg"
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
       },
       {
         "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
@@ -3644,14 +3652,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
@@ -3875,6 +3875,30 @@
         "img": ""
       },
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
         "summary": "",
         "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
@@ -3947,6 +3971,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی؛ فوڈ رائیڈر سے لوٹ مار کے دوران مبینہ ڈاکوؤں کی فائرنگ سے ساتھی ڈکیت ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2832392/karachi-robber-killed-in-alleged-robbers-firing-during-robbery-of-food-rider-2832392/",
@@ -3969,6 +4001,14 @@
         "source": "ARY Sports",
         "date": "2026-09-12T19:29:52+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-6.jpg"
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
+        "img": ""
       },
       {
         "title": "کراچی؛ بھتہ نہ دینے پر ماربل کے تاجر کی دکان پر مسلح افراد کی فائرنگ",
@@ -4040,38 +4080,6 @@
         "url": "https://www.express.pk/story/2832375/a-matter-of-justice-2832375/",
         "source": "Express",
         "date": "2026-09-12T18:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
         "img": ""
       },
       {
@@ -4160,14 +4168,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
@@ -4413,6 +4413,30 @@
     ],
     "business": [
       {
+        "title": "کراچی، مختلف علاقوں میں فائرنگ کے واقعات میں بچے سمیت 3 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832403/karachi-three-people-including-a-child-injured-in-separate-firing-incidents-across-various-areas-2832403/",
+        "source": "Express",
+        "date": "2026-09-13T01:32:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رینجرز اور سی ٹی ڈی کی کارروائی میں فتنہ الخوارج کا انتہائی مطلوب دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832402/karachi-highly-wanted-fitna-ul-khawarij-terrorist-killed-in-operation-by-rangers-and-ctd-2832402/",
+        "source": "Express",
+        "date": "2026-09-13T00:28:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
         "summary": "",
         "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
@@ -4445,6 +4469,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، پولیس افسران سے مذاکرات ناکام، متوفی روشم کی لاش کے ہمراہ اہلخانہ کا 5 روز سے دھرنا جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832404/karachi-negotiations-with-police-officers-have-failed-the-family-continues-its-sit-in-protest-with-the-body-of-the-deceased-roshan-for-the-fifth-day-2832404/",
+        "source": "Express",
+        "date": "2026-09-12T20:41:28+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی؛ فوڈ رائیڈر سے لوٹ مار کے دوران مبینہ ڈاکوؤں کی فائرنگ سے ساتھی ڈکیت ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2832392/karachi-robber-killed-in-alleged-robbers-firing-during-robbery-of-food-rider-2832392/",
@@ -4458,6 +4490,14 @@
         "url": "https://www.express.pk/story/2832390/firing-on-deputy-commissioners-convoy-2832390/",
         "source": "Express",
         "date": "2026-09-12T19:32:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
+        "source": "Express",
+        "date": "2026-09-12T19:28:43+05:00",
         "img": ""
       },
       {
@@ -4533,38 +4573,6 @@
         "img": ""
       },
       {
-        "title": "عالمی نقشے: کولونیل تعصب اور سائنسی ڈھکوسلے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832374/world-maps-colonial-bias-and-scientific-pretexts-2832374/",
-        "source": "Express",
-        "date": "2026-09-12T18:08:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایک بیان کا مخمصہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832373/the-dilemma-of-a-statement-2832373/",
-        "source": "Express",
-        "date": "2026-09-12T18:04:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "اقتدار کی چمک اور سیاست کا امتحان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832371/the-allure-of-power-and-the-test-of-politics-2832371/",
-        "source": "Express",
-        "date": "2026-09-12T17:56:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "برائون انگریزکا سسٹم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
-        "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
         "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
         "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
@@ -4594,14 +4602,6 @@
         "url": "https://www.express.pk/story/2832391/all-the-oppressed-and-poor-people-of-the-country-must-unite-to-establish-administrative-units-mustafa-kamal-2832391/",
         "source": "Express",
         "date": "2026-09-12T14:43:15+00:00",
-        "img": ""
-      },
-      {
-        "title": "نائن الیون حملے کے 25 سال مکمل ہونے پر افغانستان میں القاعدہ دوبارہ منظم؛ 8 اڈے قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832388/al-qaeda-regrouping-again-after-25-years-nine-eleven-attack-in-afghanistan-2832388/",
-        "source": "Express",
-        "date": "2026-09-12T14:28:43+00:00",
         "img": ""
       },
       {
