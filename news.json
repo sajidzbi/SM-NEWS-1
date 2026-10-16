@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-15T23:25:19.590836+00:00",
+  "fetched": "2026-10-16T02:15:18.260076+00:00",
   "categories": {
     "international": [
       {
@@ -24,6 +24,22 @@
         "url": "https://www.dawn.com/news/2037475/lyon-down-palace-in-europa-league-sunderland-leave-it-late",
         "source": "Dawn",
         "date": "2026-10-16T03:05:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکہ کے سکول میں فائرنگ، تین بچوں اور ایک استاد سمیت پانچ افراد ہلاک",
+        "summary": "امریکہ کے اوریگن ریاست میں واقع سلور ریل ایلیمنٹری سکول میں فائرنگ کے واقعے میں تین بچوں اور ایک استاد سمیت پانچ افراد ہلاک جبکہ دو افراد شدید زخمی ہو گئے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/ckjweqjw3z0vt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-10-16T02:15:21.298974+00:00",
+        "img": ""
+      },
+      {
+        "title": "’اسے پولیس بہت پسند تھی، وہ افسر بننا چاہتا تھا‘: پشاور میں سکول کی چھت گرنے سے 34 ہلاکتیں اور ادھورے خواب",
+        "summary": "پشاور میں جمعرات کی صبح دیر کالونی میں واقع نجی سکول الخیر ایجوکیشن سینٹر کی چھت گرنے کے واقعے میں مرنے والوں کی تعداد 34 ہو چکی ہے۔ ان میں چھ سے 14 سال کے 33 بچے اور 25 سالہ ٹیچر ثمرین بی بی شامل ہیں۔",
+        "url": "https://www.bbc.com/urdu/articles/c6m2dkw7jwvro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-10-16T01:52:43+00:00",
         "img": ""
       },
       {
@@ -97,14 +113,6 @@
         "source": "ARY News",
         "date": "2026-10-15T23:27:10+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-15T231402.207.jpg"
-      },
-      {
-        "title": "اکتوبر میں ریاض ایئرپورٹ پر 20 حملے ہوئے، حوثیوں نے کشیدگی میں کمی کے لیے ملاقات کی تجویز مسترد کر دی: سعودی حکام",
-        "summary": "سعودی عرب کی قیادت میں قائم فوجی اتحاد کے ترجمان ترکی المالکی کا کہنا تھا کہ ریاض ایئرپورٹ پر حوثیوں کی جانب سے 7 اور 11 اکتوبر کو کیے گئے حملوں میں17 افراد ہلاک اور 333 لوگ زخمی ہوئے۔ دوسری جانب سعودی عرب کی وزارتِ خارجہ میں نائب وزیر برائے پبلک ڈپلومیسی ڈاکٹر راید کریملی کا کہنا ہے کہ ریاض کی جانب سے کشیدگی کم کرنے ک",
-        "url": "https://www.bbc.co.uk/urdu/live/c63elvkn4e51t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-10-15T23:25:21.326794+00:00",
-        "img": ""
       },
       {
         "title": "Minorities in Pakistan continue to face rights violations despite legislative measures to protect them: HRCP",
@@ -419,14 +427,6 @@
         "img": ""
       },
       {
-        "title": "پشاور میں سکول کی چھت گرنے سے 34 ہلاکتیں: ’جیسے ہی میری بھانجی پینسل خریدنے کے لیے باہر نکلی تو چھت گر گئی‘",
-        "summary": "پشاور میں جمعرات کی صبح دیر کالونی میں واقع نجی سکول الخیر ایجوکیشن سینٹر کی چھت گرنے کے واقعے میں مرنے والوں کی تعداد 34 ہو چکی ہے۔ ان میں چھ سے 14 سال عمروں کے 33 بچے اور 25 سالہ ٹیچر ثمرین بی بی شامل ہیں۔",
-        "url": "https://www.bbc.com/urdu/articles/c6m2dkw7jwvro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-10-15T14:13:46+00:00",
-        "img": ""
-      },
-      {
         "title": "مکہ کی مسجد میں فحش حرکات کا الزام: بنگلہ دیشی مرد اور عورت کو سزائے موت دے دی گئی",
         "summary": "سعودی عرب کی وزارت داخلہ کا کہنا ہے کہ مقدس شہر مکہ کی ایک مسجد کے اندر مبینہ فحاشی کے الزام میں ایک بنگلہ دیشی مرد اور خاتون کو سزائے موت دے دی گئی ہے۔",
         "url": "https://www.bbc.com/urdu/articles/cw8dz1575749o?at_medium=RSS&amp;at_campaign=rss",
@@ -565,12 +565,44 @@
     ],
     "national": [
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
         "title": "Martinez apologises for Man United criticism after Carrick talks",
         "summary": "Martinez apologises for Man United criticism after Carrick talks",
         "url": "https://arynews.tv/martinez-apologises-for-man-united-criticism-after-carrick-talks",
         "source": "ARY News",
         "date": "2026-10-16T01:05:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-1.png"
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
       },
       {
         "title": "AI credit worries send default insurance to record high",
@@ -594,6 +626,22 @@
         "url": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse",
         "source": "Dawn",
         "date": "2026-10-16T00:22:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
         "img": ""
       },
       {
@@ -813,6 +861,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "summary": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "url": "https://arynews.tv/i-went-to-get-a-pen-when-the-roof-collapsed-student-recounts-peshawar-tragedy",
@@ -941,30 +997,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
-        "img": ""
-      },
-      {
         "title": "Lahore ATC extends physical remand of PTI's Hammad Azhar",
         "summary": "<p>LAHORE: An anti-terrorism court (ATC) on Thursday extended the physical remand of PTI leader Hammad Azhar by 12 days in the Jinnah House attack case related to the <a href=\"https://www.dawn.com/news/1979447\">May 9 riots</a>.</p> <p>Sarwar Road police had <a href=\"https://www.dawn.com/news/1913143\"><u>booked</u></a> ",
         "url": "https://www.dawn.com/news/2037358/lahore-atc-extends-physical-remand-of-ptis-hammad-azhar",
@@ -1018,38 +1050,6 @@
         "url": "https://www.express.pk/story/2838409/pakistanmalaysia-joint-exercise-harimau-markhore-iv-2838409/",
         "source": "Express",
         "date": "2026-10-15T13:44:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
         "img": ""
       },
       {
@@ -1167,12 +1167,44 @@
     ],
     "kpk": [
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
         "title": "Martinez apologises for Man United criticism after Carrick talks",
         "summary": "Martinez apologises for Man United criticism after Carrick talks",
         "url": "https://arynews.tv/martinez-apologises-for-man-united-criticism-after-carrick-talks",
         "source": "ARY News",
         "date": "2026-10-16T01:05:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-1.png"
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
       },
       {
         "title": "AI credit worries send default insurance to record high",
@@ -1196,6 +1228,22 @@
         "url": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse",
         "source": "Dawn",
         "date": "2026-10-16T00:22:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
         "img": ""
       },
       {
@@ -1415,6 +1463,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "summary": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "url": "https://arynews.tv/i-went-to-get-a-pen-when-the-roof-collapsed-student-recounts-peshawar-tragedy",
@@ -1543,30 +1599,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
-        "img": ""
-      },
-      {
         "title": "Lahore ATC extends physical remand of PTI's Hammad Azhar",
         "summary": "<p>LAHORE: An anti-terrorism court (ATC) on Thursday extended the physical remand of PTI leader Hammad Azhar by 12 days in the Jinnah House attack case related to the <a href=\"https://www.dawn.com/news/1979447\">May 9 riots</a>.</p> <p>Sarwar Road police had <a href=\"https://www.dawn.com/news/1913143\"><u>booked</u></a> ",
         "url": "https://www.dawn.com/news/2037358/lahore-atc-extends-physical-remand-of-ptis-hammad-azhar",
@@ -1623,30 +1655,6 @@
         "img": ""
       },
       {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
         "title": "Nawabs, Sardars and Impunity: Balochistan Lawmaker Pulls No Punches",
         "summary": "QUETTA: Ali Madad Jatak, a lawmaker in Balochistan Assembly, delivered a forceful Balochistan Assembly speech on the floor of the provincial house, criticising what was described as systemic injustice and tribal high-handedness. The legislator spoke about violence against women and ordinary citizens in several district",
         "url": "https://khybernews.tv/nawabs-sardars-and-impunity-balochistan-lawmaker-pulls-no-punches/",
@@ -1660,14 +1668,6 @@
         "url": "https://khybernews.tv/meena-majeed-baloch-i-refuse-to-be-among-oppressors/",
         "source": "Khyber News",
         "date": "2026-10-15T13:04:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
         "img": ""
       },
       {
@@ -1849,11 +1849,59 @@
     ],
     "punjab": [
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
+      },
+      {
         "title": "Teacher, 30 students killed in Peshawar school roof collapse",
         "summary": "<p>PESHAWAR: At least 31 people, including 30 students and a female teacher, were killed when a school roof collapsed in the provincial capital’s Afridi Abad area on Thursday.</p> <p>Lady Reading Hospital (LRH) spokesperson Muhammad Asim initially told <em>Dawn</em> that the death toll had risen to 33, including a fema",
         "url": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse",
         "source": "Dawn",
         "date": "2026-10-16T00:22:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
         "img": ""
       },
       {
@@ -1961,6 +2009,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "تعلیمی اداروں میں بدگمانی کا تدارک، مگر کیسے۔۔۔۔۔ !",
         "summary": "",
         "url": "https://www.express.pk/story/2838415/taleemi-idaron-mein-badgumani-ka-tadaruk-magar-kaise-2838415/",
@@ -2025,30 +2081,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
-        "img": ""
-      },
-      {
         "title": "Lahore ATC extends physical remand of PTI's Hammad Azhar",
         "summary": "<p>LAHORE: An anti-terrorism court (ATC) on Thursday extended the physical remand of PTI leader Hammad Azhar by 12 days in the Jinnah House attack case related to the <a href=\"https://www.dawn.com/news/1979447\">May 9 riots</a>.</p> <p>Sarwar Road police had <a href=\"https://www.dawn.com/news/1913143\"><u>booked</u></a> ",
         "url": "https://www.dawn.com/news/2037358/lahore-atc-extends-physical-remand-of-ptis-hammad-azhar",
@@ -2102,38 +2134,6 @@
         "url": "https://www.express.pk/story/2838409/pakistanmalaysia-joint-exercise-harimau-markhore-iv-2838409/",
         "source": "Express",
         "date": "2026-10-15T13:44:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
         "img": ""
       },
       {
@@ -2251,11 +2251,59 @@
     ],
     "sindh": [
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
+      },
+      {
         "title": "Teacher, 30 students killed in Peshawar school roof collapse",
         "summary": "<p>PESHAWAR: At least 31 people, including 30 students and a female teacher, were killed when a school roof collapsed in the provincial capital’s Afridi Abad area on Thursday.</p> <p>Lady Reading Hospital (LRH) spokesperson Muhammad Asim initially told <em>Dawn</em> that the death toll had risen to 33, including a fema",
         "url": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse",
         "source": "Dawn",
         "date": "2026-10-16T00:22:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
         "img": ""
       },
       {
@@ -2363,6 +2411,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "تعلیمی اداروں میں بدگمانی کا تدارک، مگر کیسے۔۔۔۔۔ !",
         "summary": "",
         "url": "https://www.express.pk/story/2838415/taleemi-idaron-mein-badgumani-ka-tadaruk-magar-kaise-2838415/",
@@ -2427,30 +2483,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
-        "img": ""
-      },
-      {
         "title": "Lahore ATC extends physical remand of PTI's Hammad Azhar",
         "summary": "<p>LAHORE: An anti-terrorism court (ATC) on Thursday extended the physical remand of PTI leader Hammad Azhar by 12 days in the Jinnah House attack case related to the <a href=\"https://www.dawn.com/news/1979447\">May 9 riots</a>.</p> <p>Sarwar Road police had <a href=\"https://www.dawn.com/news/1913143\"><u>booked</u></a> ",
         "url": "https://www.dawn.com/news/2037358/lahore-atc-extends-physical-remand-of-ptis-hammad-azhar",
@@ -2504,38 +2536,6 @@
         "url": "https://www.express.pk/story/2838409/pakistanmalaysia-joint-exercise-harimau-markhore-iv-2838409/",
         "source": "Express",
         "date": "2026-10-15T13:44:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
         "img": ""
       },
       {
@@ -2653,12 +2653,44 @@
     ],
     "baloch": [
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
         "title": "Martinez apologises for Man United criticism after Carrick talks",
         "summary": "Martinez apologises for Man United criticism after Carrick talks",
         "url": "https://arynews.tv/martinez-apologises-for-man-united-criticism-after-carrick-talks",
         "source": "ARY News",
         "date": "2026-10-16T01:05:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-1.png"
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
       },
       {
         "title": "AI credit worries send default insurance to record high",
@@ -2682,6 +2714,22 @@
         "url": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse",
         "source": "Dawn",
         "date": "2026-10-16T00:22:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
         "img": ""
       },
       {
@@ -2901,6 +2949,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "summary": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "url": "https://arynews.tv/i-went-to-get-a-pen-when-the-roof-collapsed-student-recounts-peshawar-tragedy",
@@ -3029,30 +3085,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
-        "img": ""
-      },
-      {
         "title": "Lahore ATC extends physical remand of PTI's Hammad Azhar",
         "summary": "<p>LAHORE: An anti-terrorism court (ATC) on Thursday extended the physical remand of PTI leader Hammad Azhar by 12 days in the Jinnah House attack case related to the <a href=\"https://www.dawn.com/news/1979447\">May 9 riots</a>.</p> <p>Sarwar Road police had <a href=\"https://www.dawn.com/news/1913143\"><u>booked</u></a> ",
         "url": "https://www.dawn.com/news/2037358/lahore-atc-extends-physical-remand-of-ptis-hammad-azhar",
@@ -3106,38 +3138,6 @@
         "url": "https://www.express.pk/story/2838409/pakistanmalaysia-joint-exercise-harimau-markhore-iv-2838409/",
         "source": "Express",
         "date": "2026-10-15T13:44:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
         "img": ""
       },
       {
@@ -3255,12 +3255,44 @@
     ],
     "education": [
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
         "title": "Martinez apologises for Man United criticism after Carrick talks",
         "summary": "Martinez apologises for Man United criticism after Carrick talks",
         "url": "https://arynews.tv/martinez-apologises-for-man-united-criticism-after-carrick-talks",
         "source": "ARY News",
         "date": "2026-10-16T01:05:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-1.png"
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
       },
       {
         "title": "AI credit worries send default insurance to record high",
@@ -3277,6 +3309,22 @@
         "source": "ARY News",
         "date": "2026-10-16T00:23:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Aramco.jpg"
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
+        "img": ""
       },
       {
         "title": "Ahsan Iqbal calls for revival of Pakistan’s hockey glory through youth engagement and private sector support",
@@ -3479,6 +3527,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "summary": "‘I went to get a pen when the roof collapsed’: Student recounts Peshawar tragedy",
         "url": "https://arynews.tv/i-went-to-get-a-pen-when-the-roof-collapsed-student-recounts-peshawar-tragedy",
@@ -3575,30 +3631,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
-        "img": ""
-      },
-      {
         "title": "یہ جعلی اور ہاری ہوئی حکومت ہے اس کے پاس فیصلہ کرنے کی طاقت نہیں، فضل الرحمان",
         "summary": "",
         "url": "https://www.express.pk/story/2838429/this-is-a-fake-and-defeated-government-it-lacks-the-power-to-make-decisions-says-fazl-ur-rehman-2838429/",
@@ -3620,38 +3652,6 @@
         "url": "https://www.express.pk/story/2838409/pakistanmalaysia-joint-exercise-harimau-markhore-iv-2838409/",
         "source": "Express",
         "date": "2026-10-15T13:44:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
         "img": ""
       }
     ],
@@ -3883,12 +3883,60 @@
         "img": ""
       },
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
         "title": "Martinez apologises for Man United criticism after Carrick talks",
         "summary": "Martinez apologises for Man United criticism after Carrick talks",
         "url": "https://arynews.tv/martinez-apologises-for-man-united-criticism-after-carrick-talks",
         "source": "ARY Sports",
         "date": "2026-10-16T01:05:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-1.png"
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
+        "img": ""
       },
       {
         "title": "Sophie Cunningham being treated unfairly on purpose?",
@@ -3995,6 +4043,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "تعلیمی اداروں میں بدگمانی کا تدارک، مگر کیسے۔۔۔۔۔ !",
         "summary": "",
         "url": "https://www.express.pk/story/2838415/taleemi-idaron-mein-badgumani-ka-tadaruk-magar-kaise-2838415/",
@@ -4048,30 +4104,6 @@
         "url": "https://www.express.pk/story/2838410/saudi-coalition-releases-houthi-attack-cruise-missile-interception-footage-2838410/",
         "source": "Express",
         "date": "2026-10-15T18:59:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
         "img": ""
       },
       {
@@ -4171,44 +4203,12 @@
         "img": ""
       },
       {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
         "title": "Sophie Cunningham’s farm adventure takes an unexpected turn",
         "summary": "Sophie Cunningham’s farm adventure takes an unexpected turn",
         "url": "https://arynews.tv/sophie-cunninghams-farm-adventure-takes-an-unexpected-turn",
         "source": "ARY Sports",
         "date": "2026-10-15T13:27:33+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Sophie-Cunninghams-farm.jpg"
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
-        "img": ""
       },
       {
         "title": "Sophie Cunningham breaks silence on Indiana Fever future",
@@ -4397,6 +4397,54 @@
     ],
     "business": [
       {
+        "title": "ٹرمپ نے ایران میں امریکی فوج اتارنے اور جوہری حملے کا امکان مسترد کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838437/trump-ruled-out-the-possibility-of-deploying-american-troops-in-iran-or-launching-a-nuclear-attack-2838437/",
+        "source": "Express",
+        "date": "2026-10-16T02:02:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838436/karachi-police-encounters-in-various-areas-2-bandits-arrested-in-injured-condition-2838436/",
+        "source": "Express",
+        "date": "2026-10-16T01:52:15+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، گیس لیکیج اور فائرنگ کے واقعات میں خاتون پولیس اہلکار سمیت 2 خواتین زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838434/karachi-two-women-including-a-female-police-officer-injured-in-incidents-involving-a-gas-leak-and-a-shooting-2838434/",
+        "source": "Express",
+        "date": "2026-10-16T00:41:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہید ملت روڈ پر کار، رکشا اور موٹرسائیکل میں تصادم، رکشہ ڈرائیور جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838433/karachi-collision-between-a-car-a-rickshaw-and-a-motorcycle-on-shaheed-e-millat-road-rickshaw-driver-killed-2838433/",
+        "source": "Express",
+        "date": "2026-10-16T00:35:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، سائٹ ایریا میں گودام میں آگ، ریسکیو آپریشن کے دوران فائر مین گر کر شدید زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838432/a-fire-broke-out-in-a-warehouse-in-karachis-site-area-5-fire-brigade-vehicles-have-been-summoned-2838432/",
+        "source": "Express",
+        "date": "2026-10-16T00:17:22+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 4 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838431/karachi-police-encounters-in-various-parts-of-the-city-4-bandits-arrested-including-3-who-sustained-injuries-2838431/",
+        "source": "Express",
+        "date": "2026-10-16T00:07:34+05:00",
+        "img": ""
+      },
+      {
         "title": "FBR extends deadline for filing income tax returns to Oct 31",
         "summary": "<p>ISLAMABAD: The Federal Board of Revenue (FBR) has further extended the date for filing income tax returns for 2026 to Oct 31.</p> <p>The notification, posted on the FBR’s X account, said: “In exercise of the powers conferred under Section 214A of the Income Tax Ordinance, 2001, the Federal Board of Revenue is please",
         "url": "https://www.dawn.com/news/2037394/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-31",
@@ -4509,6 +4557,14 @@
         "img": ""
       },
       {
+        "title": "خیبرپختونخوا کے تمام سرکاری اسکولوں کی عمارتوں کا سیفٹی سروے، 26 اکتوبر تک رپورٹ طلب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2838435/safety-survey-of-all-government-school-buildings-in-khyber-pakhtunkhwa-report-sought-by-october-26-2838435/",
+        "source": "Express",
+        "date": "2026-10-15T20:32:02+00:00",
+        "img": ""
+      },
+      {
         "title": "تعلیمی اداروں میں بدگمانی کا تدارک، مگر کیسے۔۔۔۔۔ !",
         "summary": "",
         "url": "https://www.express.pk/story/2838415/taleemi-idaron-mein-badgumani-ka-tadaruk-magar-kaise-2838415/",
@@ -4549,30 +4605,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کمسن لڑکا نالے میں گر کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838407/another-4-year-old-boy-drown-in-nullah-2838407/",
-        "source": "Express",
-        "date": "2026-10-15T18:26:54+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: کینیڈا سے آئے میاں بیوی کی لاشیں ملنے کا معاملہ، گھر سے موبائل فون غائب ہونے کا انکشاف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838403/1-2838403/",
-        "source": "Express",
-        "date": "2026-10-15T18:05:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ نے نضال حسن کی پھانسی براہِ راست نشر کرنے کا فیصلہ واپس لے لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838401/trump-reverses-live-broadcast-plan-nidal-hasan-execution-2838401/",
-        "source": "Express",
-        "date": "2026-10-15T18:01:44+05:00",
-        "img": ""
-      },
-      {
         "title": "یہ جعلی اور ہاری ہوئی حکومت ہے اس کے پاس فیصلہ کرنے کی طاقت نہیں، فضل الرحمان",
         "summary": "",
         "url": "https://www.express.pk/story/2838429/this-is-a-fake-and-defeated-government-it-lacks-the-power-to-make-decisions-says-fazl-ur-rehman-2838429/",
@@ -4602,38 +4634,6 @@
         "url": "https://www.express.pk/story/2838409/pakistanmalaysia-joint-exercise-harimau-markhore-iv-2838409/",
         "source": "Express",
         "date": "2026-10-15T13:44:05+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں جبری زیر حراست وینزویلا کے صدر اور اہلیہ کیخلاف عدالتی سماعت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838408/maduro-wife-plead-not-guilty-torture-conspiracy-charges-2838408/",
-        "source": "Express",
-        "date": "2026-10-15T13:31:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے انکم ٹیکس رولز میں ترامیم کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838405/fbr-income-tax-rules-amendments-2838405/",
-        "source": "Express",
-        "date": "2026-10-15T13:14:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "سالانہ انکم ٹیکس گوشوارے جمع کرانے کی تاریخ میں توسیع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838404/fbr-extend-income-tax-return-filling-date-2838404/",
-        "source": "Express",
-        "date": "2026-10-15T13:12:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت کا پیٹرول کی قیمت میں کمی کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2838400/petrol-price-announced-2838400/",
-        "source": "Express",
-        "date": "2026-10-15T12:54:42+00:00",
         "img": ""
       },
       {
