@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-20T22:48:56.782002+00:00",
+  "fetched": "2026-10-21T01:07:57.035608+00:00",
   "categories": {
     "international": [
       {
@@ -41,6 +41,14 @@
         "source": "ARY News",
         "date": "2026-10-21T01:24:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/US-2026-midterm-elections.jpg"
+      },
+      {
+        "title": "فیلڈ مارشل عاصم منیر کی تہران میں ایرانی صدر، وزیرِ خارجہ سمیت دیگر حکام سے ملاقاتیں",
+        "summary": "یران کے صدر مسعود پزشکیان نے تہران میں پاکستان کے چیف آف ڈیفنس فورسز اور آرمی چیف فیلڈ مارشل عاصم منیر سے ملاقات کی ہے۔ عاصم منیر ایران کے اعلیٰ حکام سے بات چیت کے لیے منگل کو تہران پہنچے تھے اور اُن کے ساتھ اس دورے پر پاکستان کے وفاقی وزیرِ داخلہ محسن نقوی بھی ہیں۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c6q8n7pyq3ldt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-10-21T01:07:58.500273+00:00",
+        "img": ""
       },
       {
         "title": "Real Madrid seek Super League setup payments from Premier League six",
@@ -176,14 +184,6 @@
         "url": "https://www.dawn.com/news/2038528/judicial-commission-points-finger-at-polices-epic-failure-says-mir-raza-was-murdered",
         "source": "Dawn",
         "date": "2026-10-20T22:53:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "فیلڈ مارشل عاصم منیر کی تہران میں ایرانی صدر، وزیرِ خارجہ سمیت دیگر حکام سے ملاقاتیں",
-        "summary": "یران کے صدر مسعود پزشکیان نے تہران میں پاکستان کے چیف آف ڈیفنس فورسز اور آرمی چیف فیلڈ مارشل عاصم منیر سے ملاقات کی ہے۔ عاصم منیر ایران کے اعلیٰ حکام سے بات چیت کے لیے منگل کو تہران پہنچے تھے اور اُن کے ساتھ اس دورے پر پاکستان کے وفاقی وزیرِ داخلہ محسن نقوی بھی ہیں۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c6q8n7pyq3ldt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-10-20T22:48:58.547882+00:00",
         "img": ""
       },
       {
@@ -597,6 +597,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "summary": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "url": "https://arynews.tv/mir-raza-ali-case-father-welcomes-jit-recommendation-says-protest-will-continue",
@@ -605,12 +613,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Hussain-Ali.jpg"
       },
       {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "summary": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "url": "https://arynews.tv/livestock-sector-records-43pc-increase-in-animal-exports-dr-naila",
         "source": "ARY News",
         "date": "2026-10-21T00:13:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Live-stock.jpg"
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
       },
       {
         "title": "New heart study confirms human bodies can handle Mars gravity after spaceflight",
@@ -965,19 +989,27 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
         "img": ""
       },
       {
@@ -986,6 +1018,14 @@
         "url": "https://www.dawn.com/news/2038523/defamation-tribunal-orders-punjab-assembly-opposition-leader-to-pay-rs3m-to-azma-bokhari",
         "source": "Dawn",
         "date": "2026-10-20T17:36:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
         "img": ""
       },
       {
@@ -1013,14 +1053,6 @@
         "img": ""
       },
       {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
         "title": "Health ministry gets Momin Agha as 9th secretary in 19 months",
         "summary": "<p>ISLAMABAD: The health ministry has again gotten a new secretary, with the Establishment Division notifying Momin Agha as the new administrative head.</p> <p>Agha, a BS-22 officer of the Pakistan Administrative Service (PAS), is the ninth secretary to be appointed during the tenure of Health Minister Mustafa Kamal, w",
         "url": "https://www.dawn.com/news/2038508/health-ministry-gets-momin-agha-as-9th-secretary-in-19-months",
@@ -1029,43 +1061,11 @@
         "img": ""
       },
       {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
         "title": "PHC issues notices in petitions challenging governor’s rule, emergency in KP; hearing adjourned till Nov 10",
         "summary": "<p>PESHAWAR: The Peshawar High Court (PHC) on Tuesday issued notices to the federal and Khyber Pakhtunkhwa governments in several petitions challenging the imposition of emergency and governor’s rule in the province on Oct 11.</p> <p>PTI Chairman Barrister Gohar Ali Khan <a href=\"https://www.dawn.com/news/2037118\">move",
         "url": "https://www.dawn.com/news/2038489/phc-issues-notices-in-petitions-challenging-governors-rule-emergency-in-kp-hearing-adjourned-till-nov-10",
         "source": "Dawn",
         "date": "2026-10-20T13:36:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
         "img": ""
       },
       {
@@ -1199,6 +1199,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "summary": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "url": "https://arynews.tv/mir-raza-ali-case-father-welcomes-jit-recommendation-says-protest-will-continue",
@@ -1207,12 +1215,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Hussain-Ali.jpg"
       },
       {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "summary": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "url": "https://arynews.tv/livestock-sector-records-43pc-increase-in-animal-exports-dr-naila",
         "source": "ARY News",
         "date": "2026-10-21T00:13:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Live-stock.jpg"
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
       },
       {
         "title": "New heart study confirms human bodies can handle Mars gravity after spaceflight",
@@ -1567,19 +1591,27 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
         "img": ""
       },
       {
@@ -1588,6 +1620,14 @@
         "url": "https://www.dawn.com/news/2038523/defamation-tribunal-orders-punjab-assembly-opposition-leader-to-pay-rs3m-to-azma-bokhari",
         "source": "Dawn",
         "date": "2026-10-20T17:36:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
         "img": ""
       },
       {
@@ -1615,14 +1655,6 @@
         "img": ""
       },
       {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
         "title": "Health ministry gets Momin Agha as 9th secretary in 19 months",
         "summary": "<p>ISLAMABAD: The health ministry has again gotten a new secretary, with the Establishment Division notifying Momin Agha as the new administrative head.</p> <p>Agha, a BS-22 officer of the Pakistan Administrative Service (PAS), is the ninth secretary to be appointed during the tenure of Health Minister Mustafa Kamal, w",
         "url": "https://www.dawn.com/news/2038508/health-ministry-gets-momin-agha-as-9th-secretary-in-19-months",
@@ -1631,43 +1663,11 @@
         "img": ""
       },
       {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
         "title": "PHC issues notices in petitions challenging governor’s rule, emergency in KP; hearing adjourned till Nov 10",
         "summary": "<p>PESHAWAR: The Peshawar High Court (PHC) on Tuesday issued notices to the federal and Khyber Pakhtunkhwa governments in several petitions challenging the imposition of emergency and governor’s rule in the province on Oct 11.</p> <p>PTI Chairman Barrister Gohar Ali Khan <a href=\"https://www.dawn.com/news/2037118\">move",
         "url": "https://www.dawn.com/news/2038489/phc-issues-notices-in-petitions-challenging-governors-rule-emergency-in-kp-hearing-adjourned-till-nov-10",
         "source": "Dawn",
         "date": "2026-10-20T13:36:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
         "img": ""
       },
       {
@@ -1865,6 +1865,30 @@
         "img": ""
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Maldives president arrives in Pakistan for three-day visit",
         "summary": "<p>Maldives President Dr Mohamed Muizzu arrived in Islamabad on Tuesday on a three-day visit to Pakistan, according to a statement from his office.</p> <p>Muizzu is visiting Pakistan at the invitation of Prime Minister Shehbaz Sharif. The visit marks the first by a Maldivian president to Pakistan in 11 years, and comes",
         "url": "https://www.dawn.com/news/2038493/maldives-president-arrives-in-pakistan-for-three-day-visit",
@@ -2049,19 +2073,27 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
         "img": ""
       },
       {
@@ -2070,6 +2102,14 @@
         "url": "https://www.dawn.com/news/2038523/defamation-tribunal-orders-punjab-assembly-opposition-leader-to-pay-rs3m-to-azma-bokhari",
         "source": "Dawn",
         "date": "2026-10-20T17:36:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
         "img": ""
       },
       {
@@ -2097,14 +2137,6 @@
         "img": ""
       },
       {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
         "title": "Health ministry gets Momin Agha as 9th secretary in 19 months",
         "summary": "<p>ISLAMABAD: The health ministry has again gotten a new secretary, with the Establishment Division notifying Momin Agha as the new administrative head.</p> <p>Agha, a BS-22 officer of the Pakistan Administrative Service (PAS), is the ninth secretary to be appointed during the tenure of Health Minister Mustafa Kamal, w",
         "url": "https://www.dawn.com/news/2038508/health-ministry-gets-momin-agha-as-9th-secretary-in-19-months",
@@ -2113,43 +2145,11 @@
         "img": ""
       },
       {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
         "title": "PHC issues notices in petitions challenging governor’s rule, emergency in KP; hearing adjourned till Nov 10",
         "summary": "<p>PESHAWAR: The Peshawar High Court (PHC) on Tuesday issued notices to the federal and Khyber Pakhtunkhwa governments in several petitions challenging the imposition of emergency and governor’s rule in the province on Oct 11.</p> <p>PTI Chairman Barrister Gohar Ali Khan <a href=\"https://www.dawn.com/news/2037118\">move",
         "url": "https://www.dawn.com/news/2038489/phc-issues-notices-in-petitions-challenging-governors-rule-emergency-in-kp-hearing-adjourned-till-nov-10",
         "source": "Dawn",
         "date": "2026-10-20T13:36:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
         "img": ""
       },
       {
@@ -2267,6 +2267,30 @@
         "img": ""
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Maldives president arrives in Pakistan for three-day visit",
         "summary": "<p>Maldives President Dr Mohamed Muizzu arrived in Islamabad on Tuesday on a three-day visit to Pakistan, according to a statement from his office.</p> <p>Muizzu is visiting Pakistan at the invitation of Prime Minister Shehbaz Sharif. The visit marks the first by a Maldivian president to Pakistan in 11 years, and comes",
         "url": "https://www.dawn.com/news/2038493/maldives-president-arrives-in-pakistan-for-three-day-visit",
@@ -2451,19 +2475,27 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
         "img": ""
       },
       {
@@ -2472,6 +2504,14 @@
         "url": "https://www.dawn.com/news/2038523/defamation-tribunal-orders-punjab-assembly-opposition-leader-to-pay-rs3m-to-azma-bokhari",
         "source": "Dawn",
         "date": "2026-10-20T17:36:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
         "img": ""
       },
       {
@@ -2499,14 +2539,6 @@
         "img": ""
       },
       {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
         "title": "Health ministry gets Momin Agha as 9th secretary in 19 months",
         "summary": "<p>ISLAMABAD: The health ministry has again gotten a new secretary, with the Establishment Division notifying Momin Agha as the new administrative head.</p> <p>Agha, a BS-22 officer of the Pakistan Administrative Service (PAS), is the ninth secretary to be appointed during the tenure of Health Minister Mustafa Kamal, w",
         "url": "https://www.dawn.com/news/2038508/health-ministry-gets-momin-agha-as-9th-secretary-in-19-months",
@@ -2515,43 +2547,11 @@
         "img": ""
       },
       {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
         "title": "PHC issues notices in petitions challenging governor’s rule, emergency in KP; hearing adjourned till Nov 10",
         "summary": "<p>PESHAWAR: The Peshawar High Court (PHC) on Tuesday issued notices to the federal and Khyber Pakhtunkhwa governments in several petitions challenging the imposition of emergency and governor’s rule in the province on Oct 11.</p> <p>PTI Chairman Barrister Gohar Ali Khan <a href=\"https://www.dawn.com/news/2037118\">move",
         "url": "https://www.dawn.com/news/2038489/phc-issues-notices-in-petitions-challenging-governors-rule-emergency-in-kp-hearing-adjourned-till-nov-10",
         "source": "Dawn",
         "date": "2026-10-20T13:36:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
         "img": ""
       },
       {
@@ -2685,6 +2685,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "summary": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "url": "https://arynews.tv/mir-raza-ali-case-father-welcomes-jit-recommendation-says-protest-will-continue",
@@ -2693,12 +2701,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Hussain-Ali.jpg"
       },
       {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "summary": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "url": "https://arynews.tv/livestock-sector-records-43pc-increase-in-animal-exports-dr-naila",
         "source": "ARY News",
         "date": "2026-10-21T00:13:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Live-stock.jpg"
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
       },
       {
         "title": "New heart study confirms human bodies can handle Mars gravity after spaceflight",
@@ -3053,19 +3077,27 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
         "img": ""
       },
       {
@@ -3074,6 +3106,14 @@
         "url": "https://www.dawn.com/news/2038523/defamation-tribunal-orders-punjab-assembly-opposition-leader-to-pay-rs3m-to-azma-bokhari",
         "source": "Dawn",
         "date": "2026-10-20T17:36:41+05:00",
+        "img": ""
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
         "img": ""
       },
       {
@@ -3101,14 +3141,6 @@
         "img": ""
       },
       {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
         "title": "Health ministry gets Momin Agha as 9th secretary in 19 months",
         "summary": "<p>ISLAMABAD: The health ministry has again gotten a new secretary, with the Establishment Division notifying Momin Agha as the new administrative head.</p> <p>Agha, a BS-22 officer of the Pakistan Administrative Service (PAS), is the ninth secretary to be appointed during the tenure of Health Minister Mustafa Kamal, w",
         "url": "https://www.dawn.com/news/2038508/health-ministry-gets-momin-agha-as-9th-secretary-in-19-months",
@@ -3117,43 +3149,11 @@
         "img": ""
       },
       {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
         "title": "PHC issues notices in petitions challenging governor’s rule, emergency in KP; hearing adjourned till Nov 10",
         "summary": "<p>PESHAWAR: The Peshawar High Court (PHC) on Tuesday issued notices to the federal and Khyber Pakhtunkhwa governments in several petitions challenging the imposition of emergency and governor’s rule in the province on Oct 11.</p> <p>PTI Chairman Barrister Gohar Ali Khan <a href=\"https://www.dawn.com/news/2037118\">move",
         "url": "https://www.dawn.com/news/2038489/phc-issues-notices-in-petitions-challenging-governors-rule-emergency-in-kp-hearing-adjourned-till-nov-10",
         "source": "Dawn",
         "date": "2026-10-20T13:36:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
         "img": ""
       },
       {
@@ -3271,6 +3271,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-21T005739.432.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "summary": "Mir Raza Ali case: Father welcomes JIT recommendation, says protest will continue",
         "url": "https://arynews.tv/mir-raza-ali-case-father-welcomes-jit-recommendation-says-protest-will-continue",
@@ -3279,12 +3287,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Hussain-Ali.jpg"
       },
       {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "summary": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
         "url": "https://arynews.tv/livestock-sector-records-43pc-increase-in-animal-exports-dr-naila",
         "source": "ARY News",
         "date": "2026-10-21T00:13:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Live-stock.jpg"
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
       },
       {
         "title": "New heart study confirms human bodies can handle Mars gravity after spaceflight",
@@ -3583,19 +3607,35 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
         "img": ""
       },
       {
@@ -3612,46 +3652,6 @@
         "url": "https://www.express.pk/story/2839319/hormuz-supertanker-naval-mine-fire-iran-claim-2839319/",
         "source": "Express",
         "date": "2026-10-20T14:41:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
         "img": ""
       }
     ],
@@ -3891,6 +3891,30 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-21T005739.432.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
+      },
+      {
         "title": "2026 NBA opening night analysis: Expert odds, best bets, and predictions",
         "summary": "2026 NBA opening night analysis: Expert odds, best bets, and predictions",
         "url": "https://arynews.tv/2026-nba-opening-night-analysis-expert-odds-best-bets-and-predictions",
@@ -4099,19 +4123,27 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
         "img": ""
       },
       {
@@ -4121,6 +4153,14 @@
         "source": "ARY Sports",
         "date": "2026-10-20T17:08:51+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/1-110.jpg"
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
+        "img": ""
       },
       {
         "title": "Swiatek pulls out of Ningbo Open with thigh injury",
@@ -4169,46 +4209,6 @@
         "source": "ARY Sports",
         "date": "2026-10-20T14:25:44+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Sophie-Cunningham-20.jpg"
-      },
-      {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
-        "img": ""
       },
       {
         "title": "New Zealand plot downfall of 'incredible' India teen Sooryavanshi",
@@ -4421,6 +4421,30 @@
     ],
     "business": [
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 7 زخمیوں سمیت 12 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839346/karachi-police-encounters-in-various-parts-of-the-city-12-suspects-arrested-including-7-who-sustained-injuries-2839346/",
+        "source": "Express",
+        "date": "2026-10-21T00:29:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پولیس نے ٹک ٹاکر خاتون پر تشدد کرنے والے ڈرائیور کو گرفتار کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839345/the-police-have-arrested-the-driver-who-assaulted-a-female-tiktoker-2839345/",
+        "source": "Express",
+        "date": "2026-10-21T00:18:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اسٹیل مل سے قیمتی دھاتیں چوری کرنے والے 3 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839344/karachi-3-suspects-arrested-for-stealing-valuable-metals-from-the-steel-mill-2839344/",
+        "source": "Express",
+        "date": "2026-10-21T00:10:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt ups petrol price by Re0.88 per litre, high-speed diesel rate by Re0.53",
         "summary": "<div class=\"raw-html-embed-wrapper\" style=\"width: 100%;\"> <iframe class=\"raw-html-embed\" srcdoc=\"<!DOCTYPE html><html><head><style>body{margin:0;padding:0;font-family:system-ui,-apple-system,sans-serif;overflow-wrap:anywhere;}</style></head><body> <div class=\"fpw-root\"> <div class=\"fpw-header\"> <div class=\"fpw-title\">P",
         "url": "https://www.dawn.com/news/2038559/govt-ups-petrol-price-by-re088-per-litre-high-speed-diesel-rate-by-re053",
@@ -4565,19 +4589,35 @@
         "img": ""
       },
       {
-        "title": "ایم ڈی کیٹ میں کراچی کے طلبہ کے خراب نتائج، سوالنامہ جاری ہونے سے متعلق فیصلہ متوقع",
+        "title": "آئینی عدالت، اے ٹی سی ججز قبل از مدت ہٹانے کا نوٹیفکیشن",
         "summary": "",
-        "url": "https://www.express.pk/story/2839315/poor-results-for-karachi-students-in-mdcat-decision-expected-regarding-the-release-of-the-question-paper-2839315/",
+        "url": "https://www.express.pk/story/2839342/constitutional-court-notification-regarding-the-premature-removal-of-atc-judges-2839342/",
         "source": "Express",
-        "date": "2026-10-20T18:48:23+05:00",
+        "date": "2026-10-20T18:34:55+00:00",
         "img": ""
       },
       {
-        "title": "پشاور میں کپڑا فروخت کرنے والی خاتون کا بے دردی سے قتل",
+        "title": "یتیم بچے وسیم کو گاڑی تلے کچل کر قتل کرنے والا ملزم پولیس مقابلے میں ہلاک",
         "summary": "",
-        "url": "https://www.express.pk/story/2839311/woman-killed-in-peshawar-2839311/",
+        "url": "https://www.express.pk/story/2839341/the-suspect-who-killed-an-orphaned-child-named-waseem-by-running-him-over-with-a-vehicle-has-been-killed-in-a-police-encounter-2839341/",
         "source": "Express",
-        "date": "2026-10-20T18:27:33+05:00",
+        "date": "2026-10-20T18:20:26+00:00",
+        "img": ""
+      },
+      {
+        "title": "میر رضا کیس، کمیشن کی سفارشات پر عملدرآمد کیلیے ذیلی کمیٹی قائم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839340/mir-raza-case-sub-committee-formed-to-implement-commissions-recommendations-2839340/",
+        "source": "Express",
+        "date": "2026-10-20T18:12:48+00:00",
+        "img": ""
+      },
+      {
+        "title": "مارچ میں سینیٹ الیکشن سے قبل کے پی اسمبلی بحال کرنا ہوگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2839339/the-kp-assembly-will-have-to-be-restored-before-the-senate-elections-in-march-2839339/",
+        "source": "Express",
+        "date": "2026-10-20T16:53:49+00:00",
         "img": ""
       },
       {
@@ -4594,46 +4634,6 @@
         "url": "https://www.express.pk/story/2839319/hormuz-supertanker-naval-mine-fire-iran-claim-2839319/",
         "source": "Express",
         "date": "2026-10-20T14:41:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "نئی آٹو پالیسی کے تحت 5 سال میں 6 ارب ڈالر مالیت کی گاڑیاں برآمد کرنے کا ہدف مقرر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839317/new-auto-policy-6-billion-dollars-vehicles-import-2839317/",
-        "source": "Express",
-        "date": "2026-10-20T14:00:57+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر ٹرمپ کا نومبر کے مڈٹرم الیکشن سے پہلے ایران پر حملے کا کوئی ارادہ نہیں، وائٹ ہاؤس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839316/white-house-trump-iran-attack-before-midterms-2839316/",
-        "source": "Express",
-        "date": "2026-10-20T13:52:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "قومی بچت اسکیموں کیلیے منافع کی شرح میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839314/increase-in-profit-rates-for-national-savings-schemes-2839314/",
-        "source": "Express",
-        "date": "2026-10-20T13:40:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "دہشگردی کے خلاف جنگ کیلئے ملنے والے 800 ارب کہاں خرچ ہوئے، کے پی حکومت کا آڈٹ کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839313/where-were-rs800-billion-received-for-the-war-against-terror-spent-kp-govt-decide-to-audit-2839313/",
-        "source": "Express",
-        "date": "2026-10-20T13:38:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا نے مشرقِ وسطیٰ میں 23 بار رجیم چینج میں حصہ ڈالا؛ خصوصی ایلچی نے بھانڈا پھوڑ دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2839310/tom-barrack-us-middle-east-oil-security-policy-2839310/",
-        "source": "Express",
-        "date": "2026-10-20T13:22:32+00:00",
         "img": ""
       },
       {
